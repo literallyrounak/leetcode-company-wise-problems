@@ -1124,7 +1124,7 @@
       "Frequency": 49.6,
       "Acceptance Rate": 0.6443499752842314,
       "Link": "https://leetcode.com/problems/flatten-deeply-nested-array",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "MEDIUM",
@@ -1228,7 +1228,7 @@
       "Frequency": 43.0,
       "Acceptance Rate": 0.7448014383989994,
       "Link": "https://leetcode.com/problems/event-emitter",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "MEDIUM",
@@ -1276,7 +1276,7 @@
       "Frequency": 38.7,
       "Acceptance Rate": 0.7980061175937465,
       "Link": "https://leetcode.com/problems/promise-pool",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "MEDIUM",
@@ -1476,7 +1476,7 @@
       "Frequency": 25.6,
       "Acceptance Rate": 0.830630068621335,
       "Link": "https://leetcode.com/problems/throttle",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "EASY",

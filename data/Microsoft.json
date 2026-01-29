@@ -464,7 +464,7 @@
       "Frequency": 64.4,
       "Acceptance Rate": 0.8212977812647828,
       "Link": "https://leetcode.com/problems/create-hello-world-function",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "HARD",
@@ -696,7 +696,7 @@
       "Frequency": 47.2,
       "Acceptance Rate": 0.6398660382039196,
       "Link": "https://leetcode.com/problems/memoize",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "MEDIUM",

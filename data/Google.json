@@ -526,7 +526,7 @@
       "Frequency": 39.0,
       "Acceptance Rate": 0.8212977812647828,
       "Link": "https://leetcode.com/problems/create-hello-world-function",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "MEDIUM",
@@ -840,7 +840,7 @@
       "Frequency": 65.9,
       "Acceptance Rate": 0.8212977812647828,
       "Link": "https://leetcode.com/problems/create-hello-world-function",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "HARD",
@@ -1424,7 +1424,7 @@
       "Frequency": 39.0,
       "Acceptance Rate": 0.8147031724545858,
       "Link": "https://leetcode.com/problems/create-a-dataframe-from-list",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "EASY",
@@ -1618,7 +1618,7 @@
       "Frequency": 76.8,
       "Acceptance Rate": 0.8212977812647828,
       "Link": "https://leetcode.com/problems/create-hello-world-function",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "MEDIUM",
@@ -2354,7 +2354,7 @@
       "Frequency": 16.0,
       "Acceptance Rate": 0.8518924318016196,
       "Link": "https://leetcode.com/problems/get-the-size-of-a-dataframe",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "HARD",
@@ -2370,7 +2370,7 @@
       "Frequency": 16.0,
       "Acceptance Rate": 0.6295807994256238,
       "Link": "https://leetcode.com/problems/to-be-or-not-to-be",
-      "Topics": NaN
+      "Topics": ""
     },
     {
       "Difficulty": "MEDIUM",
