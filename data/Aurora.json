@@ -1,0 +1,84 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.452148887598132,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.452148887598132,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.452148887598132,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Distinct Islands",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6225556277539093,
+      "Link": "https://leetcode.com/problems/number-of-distinct-islands",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Diameter of Binary Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6358628163246234,
+      "Link": "https://leetcode.com/problems/diameter-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.452148887598132,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Distinct Islands",
+      "Frequency": 74.6,
+      "Acceptance Rate": 0.6225556277539093,
+      "Link": "https://leetcode.com/problems/number-of-distinct-islands",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Diameter of Binary Tree",
+      "Frequency": 74.6,
+      "Acceptance Rate": 0.6358628163246234,
+      "Link": "https://leetcode.com/problems/diameter-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Search II",
+      "Frequency": 74.6,
+      "Acceptance Rate": 0.3732641536078909,
+      "Link": "https://leetcode.com/problems/word-search-ii",
+      "Topics": "Array, String, Backtracking, Trie, Matrix"
+    }
+  ]
+}

@@ -1,0 +1,658 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Score of Non-overlapping Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3064978278953693,
+      "Link": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals",
+      "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4281724754244862,
+      "Link": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree",
+      "Topics": "Array, Tree, Graph, Strongly Connected Component"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Asteroid Collision",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4550073716153288,
+      "Link": "https://leetcode.com/problems/asteroid-collision",
+      "Topics": "Array, Stack, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Robot Collisions",
+      "Frequency": 90.5,
+      "Acceptance Rate": 0.5610641049690483,
+      "Link": "https://leetcode.com/problems/robot-collisions",
+      "Topics": "Array, Stack, Sorting, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimize the Difference Between Target and Chosen Elements",
+      "Frequency": 84.2,
+      "Acceptance Rate": 0.3587066177158844,
+      "Link": "https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Serialize and Deserialize Binary Tree",
+      "Frequency": 84.2,
+      "Acceptance Rate": 0.5896944200034516,
+      "Link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+      "Topics": "String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Food Buckets to Feed the Hamsters",
+      "Frequency": 84.2,
+      "Acceptance Rate": 0.4704515515222482,
+      "Link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+      "Topics": "String, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Apply Operations on Array to Maximize Sum of Squares",
+      "Frequency": 84.2,
+      "Acceptance Rate": 0.4317533157983099,
+      "Link": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares",
+      "Topics": "Array, Hash Table, Greedy, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 84.2,
+      "Acceptance Rate": 0.5499183718923905,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Provinces",
+      "Frequency": 84.2,
+      "Acceptance Rate": 0.6865495230645632,
+      "Link": "https://leetcode.com/problems/number-of-provinces",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Set Matrix Zeroes",
+      "Frequency": 76.0,
+      "Acceptance Rate": 0.6070895622880023,
+      "Link": "https://leetcode.com/problems/set-matrix-zeroes",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Partition Labels",
+      "Frequency": 76.0,
+      "Acceptance Rate": 0.8153348894045592,
+      "Link": "https://leetcode.com/problems/partition-labels",
+      "Topics": "Hash Table, Two Pointers, String, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 76.0,
+      "Acceptance Rate": 0.6510218585991906,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Validate IP Address",
+      "Frequency": 76.0,
+      "Acceptance Rate": 0.2781752462045336,
+      "Link": "https://leetcode.com/problems/validate-ip-address",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 76.0,
+      "Acceptance Rate": 0.5778293416922462,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximize Score After N Operations",
+      "Frequency": 76.0,
+      "Acceptance Rate": 0.5785412456365975,
+      "Link": "https://leetcode.com/problems/maximize-score-after-n-operations",
+      "Topics": "Array, Math, Dynamic Programming, Backtracking, Bit Manipulation, Number Theory, Bitmask"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Greater Numerically Balanced Number",
+      "Frequency": 76.0,
+      "Acceptance Rate": 0.4908348429488163,
+      "Link": "https://leetcode.com/problems/next-greater-numerically-balanced-number",
+      "Topics": "Hash Table, Math, Backtracking, Counting, Enumeration"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Max Points on a Line",
+      "Frequency": 76.0,
+      "Acceptance Rate": 0.2895538357155106,
+      "Link": "https://leetcode.com/problems/max-points-on-a-line",
+      "Topics": "Array, Hash Table, Math, Geometry"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Closest Subsequence Sum",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.4160445423134075,
+      "Link": "https://leetcode.com/problems/closest-subsequence-sum",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Bit Manipulation, Sorting, Bitmask"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Choose Edges to Maximize Score in a Tree",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.5582437275985663,
+      "Link": "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree",
+      "Topics": "Dynamic Programming, Tree, Depth-First Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Create Components With Same Value",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.5196614658299269,
+      "Link": "https://leetcode.com/problems/create-components-with-same-value",
+      "Topics": "Array, Math, Tree, Depth-First Search, Enumeration"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Same-End Substrings",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.6135626674185817,
+      "Link": "https://leetcode.com/problems/number-of-same-end-substrings",
+      "Topics": "Array, Hash Table, String, Counting, Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Count the Number of Powerful Integers",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.4651365700919542,
+      "Link": "https://leetcode.com/problems/count-the-number-of-powerful-integers",
+      "Topics": "Math, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Great Partitions",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.3230350478435334,
+      "Link": "https://leetcode.com/problems/number-of-great-partitions",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Apply Bitwise Operations to Make Strings Equal",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.4172484925420502,
+      "Link": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal",
+      "Topics": "String, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Largest Rectangle in Histogram",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.4737770262582829,
+      "Link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray Sum After One Operation",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.6525722684958353,
+      "Link": "https://leetcode.com/problems/maximum-subarray-sum-after-one-operation",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.5525969358423186,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Time to Revert Word to Initial State I",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.4129997016706443,
+      "Link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i",
+      "Topics": "String, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Time to Revert Word to Initial State II",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.3437109450940095,
+      "Link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii",
+      "Topics": "String, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Count Valid Paths in a Tree",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.3443275638070491,
+      "Link": "https://leetcode.com/problems/count-valid-paths-in-a-tree",
+      "Topics": "Math, Dynamic Programming, Tree, Depth-First Search, Number Theory"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sort Colors",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.6758310923121347,
+      "Link": "https://leetcode.com/problems/sort-colors",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.3707113114190416,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Russian Doll Envelopes",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.3732991914997274,
+      "Link": "https://leetcode.com/problems/russian-doll-envelopes",
+      "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Single Element in a Sorted Array",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.5920692446350735,
+      "Link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Matrix After Queries",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.3122581518062508,
+      "Link": "https://leetcode.com/problems/sum-of-matrix-after-queries",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Longest Valid Parentheses",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.3631310390614595,
+      "Link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "Topics": "String, Dynamic Programming, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Univalue Path",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.4262875699953458,
+      "Link": "https://leetcode.com/problems/longest-univalue-path",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.452148887598132,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.4108479047070338,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4281724754244862,
+      "Link": "https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree",
+      "Topics": "Array, Tree, Graph, Strongly Connected Component"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Apply Operations on Array to Maximize Sum of Squares",
+      "Frequency": 94.5,
+      "Acceptance Rate": 0.4317533157983099,
+      "Link": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares",
+      "Topics": "Array, Hash Table, Greedy, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Greater Numerically Balanced Number",
+      "Frequency": 92.4,
+      "Acceptance Rate": 0.4908348429488163,
+      "Link": "https://leetcode.com/problems/next-greater-numerically-balanced-number",
+      "Topics": "Hash Table, Math, Backtracking, Counting, Enumeration"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximize Score After N Operations",
+      "Frequency": 92.4,
+      "Acceptance Rate": 0.5785412456365975,
+      "Link": "https://leetcode.com/problems/maximize-score-after-n-operations",
+      "Topics": "Array, Math, Dynamic Programming, Backtracking, Bit Manipulation, Number Theory, Bitmask"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Score of Non-overlapping Intervals",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.3064978278953693,
+      "Link": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals",
+      "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Closest Subsequence Sum",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.4160445423134075,
+      "Link": "https://leetcode.com/problems/closest-subsequence-sum",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Bit Manipulation, Sorting, Bitmask"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Time to Revert Word to Initial State II",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.3437109450940095,
+      "Link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii",
+      "Topics": "String, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Choose Edges to Maximize Score in a Tree",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.5582437275985663,
+      "Link": "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree",
+      "Topics": "Dynamic Programming, Tree, Depth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Same-End Substrings",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.6135626674185817,
+      "Link": "https://leetcode.com/problems/number-of-same-end-substrings",
+      "Topics": "Array, Hash Table, String, Counting, Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Count the Number of Powerful Integers",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.4651365700919542,
+      "Link": "https://leetcode.com/problems/count-the-number-of-powerful-integers",
+      "Topics": "Math, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Create Components With Same Value",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.5196614658299269,
+      "Link": "https://leetcode.com/problems/create-components-with-same-value",
+      "Topics": "Array, Math, Tree, Depth-First Search, Enumeration"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Time to Revert Word to Initial State I",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.4129997016706443,
+      "Link": "https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i",
+      "Topics": "String, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Apply Bitwise Operations to Make Strings Equal",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.4172484925420502,
+      "Link": "https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal",
+      "Topics": "String, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray Sum After One Operation",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.6525722684958353,
+      "Link": "https://leetcode.com/problems/maximum-subarray-sum-after-one-operation",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Great Partitions",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.3230350478435334,
+      "Link": "https://leetcode.com/problems/number-of-great-partitions",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Asteroid Collision",
+      "Frequency": 84.5,
+      "Acceptance Rate": 0.4550073716153288,
+      "Link": "https://leetcode.com/problems/asteroid-collision",
+      "Topics": "Array, Stack, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Robot Collisions",
+      "Frequency": 72.9,
+      "Acceptance Rate": 0.5610641049690483,
+      "Link": "https://leetcode.com/problems/robot-collisions",
+      "Topics": "Array, Stack, Sorting, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 67.5,
+      "Acceptance Rate": 0.5499183718923905,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Provinces",
+      "Frequency": 67.5,
+      "Acceptance Rate": 0.6865495230645632,
+      "Link": "https://leetcode.com/problems/number-of-provinces",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimize the Difference Between Target and Chosen Elements",
+      "Frequency": 67.5,
+      "Acceptance Rate": 0.3587066177158844,
+      "Link": "https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Serialize and Deserialize Binary Tree",
+      "Frequency": 67.5,
+      "Acceptance Rate": 0.5896944200034516,
+      "Link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+      "Topics": "String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Food Buckets to Feed the Hamsters",
+      "Frequency": 67.5,
+      "Acceptance Rate": 0.4704515515222482,
+      "Link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+      "Topics": "String, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Validate IP Address",
+      "Frequency": 60.4,
+      "Acceptance Rate": 0.2781752462045336,
+      "Link": "https://leetcode.com/problems/validate-ip-address",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Partition Labels",
+      "Frequency": 60.4,
+      "Acceptance Rate": 0.8153348894045592,
+      "Link": "https://leetcode.com/problems/partition-labels",
+      "Topics": "Hash Table, Two Pointers, String, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Max Points on a Line",
+      "Frequency": 60.4,
+      "Acceptance Rate": 0.2895538357155106,
+      "Link": "https://leetcode.com/problems/max-points-on-a-line",
+      "Topics": "Array, Hash Table, Math, Geometry"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 60.4,
+      "Acceptance Rate": 0.5778293416922462,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Set Matrix Zeroes",
+      "Frequency": 60.4,
+      "Acceptance Rate": 0.6070895622880023,
+      "Link": "https://leetcode.com/problems/set-matrix-zeroes",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 60.4,
+      "Acceptance Rate": 0.6510218585991906,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Largest Rectangle in Histogram",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.4737770262582829,
+      "Link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sort Colors",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.6758310923121347,
+      "Link": "https://leetcode.com/problems/sort-colors",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.4108479047070338,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Univalue Path",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.4262875699953458,
+      "Link": "https://leetcode.com/problems/longest-univalue-path",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Russian Doll Envelopes",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.3732991914997274,
+      "Link": "https://leetcode.com/problems/russian-doll-envelopes",
+      "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Matrix After Queries",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.3122581518062508,
+      "Link": "https://leetcode.com/problems/sum-of-matrix-after-queries",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.452148887598132,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.5525969358423186,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Count Valid Paths in a Tree",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.3443275638070491,
+      "Link": "https://leetcode.com/problems/count-valid-paths-in-a-tree",
+      "Topics": "Math, Dynamic Programming, Tree, Depth-First Search, Number Theory"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Longest Valid Parentheses",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.3631310390614595,
+      "Link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "Topics": "String, Dynamic Programming, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Single Element in a Sorted Array",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.5920692446350735,
+      "Link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.3707113114190416,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Subarray Minimums",
+      "Frequency": 50.5,
+      "Acceptance Rate": 0.3762339004345656,
+      "Link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+      "Topics": "Array, Dynamic Programming, Stack, Monotonic Stack"
+    }
+  ]
+}

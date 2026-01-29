@@ -1,0 +1,58 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4548317505066894,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4548317505066894,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    }
+  ],
+  "4. More Than Six Months": [],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5778293294802928,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Pascal's Triangle",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7702157635192212,
+      "Link": "https://leetcode.com/problems/pascals-triangle",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525966816554347,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4548317505066894,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    }
+  ]
+}

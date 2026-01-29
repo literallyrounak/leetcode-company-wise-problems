@@ -1,0 +1,154 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5291965716793704,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Subarray Minimums",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3762339004345656,
+      "Link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+      "Topics": "Array, Dynamic Programming, Stack, Monotonic Stack"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6456602561882786,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 83.8,
+      "Acceptance Rate": 0.4622521943054309,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add Strings",
+      "Frequency": 76.0,
+      "Acceptance Rate": 0.519038984013859,
+      "Link": "https://leetcode.com/problems/add-strings",
+      "Topics": "Math, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 62.7,
+      "Acceptance Rate": 0.771329050951006,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add to Array-Form of Integer",
+      "Frequency": 55.0,
+      "Acceptance Rate": 0.4507483394218717,
+      "Link": "https://leetcode.com/problems/add-to-array-form-of-integer",
+      "Topics": "Array, Math"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 55.0,
+      "Acceptance Rate": 0.5577703934776272,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Largest Element in an Array",
+      "Frequency": 55.0,
+      "Acceptance Rate": 0.6797705147748462,
+      "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6456602561882786,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 82.8,
+      "Acceptance Rate": 0.4622521943054309,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add Strings",
+      "Frequency": 75.0,
+      "Acceptance Rate": 0.519038984013859,
+      "Link": "https://leetcode.com/problems/add-strings",
+      "Topics": "Math, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.771329050951006,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.5291965716793704,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add to Array-Form of Integer",
+      "Frequency": 53.8,
+      "Acceptance Rate": 0.4507483394218717,
+      "Link": "https://leetcode.com/problems/add-to-array-form-of-integer",
+      "Topics": "Array, Math"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 53.8,
+      "Acceptance Rate": 0.5577704075360636,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Subarray Minimums",
+      "Frequency": 53.8,
+      "Acceptance Rate": 0.3762339004345656,
+      "Link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+      "Topics": "Array, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Largest Element in an Array",
+      "Frequency": 53.8,
+      "Acceptance Rate": 0.6797705147748462,
+      "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+    }
+  ]
+}

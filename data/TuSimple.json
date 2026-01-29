@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Intervals Between Identical Elements",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4493480629767406,
+      "Link": "https://leetcode.com/problems/intervals-between-identical-elements",
+      "Topics": "Array, Hash Table, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count the Number of Good Subsequences",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.505726872246696,
+      "Link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+      "Topics": "Hash Table, Math, String, Combinatorics, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Ways to Earn Points",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5859573746396065,
+      "Link": "https://leetcode.com/problems/number-of-ways-to-earn-points",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Good People Based on Statements",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.510339612716573,
+      "Link": "https://leetcode.com/problems/maximum-good-people-based-on-statements",
+      "Topics": "Array, Backtracking, Bit Manipulation, Enumeration"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Ways to Earn Points",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5859573746396065,
+      "Link": "https://leetcode.com/problems/number-of-ways-to-earn-points",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count the Number of Good Subsequences",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.505726872246696,
+      "Link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+      "Topics": "Hash Table, Math, String, Combinatorics, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Intervals Between Identical Elements",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4493480629767406,
+      "Link": "https://leetcode.com/problems/intervals-between-identical-elements",
+      "Topics": "Array, Hash Table, Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Good People Based on Statements",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.510339612716573,
+      "Link": "https://leetcode.com/problems/maximum-good-people-based-on-statements",
+      "Topics": "Array, Backtracking, Bit Manipulation, Enumeration"
+    }
+  ]
+}

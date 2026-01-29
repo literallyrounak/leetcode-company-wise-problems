@@ -1,0 +1,33 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Intersection of Two Arrays",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7647454128954905,
+      "Link": "https://leetcode.com/problems/intersection-of-two-arrays",
+      "Topics": "Array, Hash Table, Two Pointers, Binary Search, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Intersection of Two Arrays",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7647454128954905,
+      "Link": "https://leetcode.com/problems/intersection-of-two-arrays",
+      "Topics": "Array, Hash Table, Two Pointers, Binary Search, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Majority Element",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6574037471521952,
+      "Link": "https://leetcode.com/problems/majority-element",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Counting"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Flood Fill",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6647648139762219,
+      "Link": "https://leetcode.com/problems/flood-fill",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4108476464353969,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Satisfiability of Equality Equations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5101847530677794,
+      "Link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+      "Topics": "Array, String, Union Find, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6115276408838193,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Satisfiability of Equality Equations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5101847530677794,
+      "Link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+      "Topics": "Array, String, Union Find, Graph"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 66.0,
+      "Acceptance Rate": 0.4108476464353969,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Flood Fill",
+      "Frequency": 66.0,
+      "Acceptance Rate": 0.6647648139762219,
+      "Link": "https://leetcode.com/problems/flood-fill",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 66.0,
+      "Acceptance Rate": 0.6115276408838193,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    }
+  ]
+}

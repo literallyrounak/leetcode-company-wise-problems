@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Boundary of Binary Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4715862928790685,
+      "Link": "https://leetcode.com/problems/boundary-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Coin Change",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.464957320920135,
+      "Link": "https://leetcode.com/problems/coin-change",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6175467587896241,
+      "Link": "https://leetcode.com/problems/add-two-numbers-ii",
+      "Topics": "Linked List, Math, Stack"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Boundary of Binary Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4715862928790685,
+      "Link": "https://leetcode.com/problems/boundary-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Coin Change",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.464957320920135,
+      "Link": "https://leetcode.com/problems/coin-change",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6175467587896241,
+      "Link": "https://leetcode.com/problems/add-two-numbers-ii",
+      "Topics": "Linked List, Math, Stack"
+    }
+  ]
+}

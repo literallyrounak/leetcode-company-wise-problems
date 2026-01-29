@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Total Cost to Hire K Workers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4310623421785049,
+      "Link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+      "Topics": "Array, Two Pointers, Heap (Priority Queue), Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximal Square",
+      "Frequency": 84.1,
+      "Acceptance Rate": 0.4876422601899655,
+      "Link": "https://leetcode.com/problems/maximal-square",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Total Cost to Hire K Workers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4310623421785049,
+      "Link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+      "Topics": "Array, Two Pointers, Heap (Priority Queue), Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximal Square",
+      "Frequency": 93.3,
+      "Acceptance Rate": 0.4876422601899655,
+      "Link": "https://leetcode.com/problems/maximal-square",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    }
+  ]
+}

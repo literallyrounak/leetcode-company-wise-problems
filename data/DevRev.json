@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5526330512426134,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Check If Array Pairs Are Divisible by k",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4620177944733665,
+      "Link": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k",
+      "Topics": "Array, Hash Table, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.4815474272067798,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.6280482926741051,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5526330512426134,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Check If Array Pairs Are Divisible by k",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4620177944733665,
+      "Link": "https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k",
+      "Topics": "Array, Hash Table, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 89.1,
+      "Acceptance Rate": 0.4815474272067798,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 89.1,
+      "Acceptance Rate": 0.6280482926741051,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    }
+  ]
+}

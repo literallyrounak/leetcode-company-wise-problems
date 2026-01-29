@@ -1,0 +1,97 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5577702792380397,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525967873583412,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4381466368571819,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "N-Repeated Element in Size 2N Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7747973064210272,
+      "Link": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "N-Repeated Element in Size 2N Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7747973064210272,
+      "Link": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 72.2,
+      "Acceptance Rate": 0.5525967873583412,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 62.9,
+      "Acceptance Rate": 0.5577702792380397,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 62.9,
+      "Acceptance Rate": 0.4381466368571819,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Construct Binary Search Tree from Preorder Traversal",
+      "Frequency": 62.9,
+      "Acceptance Rate": 0.8328129321513312,
+      "Link": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal",
+      "Topics": "Array, Stack, Tree, Binary Search Tree, Monotonic Stack, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Palindrome",
+      "Frequency": 62.9,
+      "Acceptance Rate": 0.5556746201695723,
+      "Link": "https://leetcode.com/problems/longest-palindrome",
+      "Topics": "Hash Table, String, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pairs of Songs With Total Durations Divisible by 60",
+      "Frequency": 62.9,
+      "Acceptance Rate": 0.5324771514259002,
+      "Link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+      "Topics": "Array, Hash Table, Counting"
+    }
+  ]
+}

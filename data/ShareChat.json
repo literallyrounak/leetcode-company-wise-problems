@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Amount of Time for Binary Tree to Be Infected",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6373515517663223,
+      "Link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+      "Topics": "Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximum Count of Positive Integer and Negative Integer",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7446745422883231,
+      "Link": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer",
+      "Topics": "Array, Binary Search, Counting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximum Count of Positive Integer and Negative Integer",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7446745422883231,
+      "Link": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer",
+      "Topics": "Array, Binary Search, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Amount of Time for Binary Tree to Be Infected",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6373515517663223,
+      "Link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+      "Topics": "Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    }
+  ]
+}

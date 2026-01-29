@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Knight Dialer",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6120918922213703,
+      "Link": "https://leetcode.com/problems/knight-dialer",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Strictly Increasing Subarrays",
+      "Frequency": 84.6,
+      "Acceptance Rate": 0.712633953750705,
+      "Link": "https://leetcode.com/problems/count-strictly-increasing-subarrays",
+      "Topics": "Array, Math, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Strictly Increasing Subarrays",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.712633953750705,
+      "Link": "https://leetcode.com/problems/count-strictly-increasing-subarrays",
+      "Topics": "Array, Math, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Knight Dialer",
+      "Frequency": 86.4,
+      "Acceptance Rate": 0.6120918922213703,
+      "Link": "https://leetcode.com/problems/knight-dialer",
+      "Topics": "Dynamic Programming"
+    }
+  ]
+}

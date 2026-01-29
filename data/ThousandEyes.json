@@ -1,0 +1,81 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Clone Graph",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6238601074675428,
+      "Link": "https://leetcode.com/problems/clone-graph",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5499172170512081,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design In-Memory File System",
+      "Frequency": 90.1,
+      "Acceptance Rate": 0.4816892756192675,
+      "Link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "Topics": "Hash Table, String, Design, Trie, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 90.1,
+      "Acceptance Rate": 0.4521498016545738,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Clone Graph",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6238601074675428,
+      "Link": "https://leetcode.com/problems/clone-graph",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5499172170512081,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 89.5,
+      "Acceptance Rate": 0.4521499177481188,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design In-Memory File System",
+      "Frequency": 89.5,
+      "Acceptance Rate": 0.4816892756192675,
+      "Link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "Topics": "Hash Table, String, Design, Trie, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Cache With Time Limit",
+      "Frequency": 89.5,
+      "Acceptance Rate": 0.7578510164111569,
+      "Link": "https://leetcode.com/problems/cache-with-time-limit",
+      "Topics": NaN
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Replace the Substring for Balanced String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3957869695341877,
+      "Link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+      "Topics": "String, Sliding Window"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Replace the Substring for Balanced String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3957869695341877,
+      "Link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+      "Topics": "String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 90.2,
+      "Acceptance Rate": 0.5577705216460996,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Replace the Substring for Balanced String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3957869695341877,
+      "Link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+      "Topics": "String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 83.2,
+      "Acceptance Rate": 0.5577705039146774,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Replace the Substring for Balanced String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3957927653982292,
+      "Link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+      "Topics": "String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Climbing Stairs",
+      "Frequency": 95.2,
+      "Acceptance Rate": 0.5354085753677094,
+      "Link": "https://leetcode.com/problems/climbing-stairs",
+      "Topics": "Math, Dynamic Programming, Memoization"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 81.7,
+      "Acceptance Rate": 0.5577705039146774,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 81.7,
+      "Acceptance Rate": 0.4232291347030246,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 81.7,
+      "Acceptance Rate": 0.3584621823003475,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 70.9,
+      "Acceptance Rate": 0.369361859184929,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 70.9,
+      "Acceptance Rate": 0.4548320473937586,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 70.9,
+      "Acceptance Rate": 0.651022298695307,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Binary Tree Right Side View",
+      "Frequency": 70.9,
+      "Acceptance Rate": 0.6704285161286567,
+      "Link": "https://leetcode.com/problems/binary-tree-right-side-view",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Vowels of a String",
+      "Frequency": 70.9,
+      "Acceptance Rate": 0.5818756373537052,
+      "Link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Operations to Turn Array Into a Palindrome",
+      "Frequency": 70.9,
+      "Acceptance Rate": 0.689995052707691,
+      "Link": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Common Subsequence",
+      "Frequency": 70.9,
+      "Acceptance Rate": 0.5824930968693021,
+      "Link": "https://leetcode.com/problems/longest-common-subsequence",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 70.9,
+      "Acceptance Rate": 0.4283739714438305,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove Duplicates from Sorted Array II",
+      "Frequency": 70.9,
+      "Acceptance Rate": 0.6290213081051084,
+      "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 70.9,
+      "Acceptance Rate": 0.552596978623341,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Replace the Substring for Balanced String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3957927653982292,
+      "Link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+      "Topics": "String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Operations to Turn Array Into a Palindrome",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.689995052707691,
+      "Link": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 72.8,
+      "Acceptance Rate": 0.5577705039146774,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Climbing Stairs",
+      "Frequency": 72.8,
+      "Acceptance Rate": 0.5354085753677094,
+      "Link": "https://leetcode.com/problems/climbing-stairs",
+      "Topics": "Math, Dynamic Programming, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 62.0,
+      "Acceptance Rate": 0.369361859184929,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Binary Tree Right Side View",
+      "Frequency": 62.0,
+      "Acceptance Rate": 0.6704285161286567,
+      "Link": "https://leetcode.com/problems/binary-tree-right-side-view",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 62.0,
+      "Acceptance Rate": 0.4232291347030246,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 62.0,
+      "Acceptance Rate": 0.3584621823003475,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.651022298695307,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.4548320473937586,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Vowels of a String",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.5818756373537052,
+      "Link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.4283739714438305,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Common Subsequence",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.5824930968693021,
+      "Link": "https://leetcode.com/problems/longest-common-subsequence",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove Duplicates from Sorted Array II",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.6290213081051084,
+      "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.5778298514687346,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Asteroid Collision",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.4550098688694731,
+      "Link": "https://leetcode.com/problems/asteroid-collision",
+      "Topics": "Array, Stack, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.5525969314041788,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ]
+}

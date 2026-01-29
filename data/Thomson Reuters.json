@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Of All Vowels in Order",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.505407116626567,
+      "Link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+      "Topics": "String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Minimum Time to Type Word Using Special Typewriter",
+      "Frequency": 89.9,
+      "Acceptance Rate": 0.7771306948017184,
+      "Link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+      "Topics": "String, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Roman to Integer",
+      "Frequency": 89.9,
+      "Acceptance Rate": 0.6486655269483809,
+      "Link": "https://leetcode.com/problems/roman-to-integer",
+      "Topics": "Hash Table, Math, String"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Of All Vowels in Order",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.505407116626567,
+      "Link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+      "Topics": "String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Minimum Time to Type Word Using Special Typewriter",
+      "Frequency": 98.1,
+      "Acceptance Rate": 0.7771306948017184,
+      "Link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+      "Topics": "String, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Roman to Integer",
+      "Frequency": 65.3,
+      "Acceptance Rate": 0.6486655269483809,
+      "Link": "https://leetcode.com/problems/roman-to-integer",
+      "Topics": "Hash Table, Math, String"
+    }
+  ]
+}

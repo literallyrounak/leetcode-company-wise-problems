@@ -1,0 +1,130 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5577699076389886,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5577699216974729,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.5525963802478652,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "4. More Than Six Months": [],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5577699039659807,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 94.1,
+      "Acceptance Rate": 0.4232287729354669,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Anagram",
+      "Frequency": 86.5,
+      "Acceptance Rate": 0.6666097010751223,
+      "Link": "https://leetcode.com/problems/valid-anagram",
+      "Topics": "Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 86.5,
+      "Acceptance Rate": 0.5525963802478652,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subsets",
+      "Frequency": 75.8,
+      "Acceptance Rate": 0.8087943224256119,
+      "Link": "https://leetcode.com/problems/subsets",
+      "Topics": "Array, Backtracking, Bit Manipulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Fizz Buzz",
+      "Frequency": 75.8,
+      "Acceptance Rate": 0.7437059893592051,
+      "Link": "https://leetcode.com/problems/fizz-buzz",
+      "Topics": "Math, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 75.8,
+      "Acceptance Rate": 0.5778289005385611,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 75.8,
+      "Acceptance Rate": 0.7790168587503742,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 75.8,
+      "Acceptance Rate": 0.3584614184401339,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Candy",
+      "Frequency": 75.8,
+      "Acceptance Rate": 0.4669983592386035,
+      "Link": "https://leetcode.com/problems/candy",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Gas Station",
+      "Frequency": 75.8,
+      "Acceptance Rate": 0.4638358809318818,
+      "Link": "https://leetcode.com/problems/gas-station",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Coin Change",
+      "Frequency": 75.8,
+      "Acceptance Rate": 0.4649557971017352,
+      "Link": "https://leetcode.com/problems/coin-change",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search"
+    }
+  ]
+}

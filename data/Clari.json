@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Unique Binary Search Trees",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6244500193762875,
+      "Link": "https://leetcode.com/problems/unique-binary-search-trees",
+      "Topics": "Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Create Binary Tree From Descriptions",
+      "Frequency": 90.1,
+      "Acceptance Rate": 0.8164001540301169,
+      "Link": "https://leetcode.com/problems/create-binary-tree-from-descriptions",
+      "Topics": "Array, Hash Table, Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Employees of the Same Salary",
+      "Frequency": 90.1,
+      "Acceptance Rate": 0.6631807047296024,
+      "Link": "https://leetcode.com/problems/group-employees-of-the-same-salary",
+      "Topics": "Database"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Create Binary Tree From Descriptions",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8164001540301169,
+      "Link": "https://leetcode.com/problems/create-binary-tree-from-descriptions",
+      "Topics": "Array, Hash Table, Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Employees of the Same Salary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6631807047296024,
+      "Link": "https://leetcode.com/problems/group-employees-of-the-same-salary",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Unique Binary Search Trees",
+      "Frequency": 81.1,
+      "Acceptance Rate": 0.6244500193762875,
+      "Link": "https://leetcode.com/problems/unique-binary-search-trees",
+      "Topics": "Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree"
+    }
+  ]
+}

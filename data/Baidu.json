@@ -1,0 +1,169 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Arithmetic Slices II - Subsequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5454429945054945,
+      "Link": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Out of Boundary Paths",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.4814793718672228,
+      "Link": "https://leetcode.com/problems/out-of-boundary-paths",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Zuma Game",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.3143958318464064,
+      "Link": "https://leetcode.com/problems/zuma-game",
+      "Topics": "String, Dynamic Programming, Stack, Breadth-First Search, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Length of Longest Fibonacci Subsequence",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.575965163992327,
+      "Link": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence",
+      "Topics": "Array, Hash Table, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring with At Least K Repeating Characters",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.4545230355341329,
+      "Link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+      "Topics": "Hash Table, String, Divide and Conquer, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design In-Memory File System",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.4816895603861541,
+      "Link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "Topics": "Hash Table, String, Design, Trie, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Integer Replacement",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.3652932795060555,
+      "Link": "https://leetcode.com/problems/integer-replacement",
+      "Topics": "Dynamic Programming, Greedy, Bit Manipulation, Memoization"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Split Array Largest Sum",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.5809995792229651,
+      "Link": "https://leetcode.com/problems/split-array-largest-sum",
+      "Topics": "Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Binary Tree Maximum Path Sum",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.4122428233060009,
+      "Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Arithmetic Slices",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.6482642125781026,
+      "Link": "https://leetcode.com/problems/arithmetic-slices",
+      "Topics": "Array, Dynamic Programming, Sliding Window"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Arithmetic Slices II - Subsequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5454429945054945,
+      "Link": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Binary Tree Maximum Path Sum",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.4122428233060009,
+      "Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring with At Least K Repeating Characters",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.4545230355341329,
+      "Link": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+      "Topics": "Hash Table, String, Divide and Conquer, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Integer Replacement",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.3652932795060555,
+      "Link": "https://leetcode.com/problems/integer-replacement",
+      "Topics": "Dynamic Programming, Greedy, Bit Manipulation, Memoization"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Split Array Largest Sum",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.5809995792229651,
+      "Link": "https://leetcode.com/problems/split-array-largest-sum",
+      "Topics": "Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Arithmetic Slices",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.6482642125781026,
+      "Link": "https://leetcode.com/problems/arithmetic-slices",
+      "Topics": "Array, Dynamic Programming, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Zuma Game",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.3143958318464064,
+      "Link": "https://leetcode.com/problems/zuma-game",
+      "Topics": "String, Dynamic Programming, Stack, Breadth-First Search, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Out of Boundary Paths",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.4814793718672228,
+      "Link": "https://leetcode.com/problems/out-of-boundary-paths",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design In-Memory File System",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.4816895603861541,
+      "Link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "Topics": "Hash Table, String, Design, Trie, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Length of Longest Fibonacci Subsequence",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.575965163992327,
+      "Link": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence",
+      "Topics": "Array, Hash Table, Dynamic Programming"
+    }
+  ]
+}

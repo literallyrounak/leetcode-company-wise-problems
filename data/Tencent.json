@@ -1,0 +1,259 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6115259200424883,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6115259200424883,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Factorization",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3380261620450853,
+      "Link": "https://leetcode.com/problems/minimum-factorization",
+      "Topics": "Math, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Remove Boxes",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4829246222061351,
+      "Link": "https://leetcode.com/problems/remove-boxes",
+      "Topics": "Array, Dynamic Programming, Memoization"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Candy",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4669983592386035,
+      "Link": "https://leetcode.com/problems/candy",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Implement Rand10() Using Rand7()",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4585972286873645,
+      "Link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+      "Topics": "Math, Rejection Sampling, Randomized, Probability and Statistics"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Immediate Food Delivery II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5431581086799343,
+      "Link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Alien Dictionary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3667366393077476,
+      "Link": "https://leetcode.com/problems/alien-dictionary",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove Duplicates from Sorted List II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4989097083986533,
+      "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+      "Topics": "Linked List, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.452147872132123,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4232286934455142,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Remove to Make Valid Parentheses",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7074595624352417,
+      "Link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Department Highest Salary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5481303192598069,
+      "Link": "https://leetcode.com/problems/department-highest-salary",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Next Greater Element I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7451231783605773,
+      "Link": "https://leetcode.com/problems/next-greater-element-i",
+      "Topics": "Array, Hash Table, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Debounce",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.9181616559881716,
+      "Link": "https://leetcode.com/problems/debounce",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4939524843951094,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6115259200424883,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Remove Boxes",
+      "Frequency": 97.9,
+      "Acceptance Rate": 0.4829246222061351,
+      "Link": "https://leetcode.com/problems/remove-boxes",
+      "Topics": "Array, Dynamic Programming, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Factorization",
+      "Frequency": 97.9,
+      "Acceptance Rate": 0.3380261620450853,
+      "Link": "https://leetcode.com/problems/minimum-factorization",
+      "Topics": "Math, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Candy",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.4669983592386035,
+      "Link": "https://leetcode.com/problems/candy",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Implement Rand10() Using Rand7()",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.4585972286873645,
+      "Link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+      "Topics": "Math, Rejection Sampling, Randomized, Probability and Statistics"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Immediate Food Delivery II",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.5431581086799343,
+      "Link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Alien Dictionary",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.3667366393077476,
+      "Link": "https://leetcode.com/problems/alien-dictionary",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.452147872132123,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove Duplicates from Sorted List II",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.4989097083986533,
+      "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+      "Topics": "Linked List, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.4232286934455142,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Remove to Make Valid Parentheses",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.7074595624352417,
+      "Link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Department Highest Salary",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.5481303192598069,
+      "Link": "https://leetcode.com/problems/department-highest-salary",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Next Greater Element I",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.7451231783605773,
+      "Link": "https://leetcode.com/problems/next-greater-element-i",
+      "Topics": "Array, Hash Table, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Debounce",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.9181616559881716,
+      "Link": "https://leetcode.com/problems/debounce",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 62.4,
+      "Acceptance Rate": 0.4939524843951094,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    }
+  ]
+}

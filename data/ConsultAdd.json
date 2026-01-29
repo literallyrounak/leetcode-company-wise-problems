@@ -1,0 +1,185 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.516106229324453,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7790644590447863,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Coin Change",
+      "Frequency": 92.2,
+      "Acceptance Rate": 0.464999027079905,
+      "Link": "https://leetcode.com/problems/coin-change",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Candy",
+      "Frequency": 92.2,
+      "Acceptance Rate": 0.4670440977059737,
+      "Link": "https://leetcode.com/problems/candy",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Transpose Matrix",
+      "Frequency": 81.2,
+      "Acceptance Rate": 0.7433303551988469,
+      "Link": "https://leetcode.com/problems/transpose-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count and Say",
+      "Frequency": 81.2,
+      "Acceptance Rate": 0.6051171537164609,
+      "Link": "https://leetcode.com/problems/count-and-say",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Deletions to Make Character Frequencies Unique",
+      "Frequency": 81.2,
+      "Acceptance Rate": 0.612947969971021,
+      "Link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+      "Topics": "Hash Table, String, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game II",
+      "Frequency": 81.2,
+      "Acceptance Rate": 0.4150477889469695,
+      "Link": "https://leetcode.com/problems/jump-game-ii",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 81.2,
+      "Acceptance Rate": 0.7093182554988369,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 81.2,
+      "Acceptance Rate": 0.4939842039069274,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Anagram",
+      "Frequency": 81.2,
+      "Acceptance Rate": 0.6666387454891136,
+      "Link": "https://leetcode.com/problems/valid-anagram",
+      "Topics": "Hash Table, String, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.516106229324453,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7790644590447863,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Coin Change",
+      "Frequency": 92.0,
+      "Acceptance Rate": 0.4649991325536831,
+      "Link": "https://leetcode.com/problems/coin-change",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Candy",
+      "Frequency": 92.0,
+      "Acceptance Rate": 0.4670440977059737,
+      "Link": "https://leetcode.com/problems/candy",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Transpose Matrix",
+      "Frequency": 80.8,
+      "Acceptance Rate": 0.7433303551988469,
+      "Link": "https://leetcode.com/problems/transpose-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count and Say",
+      "Frequency": 80.8,
+      "Acceptance Rate": 0.6051171537164609,
+      "Link": "https://leetcode.com/problems/count-and-say",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Deletions to Make Character Frequencies Unique",
+      "Frequency": 80.8,
+      "Acceptance Rate": 0.612947969971021,
+      "Link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+      "Topics": "Hash Table, String, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game II",
+      "Frequency": 80.8,
+      "Acceptance Rate": 0.4150477889469695,
+      "Link": "https://leetcode.com/problems/jump-game-ii",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 80.8,
+      "Acceptance Rate": 0.7093182554988369,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 80.8,
+      "Acceptance Rate": 0.4939842039069274,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Anagram",
+      "Frequency": 80.8,
+      "Acceptance Rate": 0.6666387454891136,
+      "Link": "https://leetcode.com/problems/valid-anagram",
+      "Topics": "Hash Table, String, Sorting"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7093188765735838,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Common Subsequence",
+      "Frequency": 93.0,
+      "Acceptance Rate": 0.5825142636275151,
+      "Link": "https://leetcode.com/problems/longest-common-subsequence",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 83.2,
+      "Acceptance Rate": 0.4522000276675747,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Diagonal Traverse II",
+      "Frequency": 83.2,
+      "Acceptance Rate": 0.5802072894694427,
+      "Link": "https://leetcode.com/problems/diagonal-traverse-ii",
+      "Topics": "Array, Sorting, Heap (Priority Queue)"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7093188765735838,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Common Subsequence",
+      "Frequency": 92.9,
+      "Acceptance Rate": 0.5825142636275151,
+      "Link": "https://leetcode.com/problems/longest-common-subsequence",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 82.8,
+      "Acceptance Rate": 0.4522000276675747,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Diagonal Traverse II",
+      "Frequency": 82.8,
+      "Acceptance Rate": 0.5802072894694427,
+      "Link": "https://leetcode.com/problems/diagonal-traverse-ii",
+      "Topics": "Array, Sorting, Heap (Priority Queue)"
+    }
+  ]
+}

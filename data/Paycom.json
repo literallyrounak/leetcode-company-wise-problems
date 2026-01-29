@@ -1,0 +1,65 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7093189130762656,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Degree of an Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5741740795164303,
+      "Link": "https://leetcode.com/problems/degree-of-an-array",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate",
+      "Frequency": 89.8,
+      "Acceptance Rate": 0.6323866808421809,
+      "Link": "https://leetcode.com/problems/contains-duplicate",
+      "Topics": "Array, Hash Table, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7093189130762656,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Degree of an Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5741740795164303,
+      "Link": "https://leetcode.com/problems/degree-of-an-array",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate",
+      "Frequency": 89.7,
+      "Acceptance Rate": 0.6323866808421809,
+      "Link": "https://leetcode.com/problems/contains-duplicate",
+      "Topics": "Array, Hash Table, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Minimum Absolute Difference",
+      "Frequency": 89.7,
+      "Acceptance Rate": 0.7065407454857083,
+      "Link": "https://leetcode.com/problems/minimum-absolute-difference",
+      "Topics": "Array, Sorting"
+    }
+  ]
+}

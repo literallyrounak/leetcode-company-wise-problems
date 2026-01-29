@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Middle of the Linked List",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8058170744812857,
+      "Link": "https://leetcode.com/problems/middle-of-the-linked-list",
+      "Topics": "Linked List, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3707121493733402,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3707121493733402,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Middle of the Linked List",
+      "Frequency": 88.9,
+      "Acceptance Rate": 0.8058170744812857,
+      "Link": "https://leetcode.com/problems/middle-of-the-linked-list",
+      "Topics": "Linked List, Two Pointers"
+    }
+  ]
+}

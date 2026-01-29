@@ -1,0 +1,65 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sort Colors",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6758312389131401,
+      "Link": "https://leetcode.com/problems/sort-colors",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Longest Path With Different Adjacent Characters",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5391662377766341,
+      "Link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+      "Topics": "Array, String, Tree, Depth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of the Last K Numbers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6274634247482844,
+      "Link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+      "Topics": "Array, Math, Design, Data Stream, Prefix Sum"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Longest Path With Different Adjacent Characters",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5391662377766341,
+      "Link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+      "Topics": "Array, String, Tree, Depth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of the Last K Numbers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6274634247482844,
+      "Link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+      "Topics": "Array, Math, Design, Data Stream, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5209990343890127,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sort Colors",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6758312389131401,
+      "Link": "https://leetcode.com/problems/sort-colors",
+      "Topics": "Array, Two Pointers, Sorting"
+    }
+  ]
+}

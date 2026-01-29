@@ -1,0 +1,67 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Block Placement Queries",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.1688990697349094,
+      "Link": "https://leetcode.com/problems/block-placement-queries",
+      "Topics": "Array, Binary Search, Binary Indexed Tree, Segment Tree"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Block Placement Queries",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.1688990697349094,
+      "Link": "https://leetcode.com/problems/block-placement-queries",
+      "Topics": "Array, Binary Search, Binary Indexed Tree, Segment Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 89.7,
+      "Acceptance Rate": 0.5160681481756035,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Largest 3-Same-Digit Number in String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6909566734515847,
+      "Link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+      "Topics": "String"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Largest 3-Same-Digit Number in String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6909566734515847,
+      "Link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Block Placement Queries",
+      "Frequency": 73.7,
+      "Acceptance Rate": 0.1688990697349094,
+      "Link": "https://leetcode.com/problems/block-placement-queries",
+      "Topics": "Array, Binary Search, Binary Indexed Tree, Segment Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 64.9,
+      "Acceptance Rate": 0.5160681481756035,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    }
+  ]
+}

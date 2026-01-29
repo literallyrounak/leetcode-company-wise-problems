@@ -1,0 +1,49 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Linked List in Binary Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5190438740859565,
+      "Link": "https://leetcode.com/problems/linked-list-in-binary-tree",
+      "Topics": "Linked List, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if Array Is Sorted and Rotated",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5507514881863992,
+      "Link": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated",
+      "Topics": "Array"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Linked List in Binary Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5190438740859565,
+      "Link": "https://leetcode.com/problems/linked-list-in-binary-tree",
+      "Topics": "Linked List, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if Array Is Sorted and Rotated",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5507514881863992,
+      "Link": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 67.1,
+      "Acceptance Rate": 0.4108472697598495,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    }
+  ]
+}

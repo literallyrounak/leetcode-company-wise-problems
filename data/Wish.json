@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Monthly Transactions II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4198577506826697,
+      "Link": "https://leetcode.com/problems/monthly-transactions-ii",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Monthly Transactions I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5830398874655107,
+      "Link": "https://leetcode.com/problems/monthly-transactions-i",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rabbits in Forest",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5826643792570448,
+      "Link": "https://leetcode.com/problems/rabbits-in-forest",
+      "Topics": "Array, Hash Table, Math, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Servers That Handled Most Number of Requests",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4407459914937801,
+      "Link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+      "Topics": "Array, Greedy, Heap (Priority Queue), Ordered Set"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Servers That Handled Most Number of Requests",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4407459914937801,
+      "Link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+      "Topics": "Array, Greedy, Heap (Priority Queue), Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rabbits in Forest",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5826643792570448,
+      "Link": "https://leetcode.com/problems/rabbits-in-forest",
+      "Topics": "Array, Hash Table, Math, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Monthly Transactions I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5830398874655107,
+      "Link": "https://leetcode.com/problems/monthly-transactions-i",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Monthly Transactions II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4198577506826697,
+      "Link": "https://leetcode.com/problems/monthly-transactions-ii",
+      "Topics": "Database"
+    }
+  ]
+}

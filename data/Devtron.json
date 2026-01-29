@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Strong Password Checker",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.1462254154266798,
+      "Link": "https://leetcode.com/problems/strong-password-checker",
+      "Topics": "String, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Words in a String III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8366108451385891,
+      "Link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+      "Topics": "Two Pointers, String"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Strong Password Checker",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.1462254154266798,
+      "Link": "https://leetcode.com/problems/strong-password-checker",
+      "Topics": "String, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Words in a String III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8366108451385891,
+      "Link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+      "Topics": "Two Pointers, String"
+    }
+  ]
+}

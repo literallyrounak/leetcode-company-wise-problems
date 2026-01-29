@@ -1,0 +1,75 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Construct String With Repeat Limit",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7087778142775636,
+      "Link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+      "Topics": "Hash Table, String, Greedy, Heap (Priority Queue), Counting"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Construct String With Repeat Limit",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7087778142775636,
+      "Link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+      "Topics": "Hash Table, String, Greedy, Heap (Priority Queue), Counting"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Percentage of Users Attended a Contest",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5894214941113579,
+      "Link": "https://leetcode.com/problems/percentage-of-users-attended-a-contest",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Ways to Paint N × 3 Grid",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6503587524201552,
+      "Link": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+      "Topics": "Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Construct String With Repeat Limit",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7087778142775636,
+      "Link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+      "Topics": "Hash Table, String, Greedy, Heap (Priority Queue), Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Percentage of Users Attended a Contest",
+      "Frequency": 88.6,
+      "Acceptance Rate": 0.5894214941113579,
+      "Link": "https://leetcode.com/problems/percentage-of-users-attended-a-contest",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Ways to Paint N × 3 Grid",
+      "Frequency": 88.6,
+      "Acceptance Rate": 0.6503587524201552,
+      "Link": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Palindrome II",
+      "Frequency": 88.6,
+      "Acceptance Rate": 0.4302717565219537,
+      "Link": "https://leetcode.com/problems/valid-palindrome-ii",
+      "Topics": "Two Pointers, String, Greedy"
+    }
+  ]
+}

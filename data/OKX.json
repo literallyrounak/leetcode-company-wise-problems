@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.623246254585838,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Smallest Element in a Sorted Matrix",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6356877520884164,
+      "Link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+      "Topics": "Array, Binary Search, Sorting, Heap (Priority Queue), Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Count Subarrays With Fixed Bounds",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6940812070277932,
+      "Link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+      "Topics": "Array, Queue, Sliding Window, Monotonic Queue"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.623246254585838,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Smallest Element in a Sorted Matrix",
+      "Frequency": 89.1,
+      "Acceptance Rate": 0.6356877520884164,
+      "Link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+      "Topics": "Array, Binary Search, Sorting, Heap (Priority Queue), Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Count Subarrays With Fixed Bounds",
+      "Frequency": 89.1,
+      "Acceptance Rate": 0.6940812070277932,
+      "Link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+      "Topics": "Array, Queue, Sliding Window, Monotonic Queue"
+    }
+  ]
+}

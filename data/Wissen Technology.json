@@ -1,0 +1,76 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Consecutive Sequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.470392322552122,
+      "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "Topics": "Array, Hash Table, Union Find"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Consecutive Sequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.470392322552122,
+      "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "Topics": "Array, Hash Table, Union Find"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Consecutive Sequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.470392322552122,
+      "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "Topics": "Array, Hash Table, Union Find"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5578041336158984,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Words in a String III",
+      "Frequency": 89.7,
+      "Acceptance Rate": 0.836610711561557,
+      "Link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+      "Topics": "Two Pointers, String"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5578041122162485,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Words in a String III",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.836610711561557,
+      "Link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Consecutive Sequence",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.4703922371807983,
+      "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "Topics": "Array, Hash Table, Union Find"
+    }
+  ]
+}

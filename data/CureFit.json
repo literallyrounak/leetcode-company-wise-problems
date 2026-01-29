@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4827562706373493,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Gas Station",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4638739795519946,
+      "Link": "https://leetcode.com/problems/gas-station",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Moves to Make Array Complementary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4216836919510251,
+      "Link": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary",
+      "Topics": "Array, Hash Table, Prefix Sum"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Moves to Make Array Complementary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4216836919510251,
+      "Link": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary",
+      "Topics": "Array, Hash Table, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 66.4,
+      "Acceptance Rate": 0.4827562706373493,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Gas Station",
+      "Frequency": 66.4,
+      "Acceptance Rate": 0.4638742034359784,
+      "Link": "https://leetcode.com/problems/gas-station",
+      "Topics": "Array, Greedy"
+    }
+  ]
+}

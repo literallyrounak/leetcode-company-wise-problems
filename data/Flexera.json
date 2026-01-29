@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lexicographically Minimum String After Removing Stars",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5096873744567401,
+      "Link": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars",
+      "Topics": "Hash Table, String, Stack, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Clear Digits",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8259289027924613,
+      "Link": "https://leetcode.com/problems/clear-digits",
+      "Topics": "String, Stack, Simulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lexicographically Minimum String After Removing Stars",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5096873744567401,
+      "Link": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars",
+      "Topics": "Hash Table, String, Stack, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Clear Digits",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8259289027924613,
+      "Link": "https://leetcode.com/problems/clear-digits",
+      "Topics": "String, Stack, Simulation"
+    }
+  ]
+}

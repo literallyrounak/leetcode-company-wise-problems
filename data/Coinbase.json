@@ -1,0 +1,251 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Simple Bank System",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6142935665806328,
+      "Link": "https://leetcode.com/problems/simple-bank-system",
+      "Topics": "Array, Hash Table, Design, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 85.0,
+      "Acceptance Rate": 0.493663464237889,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Iterator",
+      "Frequency": 76.3,
+      "Acceptance Rate": 0.6575715893460048,
+      "Link": "https://leetcode.com/problems/zigzag-iterator",
+      "Topics": "Array, Design, Queue, Iterator"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Simple Bank System",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6142935665806328,
+      "Link": "https://leetcode.com/problems/simple-bank-system",
+      "Topics": "Array, Hash Table, Design, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 97.5,
+      "Acceptance Rate": 0.493663464237889,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Iterator",
+      "Frequency": 94.7,
+      "Acceptance Rate": 0.6575715893460048,
+      "Link": "https://leetcode.com/problems/zigzag-iterator",
+      "Topics": "Array, Design, Queue, Iterator"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Simple Bank System",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6142935665806328,
+      "Link": "https://leetcode.com/problems/simple-bank-system",
+      "Topics": "Array, Hash Table, Design, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Iterator",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.6575715893460048,
+      "Link": "https://leetcode.com/problems/zigzag-iterator",
+      "Topics": "Array, Design, Queue, Iterator"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design In-Memory File System",
+      "Frequency": 94.9,
+      "Acceptance Rate": 0.4816948941663167,
+      "Link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "Topics": "Hash Table, String, Design, Trie, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 79.0,
+      "Acceptance Rate": 0.493663464237889,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design File System",
+      "Frequency": 72.4,
+      "Acceptance Rate": 0.6413755041392486,
+      "Link": "https://leetcode.com/problems/design-file-system",
+      "Topics": "Hash Table, String, Design, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Check if There is a Valid Partition For The Array",
+      "Frequency": 72.4,
+      "Acceptance Rate": 0.5196995580140459,
+      "Link": "https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 72.4,
+      "Acceptance Rate": 0.4814993566410409,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Decode the Message",
+      "Frequency": 72.4,
+      "Acceptance Rate": 0.8541555470834922,
+      "Link": "https://leetcode.com/problems/decode-the-message",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Orders in the Backlog",
+      "Frequency": 63.1,
+      "Acceptance Rate": 0.5196292359051828,
+      "Link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+      "Topics": "Array, Heap (Priority Queue), Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 63.1,
+      "Acceptance Rate": 0.6314707708462682,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Length of the Longest Common Prefix",
+      "Frequency": 63.1,
+      "Acceptance Rate": 0.564161205458434,
+      "Link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+      "Topics": "Array, Hash Table, String, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 63.1,
+      "Acceptance Rate": 0.4827844806841818,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Simple Bank System",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6142935665806328,
+      "Link": "https://leetcode.com/problems/simple-bank-system",
+      "Topics": "Array, Hash Table, Design, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Iterator",
+      "Frequency": 96.4,
+      "Acceptance Rate": 0.6575715893460048,
+      "Link": "https://leetcode.com/problems/zigzag-iterator",
+      "Topics": "Array, Design, Queue, Iterator"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 90.4,
+      "Acceptance Rate": 0.493663464237889,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Decode the Message",
+      "Frequency": 88.6,
+      "Acceptance Rate": 0.8541555470834922,
+      "Link": "https://leetcode.com/problems/decode-the-message",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design In-Memory File System",
+      "Frequency": 84.4,
+      "Acceptance Rate": 0.4816948941663167,
+      "Link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "Topics": "Hash Table, String, Design, Trie, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design File System",
+      "Frequency": 67.5,
+      "Acceptance Rate": 0.6413755041392486,
+      "Link": "https://leetcode.com/problems/design-file-system",
+      "Topics": "Hash Table, String, Design, Trie"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 61.5,
+      "Acceptance Rate": 0.4814993566410409,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Check if There is a Valid Partition For The Array",
+      "Frequency": 61.5,
+      "Acceptance Rate": 0.5196995580140459,
+      "Link": "https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 61.5,
+      "Acceptance Rate": 0.4827844806841818,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Orders in the Backlog",
+      "Frequency": 53.1,
+      "Acceptance Rate": 0.5196292359051828,
+      "Link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+      "Topics": "Array, Heap (Priority Queue), Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 53.1,
+      "Acceptance Rate": 0.6314707708462682,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Length of the Longest Common Prefix",
+      "Frequency": 53.1,
+      "Acceptance Rate": 0.564161205458434,
+      "Link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+      "Topics": "Array, Hash Table, String, Trie"
+    }
+  ]
+}

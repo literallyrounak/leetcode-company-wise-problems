@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "String Compression II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5197862858300415,
+      "Link": "https://leetcode.com/problems/string-compression-ii",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Airplane Seat Assignment Probability",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6665048936342312,
+      "Link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+      "Topics": "Math, Dynamic Programming, Brainteaser, Probability and Statistics"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Image Smoother",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6837229689163258,
+      "Link": "https://leetcode.com/problems/image-smoother",
+      "Topics": "Array, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "String Compression II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5197862858300415,
+      "Link": "https://leetcode.com/problems/string-compression-ii",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Airplane Seat Assignment Probability",
+      "Frequency": 68.7,
+      "Acceptance Rate": 0.6665048936342312,
+      "Link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+      "Topics": "Math, Dynamic Programming, Brainteaser, Probability and Statistics"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Image Smoother",
+      "Frequency": 68.7,
+      "Acceptance Rate": 0.6837229689163258,
+      "Link": "https://leetcode.com/problems/image-smoother",
+      "Topics": "Array, Matrix"
+    }
+  ]
+}

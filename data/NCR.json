@@ -1,0 +1,33 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of People Aware of a Secret",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4636862359780561,
+      "Link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+      "Topics": "Dynamic Programming, Queue, Simulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of People Aware of a Secret",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4636862359780561,
+      "Link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+      "Topics": "Dynamic Programming, Queue, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.369361815744455,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    }
+  ]
+}

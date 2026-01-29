@@ -1,0 +1,345 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Majority Element",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6574032703498719,
+      "Link": "https://leetcode.com/problems/majority-element",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.4381476917231254,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Excel Sheet Column Title",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.43570576633851,
+      "Link": "https://leetcode.com/problems/excel-sheet-column-title",
+      "Topics": "Math, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Distance from All Buildings",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.4437281808440773,
+      "Link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flatten 2D Vector",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.5013561180399766,
+      "Link": "https://leetcode.com/problems/flatten-2d-vector",
+      "Topics": "Array, Two Pointers, Design, Iterator"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Palindrome",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.5096370029735856,
+      "Link": "https://leetcode.com/problems/valid-palindrome",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "N-Queens II",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.7672955295381376,
+      "Link": "https://leetcode.com/problems/n-queens-ii",
+      "Topics": "Backtracking"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.4760399199263972,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Convert Sorted List to Binary Search Tree",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.6445924686121641,
+      "Link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+      "Topics": "Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.6510223474767689,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Majority Element II",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.5438049308651387,
+      "Link": "https://leetcode.com/problems/majority-element-ii",
+      "Topics": "Array, Hash Table, Sorting, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Graph Valid Tree",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.4933429916993301,
+      "Link": "https://leetcode.com/problems/graph-valid-tree",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Min Stack",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.5644529500614766,
+      "Link": "https://leetcode.com/problems/min-stack",
+      "Topics": "Stack, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.7713302975237624,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.4232293457638538,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.5342362900878632,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.4521518822108895,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.4923463473813975,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Linked List",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.7920675422832083,
+      "Link": "https://leetcode.com/problems/reverse-linked-list",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.6232027311561552,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Verify Preorder Sequence in Binary Search Tree",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.5131903339051795,
+      "Link": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree",
+      "Topics": "Array, Stack, Tree, Binary Search Tree, Recursion, Monotonic Stack, Binary Tree"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Majority Element",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6574032703498719,
+      "Link": "https://leetcode.com/problems/majority-element",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.6232026196419465,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Graph Valid Tree",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.4933429916993301,
+      "Link": "https://leetcode.com/problems/graph-valid-tree",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Verify Preorder Sequence in Binary Search Tree",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.5131903339051795,
+      "Link": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree",
+      "Topics": "Array, Stack, Tree, Binary Search Tree, Recursion, Monotonic Stack, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flatten 2D Vector",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.5013561180399766,
+      "Link": "https://leetcode.com/problems/flatten-2d-vector",
+      "Topics": "Array, Two Pointers, Design, Iterator"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.4760399199263972,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Majority Element II",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.5438049308651387,
+      "Link": "https://leetcode.com/problems/majority-element-ii",
+      "Topics": "Array, Hash Table, Sorting, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.5342362900878632,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.4923463473813975,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Linked List",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.7920675422832083,
+      "Link": "https://leetcode.com/problems/reverse-linked-list",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.4381476917231254,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.4232293457638538,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Excel Sheet Column Title",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.43570576633851,
+      "Link": "https://leetcode.com/problems/excel-sheet-column-title",
+      "Topics": "Math, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Min Stack",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.5644529500614766,
+      "Link": "https://leetcode.com/problems/min-stack",
+      "Topics": "Stack, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.4521518822108895,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Palindrome",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.5096370029735856,
+      "Link": "https://leetcode.com/problems/valid-palindrome",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Convert Sorted List to Binary Search Tree",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.6445924686121641,
+      "Link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+      "Topics": "Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "N-Queens II",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.7672955295381376,
+      "Link": "https://leetcode.com/problems/n-queens-ii",
+      "Topics": "Backtracking"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.6510223474767689,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.7713302975237624,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Distance from All Buildings",
+      "Frequency": 97.6,
+      "Acceptance Rate": 0.4437281808440773,
+      "Link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    }
+  ]
+}

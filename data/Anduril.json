@@ -1,0 +1,635 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Making A Large Island",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5489029735459547,
+      "Link": "https://leetcode.com/problems/making-a-large-island",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 92.5,
+      "Acceptance Rate": 0.6232004701163337,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 92.5,
+      "Acceptance Rate": 0.492343272648647,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Number of Visible Points",
+      "Frequency": 81.9,
+      "Acceptance Rate": 0.3767605072174815,
+      "Link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+      "Topics": "Array, Math, Geometry, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 81.9,
+      "Acceptance Rate": 0.5327803189283605,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Distinct Islands",
+      "Frequency": 81.9,
+      "Acceptance Rate": 0.6225531873624047,
+      "Link": "https://leetcode.com/problems/number-of-distinct-islands",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 81.9,
+      "Acceptance Rate": 0.5342349766485144,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Merge k Sorted Lists",
+      "Frequency": 81.9,
+      "Acceptance Rate": 0.5677418279138159,
+      "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Race Car",
+      "Frequency": 81.9,
+      "Acceptance Rate": 0.4412431163672474,
+      "Link": "https://leetcode.com/problems/race-car",
+      "Topics": "Dynamic Programming"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Video Stitching",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5199920692617804,
+      "Link": "https://leetcode.com/problems/video-stitching",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 89.9,
+      "Acceptance Rate": 0.6232004701163337,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 77.4,
+      "Acceptance Rate": 0.5342349766485144,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Making A Large Island",
+      "Frequency": 77.4,
+      "Acceptance Rate": 0.5489029735459547,
+      "Link": "https://leetcode.com/problems/making-a-large-island",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.492343272648647,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Number of Visible Points",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.3767605072174815,
+      "Link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+      "Topics": "Array, Math, Geometry, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.5327803189283605,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.4936638835565728,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search Suggestions System",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.6505022273267432,
+      "Link": "https://leetcode.com/problems/search-suggestions-system",
+      "Topics": "Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.5393974123278643,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minesweeper",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.6812440177509644,
+      "Link": "https://leetcode.com/problems/minesweeper",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.4939525543002352,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Merge k Sorted Lists",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.5677418279138159,
+      "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Distinct Islands",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.6225531873624047,
+      "Link": "https://leetcode.com/problems/number-of-distinct-islands",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Race Car",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.4412431163672474,
+      "Link": "https://leetcode.com/problems/race-car",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Shortest Word Distance",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.6594949449257005,
+      "Link": "https://leetcode.com/problems/shortest-word-distance",
+      "Topics": "Array, String"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Number of Visible Points",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3767605072174815,
+      "Link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+      "Topics": "Array, Math, Geometry, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7092885297664818,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6232004701163337,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Heaters",
+      "Frequency": 92.8,
+      "Acceptance Rate": 0.3995299191494197,
+      "Link": "https://leetcode.com/problems/heaters",
+      "Topics": "Array, Two Pointers, Binary Search, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Daily Temperatures",
+      "Frequency": 92.8,
+      "Acceptance Rate": 0.6736502832589849,
+      "Link": "https://leetcode.com/problems/daily-temperatures",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Shortest Word Distance",
+      "Frequency": 92.8,
+      "Acceptance Rate": 0.6594949449257005,
+      "Link": "https://leetcode.com/problems/shortest-word-distance",
+      "Topics": "Array, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.492343272648647,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 82.8,
+      "Acceptance Rate": 0.5327803189283605,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flip Equivalent Binary Trees",
+      "Frequency": 75.6,
+      "Acceptance Rate": 0.696793256042999,
+      "Link": "https://leetcode.com/problems/flip-equivalent-binary-trees",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search Suggestions System",
+      "Frequency": 75.6,
+      "Acceptance Rate": 0.6505022273267432,
+      "Link": "https://leetcode.com/problems/search-suggestions-system",
+      "Topics": "Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.4939525543002352,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Snakes and Ladders",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.4779535373887946,
+      "Link": "https://leetcode.com/problems/snakes-and-ladders",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.5342349766485144,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.6280404294781053,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.4283722145334321,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flatten Binary Tree to Linked List",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.6851017952147065,
+      "Link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+      "Topics": "Linked List, Stack, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Shortest Word Distance II",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.621334883686483,
+      "Link": "https://leetcode.com/problems/shortest-word-distance-ii",
+      "Topics": "Array, Hash Table, Two Pointers, String, Design"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Basic Calculator",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.4558965465296108,
+      "Link": "https://leetcode.com/problems/basic-calculator",
+      "Topics": "Math, String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Game of Life",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.7141499668480139,
+      "Link": "https://leetcode.com/problems/game-of-life",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Basic Calculator II",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.4581145526714955,
+      "Link": "https://leetcode.com/problems/basic-calculator-ii",
+      "Topics": "Math, String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Duplicate Number",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.6283574412311195,
+      "Link": "https://leetcode.com/problems/find-the-duplicate-number",
+      "Topics": "Array, Two Pointers, Binary Search, Bit Manipulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6232005375415705,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Number of Visible Points",
+      "Frequency": 92.9,
+      "Acceptance Rate": 0.3767605072174815,
+      "Link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+      "Topics": "Array, Math, Geometry, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Video Stitching",
+      "Frequency": 92.9,
+      "Acceptance Rate": 0.5199920692617804,
+      "Link": "https://leetcode.com/problems/video-stitching",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 88.3,
+      "Acceptance Rate": 0.7092885297664818,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 85.6,
+      "Acceptance Rate": 0.492343272648647,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Shortest Word Distance",
+      "Frequency": 85.6,
+      "Acceptance Rate": 0.6594949449257005,
+      "Link": "https://leetcode.com/problems/shortest-word-distance",
+      "Topics": "Array, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Heaters",
+      "Frequency": 82.5,
+      "Acceptance Rate": 0.3995299191494197,
+      "Link": "https://leetcode.com/problems/heaters",
+      "Topics": "Array, Two Pointers, Binary Search, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Daily Temperatures",
+      "Frequency": 82.5,
+      "Acceptance Rate": 0.6736502832589849,
+      "Link": "https://leetcode.com/problems/daily-temperatures",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 79.0,
+      "Acceptance Rate": 0.5342347717848052,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 79.0,
+      "Acceptance Rate": 0.5327803189283605,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search Suggestions System",
+      "Frequency": 74.8,
+      "Acceptance Rate": 0.6505022273267432,
+      "Link": "https://leetcode.com/problems/search-suggestions-system",
+      "Topics": "Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Making A Large Island",
+      "Frequency": 69.7,
+      "Acceptance Rate": 0.5489029735459547,
+      "Link": "https://leetcode.com/problems/making-a-large-island",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 69.7,
+      "Acceptance Rate": 0.4939525543002352,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flatten Binary Tree to Linked List",
+      "Frequency": 63.2,
+      "Acceptance Rate": 0.6851017952147065,
+      "Link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+      "Topics": "Linked List, Stack, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Shortest Word Distance II",
+      "Frequency": 63.2,
+      "Acceptance Rate": 0.621334883686483,
+      "Link": "https://leetcode.com/problems/shortest-word-distance-ii",
+      "Topics": "Array, Hash Table, Two Pointers, String, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Basic Calculator II",
+      "Frequency": 63.2,
+      "Acceptance Rate": 0.4581145526714955,
+      "Link": "https://leetcode.com/problems/basic-calculator-ii",
+      "Topics": "Math, String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flip Equivalent Binary Trees",
+      "Frequency": 63.2,
+      "Acceptance Rate": 0.696793256042999,
+      "Link": "https://leetcode.com/problems/flip-equivalent-binary-trees",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Merge k Sorted Lists",
+      "Frequency": 63.2,
+      "Acceptance Rate": 0.5677419253083275,
+      "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.4232285107271765,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Distinct Islands",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.6225531873624047,
+      "Link": "https://leetcode.com/problems/number-of-distinct-islands",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotting Oranges",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.5661842002497466,
+      "Link": "https://leetcode.com/problems/rotting-oranges",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minesweeper",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.681241547837878,
+      "Link": "https://leetcode.com/problems/minesweeper",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.6280404294781053,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.5393974123278643,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.4936638835565728,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert into a Sorted Circular Linked List",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.3812410472504833,
+      "Link": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list",
+      "Topics": "Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Duplicate Number",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.6283574412311195,
+      "Link": "https://leetcode.com/problems/find-the-duplicate-number",
+      "Topics": "Array, Two Pointers, Binary Search, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Snakes and Ladders",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.4779535373887946,
+      "Link": "https://leetcode.com/problems/snakes-and-ladders",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.4283722145334321,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Game of Life",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.7141499668480139,
+      "Link": "https://leetcode.com/problems/game-of-life",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Basic Calculator",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.4558965465296108,
+      "Link": "https://leetcode.com/problems/basic-calculator",
+      "Topics": "Math, String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Race Car",
+      "Frequency": 53.9,
+      "Acceptance Rate": 0.4412431163672474,
+      "Link": "https://leetcode.com/problems/race-car",
+      "Topics": "Dynamic Programming"
+    }
+  ]
+}

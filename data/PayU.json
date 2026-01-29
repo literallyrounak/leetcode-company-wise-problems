@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Operations to Obtain Zero",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7488972350966917,
+      "Link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+      "Topics": "Math, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Repeating Character Replacement",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5721185994601041,
+      "Link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "Topics": "Hash Table, String, Sliding Window"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Operations to Obtain Zero",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7488972350966917,
+      "Link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+      "Topics": "Math, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Repeating Character Replacement",
+      "Frequency": 66.6,
+      "Acceptance Rate": 0.5721185994601041,
+      "Link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "Topics": "Hash Table, String, Sliding Window"
+    }
+  ]
+}

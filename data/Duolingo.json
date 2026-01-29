@@ -1,0 +1,74 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Encrypt and Decrypt Strings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3689486493650449,
+      "Link": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+      "Topics": "Array, Hash Table, String, Design, Trie"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Encrypt and Decrypt Strings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3689486493650449,
+      "Link": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+      "Topics": "Array, Hash Table, String, Design, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of People to Teach",
+      "Frequency": 66.4,
+      "Acceptance Rate": 0.4370178957112002,
+      "Link": "https://leetcode.com/problems/minimum-number-of-people-to-teach",
+      "Topics": "Array, Hash Table, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "K Radius Subarray Averages",
+      "Frequency": 59.0,
+      "Acceptance Rate": 0.4595762325330679,
+      "Link": "https://leetcode.com/problems/k-radius-subarray-averages",
+      "Topics": "Array, Sliding Window"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Encrypt and Decrypt Strings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3689486493650449,
+      "Link": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+      "Topics": "Array, Hash Table, String, Design, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of People to Teach",
+      "Frequency": 82.6,
+      "Acceptance Rate": 0.4370178957112002,
+      "Link": "https://leetcode.com/problems/minimum-number-of-people-to-teach",
+      "Topics": "Array, Hash Table, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "K Radius Subarray Averages",
+      "Frequency": 80.9,
+      "Acceptance Rate": 0.4595762325330679,
+      "Link": "https://leetcode.com/problems/k-radius-subarray-averages",
+      "Topics": "Array, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Task Scheduler II",
+      "Frequency": 52.1,
+      "Acceptance Rate": 0.5397196782316108,
+      "Link": "https://leetcode.com/problems/task-scheduler-ii",
+      "Topics": "Array, Hash Table, Simulation"
+    }
+  ]
+}

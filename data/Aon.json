@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Classifying Triangles by Lengths",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5082222606889389,
+      "Link": "https://leetcode.com/problems/classifying-triangles-by-lengths",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimize OR of Remaining Elements Using Operations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2896179141872846,
+      "Link": "https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations",
+      "Topics": "Array, Greedy, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Construct the Minimum Bitwise Array II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3486627673349109,
+      "Link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii",
+      "Topics": "Array, Bit Manipulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Construct the Minimum Bitwise Array I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7395921725937926,
+      "Link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-i",
+      "Topics": "Array, Bit Manipulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Construct the Minimum Bitwise Array II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3486627673349109,
+      "Link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii",
+      "Topics": "Array, Bit Manipulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Construct the Minimum Bitwise Array I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7395921725937926,
+      "Link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-i",
+      "Topics": "Array, Bit Manipulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Classifying Triangles by Lengths",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.5082222606889389,
+      "Link": "https://leetcode.com/problems/classifying-triangles-by-lengths",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimize OR of Remaining Elements Using Operations",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.2896179141872846,
+      "Link": "https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations",
+      "Topics": "Array, Greedy, Bit Manipulation"
+    }
+  ]
+}

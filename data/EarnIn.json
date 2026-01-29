@@ -1,0 +1,49 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4623058554999839,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    }
+  ],
+  "4. More Than Six Months": [],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3585067945922853,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6232469776710805,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4623058554999839,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5578039976859366,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ]
+}

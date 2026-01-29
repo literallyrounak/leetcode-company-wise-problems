@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4232838963831868,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Min Stack",
+      "Frequency": 94.7,
+      "Acceptance Rate": 0.564535276127446,
+      "Link": "https://leetcode.com/problems/min-stack",
+      "Topics": "Stack, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Reverse Polish Notation",
+      "Frequency": 78.4,
+      "Acceptance Rate": 0.5495723545430139,
+      "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "Topics": "Array, Math, Stack"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4232838963831868,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Min Stack",
+      "Frequency": 94.7,
+      "Acceptance Rate": 0.564535276127446,
+      "Link": "https://leetcode.com/problems/min-stack",
+      "Topics": "Stack, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Reverse Polish Notation",
+      "Frequency": 78.1,
+      "Acceptance Rate": 0.5495723545430139,
+      "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "Topics": "Array, Math, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse String",
+      "Frequency": 78.1,
+      "Acceptance Rate": 0.7976685574633238,
+      "Link": "https://leetcode.com/problems/reverse-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Fair Candy Swap",
+      "Frequency": 78.1,
+      "Acceptance Rate": 0.6328457708884947,
+      "Link": "https://leetcode.com/problems/fair-candy-swap",
+      "Topics": "Array, Hash Table, Binary Search, Sorting"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6232463660782088,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Three Equal Parts",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4069711686235938,
+      "Link": "https://leetcode.com/problems/three-equal-parts",
+      "Topics": "Array, Math"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Three Equal Parts",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4069711686235938,
+      "Link": "https://leetcode.com/problems/three-equal-parts",
+      "Topics": "Array, Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 66.6,
+      "Acceptance Rate": 0.6232463660782088,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Binary Tree Maximum Path Sum",
+      "Frequency": 66.6,
+      "Acceptance Rate": 0.4122643582466489,
+      "Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+    }
+  ]
+}

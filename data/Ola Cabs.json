@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525974554760431,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6115271417370257,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525974554760431,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6115271417370257,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    }
+  ]
+}

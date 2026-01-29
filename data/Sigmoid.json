@@ -1,0 +1,116 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Boats to Save People",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6030116770111661,
+      "Link": "https://leetcode.com/problems/boats-to-save-people",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Boats to Save People",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6030116770111661,
+      "Link": "https://leetcode.com/problems/boats-to-save-people",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Boats to Save People",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6030116770111661,
+      "Link": "https://leetcode.com/problems/boats-to-save-people",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Binary Tree Zigzag Level Order Traversal",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6168290123703268,
+      "Link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+      "Topics": "Tree, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6778026338431639,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7092904047178534,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Reverse Nodes in k-Group",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6304390239936917,
+      "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "Topics": "Linked List, Recursion"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Binary Tree Zigzag Level Order Traversal",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6168290123703268,
+      "Link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+      "Topics": "Tree, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6778026338431639,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7092904047178534,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Reverse Nodes in k-Group",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6304390239936917,
+      "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Max Consecutive Ones III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.659398353589164,
+      "Link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+      "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Boats to Save People",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6030116770111661,
+      "Link": "https://leetcode.com/problems/boats-to-save-people",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    }
+  ]
+}

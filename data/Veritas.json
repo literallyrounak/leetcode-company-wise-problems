@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Reformat Date",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6733470658385863,
+      "Link": "https://leetcode.com/problems/reformat-date",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Shifting Letters II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5333917702513844,
+      "Link": "https://leetcode.com/problems/shifting-letters-ii",
+      "Topics": "Array, String, Prefix Sum"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Shifting Letters II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5333917702513844,
+      "Link": "https://leetcode.com/problems/shifting-letters-ii",
+      "Topics": "Array, String, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reformat Date",
+      "Frequency": 74.7,
+      "Acceptance Rate": 0.6733470658385863,
+      "Link": "https://leetcode.com/problems/reformat-date",
+      "Topics": "String"
+    }
+  ]
+}

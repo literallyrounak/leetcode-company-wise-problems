@@ -1,0 +1,25 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Design Excel Sum Formula",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4255124603082243,
+      "Link": "https://leetcode.com/problems/design-excel-sum-formula",
+      "Topics": "Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Design Excel Sum Formula",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4255124603082243,
+      "Link": "https://leetcode.com/problems/design-excel-sum-formula",
+      "Topics": "Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
+    }
+  ]
+}

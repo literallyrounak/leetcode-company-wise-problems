@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3585063954914995,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 83.4,
+      "Acceptance Rate": 0.4548724547806595,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 83.4,
+      "Acceptance Rate": 0.6280482281942534,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 83.4,
+      "Acceptance Rate": 0.677805445452112,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3585063954914995,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 83.4,
+      "Acceptance Rate": 0.4548724547806595,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 83.4,
+      "Acceptance Rate": 0.6280482281942534,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 83.4,
+      "Acceptance Rate": 0.677805445452112,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    }
+  ]
+}

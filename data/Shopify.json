@@ -1,0 +1,180 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4521475035659106,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Walking Robot Simulation",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5823045930701047,
+      "Link": "https://leetcode.com/problems/walking-robot-simulation",
+      "Topics": "Array, Hash Table, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 67.1,
+      "Acceptance Rate": 0.4521475035659106,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Walking Robot Simulation",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5823045930701047,
+      "Link": "https://leetcode.com/problems/walking-robot-simulation",
+      "Topics": "Array, Hash Table, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 70.8,
+      "Acceptance Rate": 0.4521475035659106,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Encode and Decode TinyURL",
+      "Frequency": 63.1,
+      "Acceptance Rate": 0.8636236617619221,
+      "Link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+      "Topics": "Hash Table, String, Design, Hash Function"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4521475035659106,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Walking Robot Simulation",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5823045930701047,
+      "Link": "https://leetcode.com/problems/walking-robot-simulation",
+      "Topics": "Array, Hash Table, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design In-Memory File System",
+      "Frequency": 74.3,
+      "Acceptance Rate": 0.4816948941663167,
+      "Link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "Topics": "Hash Table, String, Design, Trie, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design a Text Editor",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.4713807144713662,
+      "Link": "https://leetcode.com/problems/design-a-text-editor",
+      "Topics": "Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find Users With Valid E-Mails",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.441162559425633,
+      "Link": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Tic-Tac-Toe",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.5860157935441853,
+      "Link": "https://leetcode.com/problems/design-tic-tac-toe",
+      "Topics": "Array, Hash Table, Design, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Walls and Gates",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.6296793327762211,
+      "Link": "https://leetcode.com/problems/walls-and-gates",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Walking Robot Simulation",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5823045930701047,
+      "Link": "https://leetcode.com/problems/walking-robot-simulation",
+      "Topics": "Array, Hash Table, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.4521475035659106,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design In-Memory File System",
+      "Frequency": 60.9,
+      "Acceptance Rate": 0.4816948941663167,
+      "Link": "https://leetcode.com/problems/design-in-memory-file-system",
+      "Topics": "Hash Table, String, Design, Trie, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Encode and Decode TinyURL",
+      "Frequency": 60.9,
+      "Acceptance Rate": 0.8636236617619221,
+      "Link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+      "Topics": "Hash Table, String, Design, Hash Function"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design a Text Editor",
+      "Frequency": 53.3,
+      "Acceptance Rate": 0.4713807144713662,
+      "Link": "https://leetcode.com/problems/design-a-text-editor",
+      "Topics": "Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find Users With Valid E-Mails",
+      "Frequency": 53.3,
+      "Acceptance Rate": 0.441162559425633,
+      "Link": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Tic-Tac-Toe",
+      "Frequency": 53.3,
+      "Acceptance Rate": 0.5860157935441853,
+      "Link": "https://leetcode.com/problems/design-tic-tac-toe",
+      "Topics": "Array, Hash Table, Design, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Walls and Gates",
+      "Frequency": 53.3,
+      "Acceptance Rate": 0.6296793327762211,
+      "Link": "https://leetcode.com/problems/walls-and-gates",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    }
+  ]
+}

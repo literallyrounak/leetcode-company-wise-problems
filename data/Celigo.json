@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Reformat Date",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6733924354457822,
+      "Link": "https://leetcode.com/problems/reformat-date",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4108829322561949,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Reformat Date",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6733924354457822,
+      "Link": "https://leetcode.com/problems/reformat-date",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4108829322561949,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    }
+  ]
+}

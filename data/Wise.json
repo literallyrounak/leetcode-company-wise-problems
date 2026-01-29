@@ -1,0 +1,89 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximal Square",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4876422601899655,
+      "Link": "https://leetcode.com/problems/maximal-square",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subarray Product Less Than K",
+      "Frequency": 73.5,
+      "Acceptance Rate": 0.5285651621012318,
+      "Link": "https://leetcode.com/problems/subarray-product-less-than-k",
+      "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 60.3,
+      "Acceptance Rate": 0.5578041072562816,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Roman to Integer",
+      "Frequency": 60.3,
+      "Acceptance Rate": 0.6487066329196147,
+      "Link": "https://leetcode.com/problems/roman-to-integer",
+      "Topics": "Hash Table, Math, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Max Area of Island",
+      "Frequency": 60.3,
+      "Acceptance Rate": 0.7316537705618312,
+      "Link": "https://leetcode.com/problems/max-area-of-island",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximal Square",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4876422601899655,
+      "Link": "https://leetcode.com/problems/maximal-square",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subarray Product Less Than K",
+      "Frequency": 73.5,
+      "Acceptance Rate": 0.5285651621012318,
+      "Link": "https://leetcode.com/problems/subarray-product-less-than-k",
+      "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 60.2,
+      "Acceptance Rate": 0.5578041072562816,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Max Area of Island",
+      "Frequency": 60.2,
+      "Acceptance Rate": 0.7316537705618312,
+      "Link": "https://leetcode.com/problems/max-area-of-island",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Roman to Integer",
+      "Frequency": 60.2,
+      "Acceptance Rate": 0.6487066329196147,
+      "Link": "https://leetcode.com/problems/roman-to-integer",
+      "Topics": "Hash Table, Math, String"
+    }
+  ]
+}

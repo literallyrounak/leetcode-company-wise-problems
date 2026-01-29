@@ -1,0 +1,49 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Find Pivot Index",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6057051050431013,
+      "Link": "https://leetcode.com/problems/find-pivot-index",
+      "Topics": "Array, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525969178647564,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Find Pivot Index",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6057051050431013,
+      "Link": "https://leetcode.com/problems/find-pivot-index",
+      "Topics": "Array, Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Visible People in a Queue",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7129705142972448,
+      "Link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525969178647564,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Mirror Score of a String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3393199271016682,
+      "Link": "https://leetcode.com/problems/find-mirror-score-of-a-string",
+      "Topics": "Hash Table, String, Stack, Simulation"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.516106229324453,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.651086356034693,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 88.6,
+      "Acceptance Rate": 0.552632990554389,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Time Difference",
+      "Frequency": 88.6,
+      "Acceptance Rate": 0.623534335935315,
+      "Link": "https://leetcode.com/problems/minimum-time-difference",
+      "Topics": "Array, Math, String, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Mirror Score of a String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3393199271016682,
+      "Link": "https://leetcode.com/problems/find-mirror-score-of-a-string",
+      "Topics": "Hash Table, String, Stack, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 74.0,
+      "Acceptance Rate": 0.516106229324453,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 74.0,
+      "Acceptance Rate": 0.6510864354564603,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.5526330287665571,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Time Difference",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.623534335935315,
+      "Link": "https://leetcode.com/problems/minimum-time-difference",
+      "Topics": "Array, Math, String, Sorting"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Find Words That Can Be Formed by Characters",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7106798822031877,
+      "Link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+      "Topics": "Array, Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4587327987118235,
+      "Link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if Every Row and Column Contains All Numbers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.528410934019593,
+      "Link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4526702064896755,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4815002699372671,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if Every Row and Column Contains All Numbers",
+      "Frequency": 95.8,
+      "Acceptance Rate": 0.528410934019593,
+      "Link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find Words That Can Be Formed by Characters",
+      "Frequency": 90.7,
+      "Acceptance Rate": 0.7106798822031877,
+      "Link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+      "Topics": "Array, Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+      "Frequency": 90.7,
+      "Acceptance Rate": 0.4587327987118235,
+      "Link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 90.7,
+      "Acceptance Rate": 0.4526702064896755,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4815002699372671,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if Every Row and Column Contains All Numbers",
+      "Frequency": 93.7,
+      "Acceptance Rate": 0.528410934019593,
+      "Link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 87.2,
+      "Acceptance Rate": 0.4526702064896755,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find Words That Can Be Formed by Characters",
+      "Frequency": 84.4,
+      "Acceptance Rate": 0.7106798822031877,
+      "Link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+      "Topics": "Array, Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+      "Frequency": 84.4,
+      "Acceptance Rate": 0.4587327987118235,
+      "Link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximal Square",
+      "Frequency": 58.9,
+      "Acceptance Rate": 0.4876116072755284,
+      "Link": "https://leetcode.com/problems/maximal-square",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4815002699372671,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find Words That Can Be Formed by Characters",
+      "Frequency": 90.3,
+      "Acceptance Rate": 0.7106798822031877,
+      "Link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+      "Topics": "Array, Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 83.0,
+      "Acceptance Rate": 0.4526702064896755,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if Every Row and Column Contains All Numbers",
+      "Frequency": 83.0,
+      "Acceptance Rate": 0.528410934019593,
+      "Link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+      "Frequency": 76.1,
+      "Acceptance Rate": 0.4587327987118235,
+      "Link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 71.5,
+      "Acceptance Rate": 0.4923435163486347,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.6232011443676149,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Ransom Note",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.645236720828959,
+      "Link": "https://leetcode.com/problems/ransom-note",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subdomain Visit Count",
+      "Frequency": 57.3,
+      "Acceptance Rate": 0.7683449765176875,
+      "Link": "https://leetcode.com/problems/subdomain-visit-count",
+      "Topics": "Array, Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Search II",
+      "Frequency": 57.3,
+      "Acceptance Rate": 0.3732632087621308,
+      "Link": "https://leetcode.com/problems/word-search-ii",
+      "Topics": "Array, String, Backtracking, Trie, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 57.3,
+      "Acceptance Rate": 0.5342347455287296,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Sudoku",
+      "Frequency": 57.3,
+      "Acceptance Rate": 0.6227680872343923,
+      "Link": "https://leetcode.com/problems/valid-sudoku",
+      "Topics": "Array, Hash Table, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4815002699372671,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if Every Row and Column Contains All Numbers",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.528410934019593,
+      "Link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find Words That Can Be Formed by Characters",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.7106798822031877,
+      "Link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+      "Topics": "Array, Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 86.1,
+      "Acceptance Rate": 0.4526702064896755,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+      "Frequency": 80.2,
+      "Acceptance Rate": 0.4587327987118235,
+      "Link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 60.9,
+      "Acceptance Rate": 0.4923436346305696,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Ransom Note",
+      "Frequency": 60.9,
+      "Acceptance Rate": 0.645236720828959,
+      "Link": "https://leetcode.com/problems/ransom-note",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Sudoku",
+      "Frequency": 55.4,
+      "Acceptance Rate": 0.6227680872343923,
+      "Link": "https://leetcode.com/problems/valid-sudoku",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 55.4,
+      "Acceptance Rate": 0.6232011443676149,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximal Square",
+      "Frequency": 55.4,
+      "Acceptance Rate": 0.4876116072755284,
+      "Link": "https://leetcode.com/problems/maximal-square",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subdomain Visit Count",
+      "Frequency": 47.6,
+      "Acceptance Rate": 0.7683449765176875,
+      "Link": "https://leetcode.com/problems/subdomain-visit-count",
+      "Topics": "Array, Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Search II",
+      "Frequency": 47.6,
+      "Acceptance Rate": 0.3732632087621308,
+      "Link": "https://leetcode.com/problems/word-search-ii",
+      "Topics": "Array, String, Backtracking, Trie, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 47.6,
+      "Acceptance Rate": 0.5342347455287296,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game",
+      "Frequency": 47.6,
+      "Acceptance Rate": 0.3947921120555532,
+      "Link": "https://leetcode.com/problems/jump-game",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 47.6,
+      "Acceptance Rate": 0.5577699688130624,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ]
+}

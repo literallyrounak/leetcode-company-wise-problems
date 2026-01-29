@@ -1,0 +1,74 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Better Compression of String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.758406942507361,
+      "Link": "https://leetcode.com/problems/better-compression-of-string",
+      "Topics": "Hash Table, String, Sorting, Counting"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Sudoku",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6227686766247266,
+      "Link": "https://leetcode.com/problems/valid-sudoku",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sudoku Solver",
+      "Frequency": 90.1,
+      "Acceptance Rate": 0.6390835734397189,
+      "Link": "https://leetcode.com/problems/sudoku-solver",
+      "Topics": "Array, Hash Table, Backtracking, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Teemo Attacking",
+      "Frequency": 79.4,
+      "Acceptance Rate": 0.5693015321819124,
+      "Link": "https://leetcode.com/problems/teemo-attacking",
+      "Topics": "Array, Simulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Teemo Attacking",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5693015321819124,
+      "Link": "https://leetcode.com/problems/teemo-attacking",
+      "Topics": "Array, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Sudoku",
+      "Frequency": 91.8,
+      "Acceptance Rate": 0.6227686766247266,
+      "Link": "https://leetcode.com/problems/valid-sudoku",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sudoku Solver",
+      "Frequency": 82.4,
+      "Acceptance Rate": 0.6390835734397189,
+      "Link": "https://leetcode.com/problems/sudoku-solver",
+      "Topics": "Array, Hash Table, Backtracking, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Better Compression of String",
+      "Frequency": 72.1,
+      "Acceptance Rate": 0.758406942507361,
+      "Link": "https://leetcode.com/problems/better-compression-of-string",
+      "Topics": "Hash Table, String, Sorting, Counting"
+    }
+  ]
+}

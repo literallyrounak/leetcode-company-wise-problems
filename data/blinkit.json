@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Avoid Flood in The City",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2739066722234919,
+      "Link": "https://leetcode.com/problems/avoid-flood-in-the-city",
+      "Topics": "Array, Hash Table, Binary Search, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Single Element in a Sorted Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.592074801559927,
+      "Link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+      "Topics": "Array, Binary Search"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Avoid Flood in The City",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2739066722234919,
+      "Link": "https://leetcode.com/problems/avoid-flood-in-the-city",
+      "Topics": "Array, Hash Table, Binary Search, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Single Element in a Sorted Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.592074801559927,
+      "Link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+      "Topics": "Array, Binary Search"
+    }
+  ]
+}

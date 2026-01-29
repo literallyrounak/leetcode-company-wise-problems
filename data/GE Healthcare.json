@@ -1,0 +1,121 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6314724725246107,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 92.3,
+      "Acceptance Rate": 0.423228968266,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lowest Common Ancestor of a Binary Tree",
+      "Frequency": 80.5,
+      "Acceptance Rate": 0.6675515631209941,
+      "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Visible People in a Queue",
+      "Frequency": 71.2,
+      "Acceptance Rate": 0.7129705142972448,
+      "Link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Employee Free Time",
+      "Frequency": 71.2,
+      "Acceptance Rate": 0.7259771560305982,
+      "Link": "https://leetcode.com/problems/employee-free-time",
+      "Topics": "Array, Line Sweep, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Car Fleet",
+      "Frequency": 71.2,
+      "Acceptance Rate": 0.5347444943339748,
+      "Link": "https://leetcode.com/problems/car-fleet",
+      "Topics": "Array, Stack, Sorting, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Concatenation of Array",
+      "Frequency": 71.2,
+      "Acceptance Rate": 0.9048989107329092,
+      "Link": "https://leetcode.com/problems/concatenation-of-array",
+      "Topics": "Array, Simulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Concatenation of Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.9048989107329092,
+      "Link": "https://leetcode.com/problems/concatenation-of-array",
+      "Topics": "Array, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 95.1,
+      "Acceptance Rate": 0.6314724725246107,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 84.9,
+      "Acceptance Rate": 0.423228968266,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lowest Common Ancestor of a Binary Tree",
+      "Frequency": 73.8,
+      "Acceptance Rate": 0.6675515631209941,
+      "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Visible People in a Queue",
+      "Frequency": 64.9,
+      "Acceptance Rate": 0.7129705142972448,
+      "Link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Car Fleet",
+      "Frequency": 64.9,
+      "Acceptance Rate": 0.5347444943339748,
+      "Link": "https://leetcode.com/problems/car-fleet",
+      "Topics": "Array, Stack, Sorting, Monotonic Stack"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Employee Free Time",
+      "Frequency": 64.9,
+      "Acceptance Rate": 0.7259771560305982,
+      "Link": "https://leetcode.com/problems/employee-free-time",
+      "Topics": "Array, Line Sweep, Sorting, Heap (Priority Queue)"
+    }
+  ]
+}

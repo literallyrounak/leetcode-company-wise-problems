@@ -1,0 +1,40 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4939526408318937,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "String Compression",
+      "Frequency": 92.9,
+      "Acceptance Rate": 0.580915717497265,
+      "Link": "https://leetcode.com/problems/string-compression",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Permutations",
+      "Frequency": 82.8,
+      "Acceptance Rate": 0.8066019584580677,
+      "Link": "https://leetcode.com/problems/permutations",
+      "Topics": "Array, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Arranging Coins",
+      "Frequency": 82.8,
+      "Acceptance Rate": 0.4733714469621681,
+      "Link": "https://leetcode.com/problems/arranging-coins",
+      "Topics": "Math, Binary Search"
+    }
+  ],
+  "5. All": []
+}

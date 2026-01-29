@@ -1,0 +1,51 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Elements With Maximum Frequency",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7792370150792628,
+      "Link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+      "Topics": "Array, Hash Table, Counting"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Elements With Maximum Frequency",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7792370150792628,
+      "Link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+      "Topics": "Array, Hash Table, Counting"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Elements With Maximum Frequency",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7792370150792628,
+      "Link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+      "Topics": "Array, Hash Table, Counting"
+    }
+  ],
+  "4. More Than Six Months": [],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Elements With Maximum Frequency",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7792370150792628,
+      "Link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+      "Topics": "Array, Hash Table, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Frequency of the Most Frequent Element",
+      "Frequency": 89.4,
+      "Acceptance Rate": 0.4410334035974388,
+      "Link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+      "Topics": "Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
+    }
+  ]
+}

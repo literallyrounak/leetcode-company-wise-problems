@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Average Salary Excluding the Minimum and Maximum Salary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6343821503413254,
+      "Link": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Employee Bonus",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7707336952655446,
+      "Link": "https://leetcode.com/problems/employee-bonus",
+      "Topics": "Database"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Employee Bonus",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7707336952655446,
+      "Link": "https://leetcode.com/problems/employee-bonus",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Average Salary Excluding the Minimum and Maximum Salary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6343821503413254,
+      "Link": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary",
+      "Topics": "Array, Sorting"
+    }
+  ]
+}

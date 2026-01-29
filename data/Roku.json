@@ -1,0 +1,218 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "24 Game",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5000170520428348,
+      "Link": "https://leetcode.com/problems/24-game",
+      "Topics": "Array, Math, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Palindrome II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4302720128918736,
+      "Link": "https://leetcode.com/problems/valid-palindrome-ii",
+      "Topics": "Two Pointers, String, Greedy"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4760419873658764,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Substring with Concatenation of All Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3299746364949338,
+      "Link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Simplify Path",
+      "Frequency": 88.2,
+      "Acceptance Rate": 0.4785475875201086,
+      "Link": "https://leetcode.com/problems/simplify-path",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Asteroid Collision",
+      "Frequency": 88.2,
+      "Acceptance Rate": 0.4550061229796745,
+      "Link": "https://leetcode.com/problems/asteroid-collision",
+      "Topics": "Array, Stack, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 88.2,
+      "Acceptance Rate": 0.4521484931675215,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximum Product of Three Numbers",
+      "Frequency": 88.2,
+      "Acceptance Rate": 0.4531179403180326,
+      "Link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+      "Topics": "Array, Math, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Backspace String Compare",
+      "Frequency": 88.2,
+      "Acceptance Rate": 0.494817507336685,
+      "Link": "https://leetcode.com/problems/backspace-string-compare",
+      "Topics": "Two Pointers, String, Stack, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Multiply Strings",
+      "Frequency": 88.2,
+      "Acceptance Rate": 0.4228951540469344,
+      "Link": "https://leetcode.com/problems/multiply-strings",
+      "Topics": "Math, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 88.2,
+      "Acceptance Rate": 0.6115258855748797,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Substring with Concatenation of All Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3299746364949338,
+      "Link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4760419873658764,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4521484931675215,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Simplify Path",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.4785475875201086,
+      "Link": "https://leetcode.com/problems/simplify-path",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.6115258855748797,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Asteroid Collision",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.4550061229796745,
+      "Link": "https://leetcode.com/problems/asteroid-collision",
+      "Topics": "Array, Stack, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Backspace String Compare",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.494817507336685,
+      "Link": "https://leetcode.com/problems/backspace-string-compare",
+      "Topics": "Two Pointers, String, Stack, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Multiply Strings",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.4228951540469344,
+      "Link": "https://leetcode.com/problems/multiply-strings",
+      "Topics": "Math, String, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximum Product of Three Numbers",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.4531179403180326,
+      "Link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+      "Topics": "Array, Math, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Max Consecutive Ones III",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.659395885149928,
+      "Link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+      "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Path to Get All Keys",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.537030042053839,
+      "Link": "https://leetcode.com/problems/shortest-path-to-get-all-keys",
+      "Topics": "Array, Bit Manipulation, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "24 Game",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.5000170520428348,
+      "Link": "https://leetcode.com/problems/24-game",
+      "Topics": "Array, Math, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Palindrome II",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.4302720128918736,
+      "Link": "https://leetcode.com/problems/valid-palindrome-ii",
+      "Topics": "Two Pointers, String, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.6456597639542642,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Parenthesis String",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.3890943290154454,
+      "Link": "https://leetcode.com/problems/valid-parenthesis-string",
+      "Topics": "String, Dynamic Programming, Stack, Greedy"
+    }
+  ]
+}

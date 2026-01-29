@@ -1,0 +1,249 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Clone Graph",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6238586619062403,
+      "Link": "https://leetcode.com/problems/clone-graph",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Repeating Character Replacement",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5721182355010312,
+      "Link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.482739888182738,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sort Colors",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6758313357788631,
+      "Link": "https://leetcode.com/problems/sort-colors",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Alien Dictionary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3667361451288913,
+      "Link": "https://leetcode.com/problems/alien-dictionary",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Non-negative Integers without Consecutive Ones",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4030213766451369,
+      "Link": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Basic Calculator III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5246948282838411,
+      "Link": "https://leetcode.com/problems/basic-calculator-iii",
+      "Topics": "Math, String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5927723758908081,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Palindrome",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4065591390802263,
+      "Link": "https://leetcode.com/problems/shortest-palindrome",
+      "Topics": "String, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Largest Element in an Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6797712416691327,
+      "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5499151153774708,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find All Duplicates in an Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7640875331476287,
+      "Link": "https://leetcode.com/problems/find-all-duplicates-in-an-array",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6456611344925648,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find the Index of the First Occurrence in a String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4497156554644657,
+      "Link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+      "Topics": "Two Pointers, String, String Matching"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Inorder Successor in BST",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5066789131179683,
+      "Link": "https://leetcode.com/problems/inorder-successor-in-bst",
+      "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Find the Index of the First Occurrence in a String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4497156554644657,
+      "Link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+      "Topics": "Two Pointers, String, String Matching"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sort Colors",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6758313357788631,
+      "Link": "https://leetcode.com/problems/sort-colors",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Non-negative Integers without Consecutive Ones",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4030213766451369,
+      "Link": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Clone Graph",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6238586619062403,
+      "Link": "https://leetcode.com/problems/clone-graph",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4827400085243717,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5927723758908081,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Palindrome",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4065591390802263,
+      "Link": "https://leetcode.com/problems/shortest-palindrome",
+      "Topics": "String, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Largest Element in an Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6797712416691327,
+      "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Alien Dictionary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3667361451288913,
+      "Link": "https://leetcode.com/problems/alien-dictionary",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Basic Calculator III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5246948282838411,
+      "Link": "https://leetcode.com/problems/basic-calculator-iii",
+      "Topics": "Math, String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Inorder Successor in BST",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5066789131179683,
+      "Link": "https://leetcode.com/problems/inorder-successor-in-bst",
+      "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6456611344925648,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5499151153774708,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Repeating Character Replacement",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5721182355010312,
+      "Link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find All Duplicates in an Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7640875331476287,
+      "Link": "https://leetcode.com/problems/find-all-duplicates-in-an-array",
+      "Topics": "Array, Hash Table"
+    }
+  ]
+}

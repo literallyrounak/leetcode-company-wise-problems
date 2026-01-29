@@ -1,0 +1,65 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Market Analysis I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.571925862803579,
+      "Link": "https://leetcode.com/problems/market-analysis-i",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Market Analysis II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5784402208536844,
+      "Link": "https://leetcode.com/problems/market-analysis-ii",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Unguarded Cells in the Grid",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6575999128429539,
+      "Link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid",
+      "Topics": "Array, Matrix, Simulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Unguarded Cells in the Grid",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6575999128429539,
+      "Link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Market Analysis I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.571925862803579,
+      "Link": "https://leetcode.com/problems/market-analysis-i",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Market Analysis II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5784402208536844,
+      "Link": "https://leetcode.com/problems/market-analysis-ii",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Max Chunks To Make Sorted",
+      "Frequency": 66.4,
+      "Acceptance Rate": 0.6404048068659659,
+      "Link": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+      "Topics": "Array, Stack, Greedy, Sorting, Monotonic Stack"
+    }
+  ]
+}

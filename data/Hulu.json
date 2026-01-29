@@ -1,0 +1,89 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Binary Tree Pruning",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7235985436633292,
+      "Link": "https://leetcode.com/problems/binary-tree-pruning",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Basic Calculator III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5246967071057193,
+      "Link": "https://leetcode.com/problems/basic-calculator-iii",
+      "Topics": "Math, String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Two Integers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5368154423177579,
+      "Link": "https://leetcode.com/problems/sum-of-two-integers",
+      "Topics": "Math, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Valid Subarrays",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7924088008381751,
+      "Link": "https://leetcode.com/problems/number-of-valid-subarrays",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "K-th Smallest in Lexicographical Order",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4590476135927557,
+      "Link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+      "Topics": "Trie"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Valid Subarrays",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7924088008381751,
+      "Link": "https://leetcode.com/problems/number-of-valid-subarrays",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Basic Calculator III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5246967071057193,
+      "Link": "https://leetcode.com/problems/basic-calculator-iii",
+      "Topics": "Math, String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Binary Tree Pruning",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7235985436633292,
+      "Link": "https://leetcode.com/problems/binary-tree-pruning",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Two Integers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5368154423177579,
+      "Link": "https://leetcode.com/problems/sum-of-two-integers",
+      "Topics": "Math, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "K-th Smallest in Lexicographical Order",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4590476135927557,
+      "Link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+      "Topics": "Trie"
+    }
+  ]
+}

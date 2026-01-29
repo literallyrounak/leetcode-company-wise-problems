@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6115583433240551,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Brightest Position on Street",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6059444605148974,
+      "Link": "https://leetcode.com/problems/brightest-position-on-street",
+      "Topics": "Array, Sorting, Prefix Sum, Ordered Set"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6115583433240551,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Brightest Position on Street",
+      "Frequency": 90.3,
+      "Acceptance Rate": 0.6059444605148974,
+      "Link": "https://leetcode.com/problems/brightest-position-on-street",
+      "Topics": "Array, Sorting, Prefix Sum, Ordered Set"
+    }
+  ]
+}

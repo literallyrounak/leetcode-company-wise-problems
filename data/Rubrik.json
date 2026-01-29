@@ -1,0 +1,611 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Find X Value of Array II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2741993957703927,
+      "Link": "https://leetcode.com/problems/find-x-value-of-array-ii",
+      "Topics": "Array, Math, Segment Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find X Value of Array I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3315965471654094,
+      "Link": "https://leetcode.com/problems/find-x-value-of-array-i",
+      "Topics": "Array, Math, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 66.3,
+      "Acceptance Rate": 0.4305777991035235,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.1984073424213793,
+      "Link": "https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+      "Topics": "Array, Dynamic Programming, Segment Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Manhattan Distances of All Arrangements of Pieces",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3298979387632579,
+      "Link": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces",
+      "Topics": "Math, Combinatorics"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find X Value of Array II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2741993957703927,
+      "Link": "https://leetcode.com/problems/find-x-value-of-array-ii",
+      "Topics": "Array, Math, Segment Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find X Value of Array I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3315965471654094,
+      "Link": "https://leetcode.com/problems/find-x-value-of-array-i",
+      "Topics": "Array, Math, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Snapshot Array",
+      "Frequency": 63.4,
+      "Acceptance Rate": 0.3666532076028315,
+      "Link": "https://leetcode.com/problems/snapshot-array",
+      "Topics": "Array, Hash Table, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Memory Allocator",
+      "Frequency": 63.4,
+      "Acceptance Rate": 0.484441262323071,
+      "Link": "https://leetcode.com/problems/design-memory-allocator",
+      "Topics": "Array, Hash Table, Design, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Web Crawler",
+      "Frequency": 63.4,
+      "Acceptance Rate": 0.6876521792062333,
+      "Link": "https://leetcode.com/problems/web-crawler",
+      "Topics": "String, Depth-First Search, Breadth-First Search, Interactive"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 63.4,
+      "Acceptance Rate": 0.4305777991035235,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Points After Enemy Battles",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3253262567778697,
+      "Link": "https://leetcode.com/problems/maximum-points-after-enemy-battles",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 62.7,
+      "Acceptance Rate": 0.4521471552799032,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Longest Special Substring That Occurs Thrice II",
+      "Frequency": 62.7,
+      "Acceptance Rate": 0.3841043604300036,
+      "Link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii",
+      "Topics": "Hash Table, String, Binary Search, Sliding Window, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Stamping the Grid",
+      "Frequency": 54.4,
+      "Acceptance Rate": 0.3324935104596122,
+      "Link": "https://leetcode.com/problems/stamping-the-grid",
+      "Topics": "Array, Greedy, Matrix, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 54.4,
+      "Acceptance Rate": 0.5499189489424546,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Scramble String",
+      "Frequency": 51.4,
+      "Acceptance Rate": 0.4218183471253161,
+      "Link": "https://leetcode.com/problems/scramble-string",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Web Crawler Multithreaded",
+      "Frequency": 47.8,
+      "Acceptance Rate": 0.5009640940121944,
+      "Link": "https://leetcode.com/problems/web-crawler-multithreaded",
+      "Topics": "Depth-First Search, Breadth-First Search, Concurrency"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Add and Search Words Data Structure",
+      "Frequency": 47.8,
+      "Acceptance Rate": 0.4706668909360868,
+      "Link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+      "Topics": "String, Depth-First Search, Design, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 43.2,
+      "Acceptance Rate": 0.4305777991035235,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Edit Distance",
+      "Frequency": 43.2,
+      "Acceptance Rate": 0.5878982716843788,
+      "Link": "https://leetcode.com/problems/edit-distance",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Lattice Points Inside a Circle",
+      "Frequency": 43.2,
+      "Acceptance Rate": 0.5524300028092518,
+      "Link": "https://leetcode.com/problems/count-lattice-points-inside-a-circle",
+      "Topics": "Array, Hash Table, Math, Geometry, Enumeration"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Candy Crush",
+      "Frequency": 43.2,
+      "Acceptance Rate": 0.7736899161778655,
+      "Link": "https://leetcode.com/problems/candy-crush",
+      "Topics": "Array, Two Pointers, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 43.2,
+      "Acceptance Rate": 0.4827844806841818,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Snapshot Array",
+      "Frequency": 43.2,
+      "Acceptance Rate": 0.3666532076028315,
+      "Link": "https://leetcode.com/problems/snapshot-array",
+      "Topics": "Array, Hash Table, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Alice and Bob Playing Flower Game",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.4574722690474704,
+      "Link": "https://leetcode.com/problems/alice-and-bob-playing-flower-game",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Distribute Candies Among Children II",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.5613421338342496,
+      "Link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+      "Topics": "Math, Combinatorics, Enumeration"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Distribute Candies Among Children III",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.5759096612296111,
+      "Link": "https://leetcode.com/problems/distribute-candies-among-children-iii",
+      "Topics": "Math, Combinatorics"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Bounded Blocking Queue",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.7299444681759931,
+      "Link": "https://leetcode.com/problems/design-bounded-blocking-queue",
+      "Topics": "Concurrency"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find the Sum of Subsequence Powers",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.234628919378435,
+      "Link": "https://leetcode.com/problems/find-the-sum-of-subsequence-powers",
+      "Topics": "Array, Dynamic Programming, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Existence of a Substring in a String and Its Reverse",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.6570279684458559,
+      "Link": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design a Text Editor",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.4713807144713662,
+      "Link": "https://leetcode.com/problems/design-a-text-editor",
+      "Topics": "Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Distribute Candies Among Children I",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.7497536136662286,
+      "Link": "https://leetcode.com/problems/distribute-candies-among-children-i",
+      "Topics": "Math, Combinatorics, Enumeration"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Task Scheduler",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.6153931254639827,
+      "Link": "https://leetcode.com/problems/task-scheduler",
+      "Topics": "Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Cherry Pickup II",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.7196542271599925,
+      "Link": "https://leetcode.com/problems/cherry-pickup-ii",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Number of Refueling Stops",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.405574587771098,
+      "Link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+      "Topics": "Array, Dynamic Programming, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.4760412052856051,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Remove Invalid Parentheses",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.4923173156124781,
+      "Link": "https://leetcode.com/problems/remove-invalid-parentheses",
+      "Topics": "String, Backtracking, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "4Sum",
+      "Frequency": 36.7,
+      "Acceptance Rate": 0.3821906583861416,
+      "Link": "https://leetcode.com/problems/4sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Points After Enemy Battles",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3253262567778697,
+      "Link": "https://leetcode.com/problems/maximum-points-after-enemy-battles",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Stamping the Grid",
+      "Frequency": 67.8,
+      "Acceptance Rate": 0.3324935104596122,
+      "Link": "https://leetcode.com/problems/stamping-the-grid",
+      "Topics": "Array, Greedy, Matrix, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Alice and Bob Playing Flower Game",
+      "Frequency": 62.6,
+      "Acceptance Rate": 0.4574722690474704,
+      "Link": "https://leetcode.com/problems/alice-and-bob-playing-flower-game",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 62.6,
+      "Acceptance Rate": 0.4521471552799032,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Lattice Points Inside a Circle",
+      "Frequency": 62.6,
+      "Acceptance Rate": 0.5524300028092518,
+      "Link": "https://leetcode.com/problems/count-lattice-points-inside-a-circle",
+      "Topics": "Array, Hash Table, Math, Geometry, Enumeration"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Candy Crush",
+      "Frequency": 62.6,
+      "Acceptance Rate": 0.7736899161778655,
+      "Link": "https://leetcode.com/problems/candy-crush",
+      "Topics": "Array, Two Pointers, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 62.6,
+      "Acceptance Rate": 0.4827844806841818,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Distribute Candies Among Children III",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.5759096612296111,
+      "Link": "https://leetcode.com/problems/distribute-candies-among-children-iii",
+      "Topics": "Math, Combinatorics"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Distribute Candies Among Children II",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.5613421338342496,
+      "Link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+      "Topics": "Math, Combinatorics, Enumeration"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Distribute Candies Among Children I",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.7497536136662286,
+      "Link": "https://leetcode.com/problems/distribute-candies-among-children-i",
+      "Topics": "Math, Combinatorics, Enumeration"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find X Value of Array I",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.3315965471654094,
+      "Link": "https://leetcode.com/problems/find-x-value-of-array-i",
+      "Topics": "Array, Math, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Longest Special Substring That Occurs Thrice II",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.3841043604300036,
+      "Link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii",
+      "Topics": "Hash Table, String, Binary Search, Sliding Window, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find the Sum of Subsequence Powers",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.234628919378435,
+      "Link": "https://leetcode.com/problems/find-the-sum-of-subsequence-powers",
+      "Topics": "Array, Dynamic Programming, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Existence of a Substring in a String and Its Reverse",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.6570279684458559,
+      "Link": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.1984073424213793,
+      "Link": "https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+      "Topics": "Array, Dynamic Programming, Segment Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find X Value of Array II",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.2741993957703927,
+      "Link": "https://leetcode.com/problems/find-x-value-of-array-ii",
+      "Topics": "Array, Math, Segment Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Manhattan Distances of All Arrangements of Pieces",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.3298979387632579,
+      "Link": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces",
+      "Topics": "Math, Combinatorics"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.5499189489424546,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Snapshot Array",
+      "Frequency": 49.2,
+      "Acceptance Rate": 0.3666532076028315,
+      "Link": "https://leetcode.com/problems/snapshot-array",
+      "Topics": "Array, Hash Table, Binary Search, Design"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Scramble String",
+      "Frequency": 49.2,
+      "Acceptance Rate": 0.4218183471253161,
+      "Link": "https://leetcode.com/problems/scramble-string",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 49.2,
+      "Acceptance Rate": 0.4305777991035235,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Web Crawler Multithreaded",
+      "Frequency": 49.2,
+      "Acceptance Rate": 0.5009640940121944,
+      "Link": "https://leetcode.com/problems/web-crawler-multithreaded",
+      "Topics": "Depth-First Search, Breadth-First Search, Concurrency"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Add and Search Words Data Structure",
+      "Frequency": 45.5,
+      "Acceptance Rate": 0.4706668909360868,
+      "Link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+      "Topics": "String, Depth-First Search, Design, Trie"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design a Text Editor",
+      "Frequency": 40.6,
+      "Acceptance Rate": 0.4713807144713662,
+      "Link": "https://leetcode.com/problems/design-a-text-editor",
+      "Topics": "Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Web Crawler",
+      "Frequency": 40.6,
+      "Acceptance Rate": 0.6876521792062333,
+      "Link": "https://leetcode.com/problems/web-crawler",
+      "Topics": "String, Depth-First Search, Breadth-First Search, Interactive"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Task Scheduler",
+      "Frequency": 40.6,
+      "Acceptance Rate": 0.6153931254639827,
+      "Link": "https://leetcode.com/problems/task-scheduler",
+      "Topics": "Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Edit Distance",
+      "Frequency": 40.6,
+      "Acceptance Rate": 0.5878982716843788,
+      "Link": "https://leetcode.com/problems/edit-distance",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 40.6,
+      "Acceptance Rate": 0.4760412052856051,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Building H2O",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.5758696646024687,
+      "Link": "https://leetcode.com/problems/building-h2o",
+      "Topics": "Concurrency"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "4Sum",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.3821906583861416,
+      "Link": "https://leetcode.com/problems/4sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Prefix and Suffix Search",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.4041937535878857,
+      "Link": "https://leetcode.com/problems/prefix-and-suffix-search",
+      "Topics": "Array, Hash Table, String, Design, Trie"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Remove Invalid Parentheses",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.4923173156124781,
+      "Link": "https://leetcode.com/problems/remove-invalid-parentheses",
+      "Topics": "String, Backtracking, Breadth-First Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Cherry Pickup II",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.7196542271599925,
+      "Link": "https://leetcode.com/problems/cherry-pickup-ii",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Number of Refueling Stops",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.405574587771098,
+      "Link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+      "Topics": "Array, Dynamic Programming, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Bounded Blocking Queue",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.7299444681759931,
+      "Link": "https://leetcode.com/problems/design-bounded-blocking-queue",
+      "Topics": "Concurrency"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Memory Allocator",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.484441262323071,
+      "Link": "https://leetcode.com/problems/design-memory-allocator",
+      "Topics": "Array, Hash Table, Design, Simulation"
+    }
+  ]
+}

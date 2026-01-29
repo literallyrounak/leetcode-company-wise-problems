@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Winner of the Circular Game",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8206658206658206,
+      "Link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+      "Topics": "Array, Math, Recursion, Queue, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5499162240666585,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sell Diminishing-Valued Colored Balls",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2996067002222998,
+      "Link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+      "Topics": "Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4150345201543953,
+      "Link": "https://leetcode.com/problems/jump-game-ii",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sell Diminishing-Valued Colored Balls",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2996067002222998,
+      "Link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+      "Topics": "Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game II",
+      "Frequency": 74.9,
+      "Acceptance Rate": 0.4150345201543953,
+      "Link": "https://leetcode.com/problems/jump-game-ii",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 66.5,
+      "Acceptance Rate": 0.5499162240666585,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Winner of the Circular Game",
+      "Frequency": 66.5,
+      "Acceptance Rate": 0.8206658206658206,
+      "Link": "https://leetcode.com/problems/find-the-winner-of-the-circular-game",
+      "Topics": "Array, Math, Recursion, Queue, Simulation"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Max Area of Island",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7316420661679919,
+      "Link": "https://leetcode.com/problems/max-area-of-island",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5927710095523129,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7092887900352582,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6456608564373112,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5927710095523129,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Max Area of Island",
+      "Frequency": 89.4,
+      "Acceptance Rate": 0.7316420661679919,
+      "Link": "https://leetcode.com/problems/max-area-of-island",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 89.4,
+      "Acceptance Rate": 0.6456608564373112,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 89.4,
+      "Acceptance Rate": 0.7092887900352582,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    }
+  ]
+}

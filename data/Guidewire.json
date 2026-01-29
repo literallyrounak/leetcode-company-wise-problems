@@ -1,0 +1,116 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Print Words Vertically",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6622658589234733,
+      "Link": "https://leetcode.com/problems/print-words-vertically",
+      "Topics": "Array, String, Simulation"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Print Words Vertically",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6622658589234733,
+      "Link": "https://leetcode.com/problems/print-words-vertically",
+      "Topics": "Array, String, Simulation"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Construct the Longest New String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5384322081417517,
+      "Link": "https://leetcode.com/problems/construct-the-longest-new-string",
+      "Topics": "Math, Dynamic Programming, Greedy, Brainteaser"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Print Words Vertically",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6622658589234733,
+      "Link": "https://leetcode.com/problems/print-words-vertically",
+      "Topics": "Array, String, Simulation"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Moves to Spread Stones Over Grid",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4431509316566788,
+      "Link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7425819778656343,
+      "Link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+      "Topics": "Tree, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Get Watched Videos by Your Friends",
+      "Frequency": 90.0,
+      "Acceptance Rate": 0.497568206030849,
+      "Link": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+      "Topics": "Array, Hash Table, Breadth-First Search, Graph, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Moves to Spread Stones Over Grid",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4431509316566788,
+      "Link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7425819778656343,
+      "Link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+      "Topics": "Tree, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Construct the Longest New String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5384322081417517,
+      "Link": "https://leetcode.com/problems/construct-the-longest-new-string",
+      "Topics": "Math, Dynamic Programming, Greedy, Brainteaser"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Get Watched Videos by Your Friends",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.497568206030849,
+      "Link": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+      "Topics": "Array, Hash Table, Breadth-First Search, Graph, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Largest Element in an Array",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.679770776384085,
+      "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Print Words Vertically",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.6622658589234733,
+      "Link": "https://leetcode.com/problems/print-words-vertically",
+      "Topics": "Array, String, Simulation"
+    }
+  ]
+}

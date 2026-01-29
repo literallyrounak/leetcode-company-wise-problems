@@ -1,0 +1,252 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Celebrity",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4843840356335517,
+      "Link": "https://leetcode.com/problems/find-the-celebrity",
+      "Topics": "Two Pointers, Graph, Interactive"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 85.0,
+      "Acceptance Rate": 0.5577699645064844,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Celebrity",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4843840356335517,
+      "Link": "https://leetcode.com/problems/find-the-celebrity",
+      "Topics": "Two Pointers, Graph, Interactive"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 80.4,
+      "Acceptance Rate": 0.493952556147635,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 80.4,
+      "Acceptance Rate": 0.5577699645064844,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.493952556147635,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 92.5,
+      "Acceptance Rate": 0.5577699645064844,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Celebrity",
+      "Frequency": 92.5,
+      "Acceptance Rate": 0.4843840356335517,
+      "Link": "https://leetcode.com/problems/find-the-celebrity",
+      "Topics": "Two Pointers, Graph, Interactive"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 81.1,
+      "Acceptance Rate": 0.5291960020290873,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Number of Occurrences of a Substring",
+      "Frequency": 72.1,
+      "Acceptance Rate": 0.534283561940137,
+      "Link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 72.1,
+      "Acceptance Rate": 0.5214182529017943,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Two Sorted Lists",
+      "Frequency": 72.1,
+      "Acceptance Rate": 0.6684090841114372,
+      "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "Topics": "Linked List, Recursion"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5291960020290873,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Two Sorted Lists",
+      "Frequency": 93.2,
+      "Acceptance Rate": 0.6684090841114372,
+      "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Number of Occurrences of a Substring",
+      "Frequency": 83.0,
+      "Acceptance Rate": 0.534283561940137,
+      "Link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 74.8,
+      "Acceptance Rate": 0.5577699645064844,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 60.9,
+      "Acceptance Rate": 0.6456599976389505,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Merge k Sorted Lists",
+      "Frequency": 60.9,
+      "Acceptance Rate": 0.5677423817534303,
+      "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 60.9,
+      "Acceptance Rate": 0.5214182529017943,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 60.9,
+      "Acceptance Rate": 0.493952556147635,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5291960020290873,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Two Sorted Lists",
+      "Frequency": 92.9,
+      "Acceptance Rate": 0.6684090841114372,
+      "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 87.1,
+      "Acceptance Rate": 0.5577699645064844,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 87.1,
+      "Acceptance Rate": 0.493952556147635,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Number of Occurrences of a Substring",
+      "Frequency": 84.7,
+      "Acceptance Rate": 0.534283561940137,
+      "Link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Celebrity",
+      "Frequency": 75.1,
+      "Acceptance Rate": 0.4843840356335517,
+      "Link": "https://leetcode.com/problems/find-the-celebrity",
+      "Topics": "Two Pointers, Graph, Interactive"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 70.6,
+      "Acceptance Rate": 0.5214182529017943,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 56.5,
+      "Acceptance Rate": 0.6456599976389505,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Merge k Sorted Lists",
+      "Frequency": 56.5,
+      "Acceptance Rate": 0.5677423817534303,
+      "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find the K-Sum of an Array",
+      "Frequency": 56.5,
+      "Acceptance Rate": 0.396819360414866,
+      "Link": "https://leetcode.com/problems/find-the-k-sum-of-an-array",
+      "Topics": "Array, Sorting, Heap (Priority Queue)"
+    }
+  ]
+}

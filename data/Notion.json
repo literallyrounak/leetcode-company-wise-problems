@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4936486926116228,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4815475571977295,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design a Todo List",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5843904157857647,
+      "Link": "https://leetcode.com/problems/design-a-todo-list",
+      "Topics": "Array, Hash Table, String, Design, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4936486926116228,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4815475571977295,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design a Todo List",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5843904157857647,
+      "Link": "https://leetcode.com/problems/design-a-todo-list",
+      "Topics": "Array, Hash Table, String, Design, Sorting"
+    }
+  ]
+}

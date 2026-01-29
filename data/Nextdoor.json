@@ -1,0 +1,155 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "All O`one Data Structure",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4413480853234703,
+      "Link": "https://leetcode.com/problems/all-oone-data-structure",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "All O`one Data Structure",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4413480853234703,
+      "Link": "https://leetcode.com/problems/all-oone-data-structure",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Compare Version Numbers",
+      "Frequency": 76.7,
+      "Acceptance Rate": 0.4234723231238846,
+      "Link": "https://leetcode.com/problems/compare-version-numbers",
+      "Topics": "Two Pointers, String"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Compare Version Numbers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4234723231238846,
+      "Link": "https://leetcode.com/problems/compare-version-numbers",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 85.3,
+      "Acceptance Rate": 0.4939525764689584,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 70.6,
+      "Acceptance Rate": 0.6385758739982268,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 70.6,
+      "Acceptance Rate": 0.6510217577539866,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Nested List Weight Sum",
+      "Frequency": 70.6,
+      "Acceptance Rate": 0.8554010438592917,
+      "Link": "https://leetcode.com/problems/nested-list-weight-sum",
+      "Topics": "Depth-First Search, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Divide Two Integers",
+      "Frequency": 70.6,
+      "Acceptance Rate": 0.1839700628527233,
+      "Link": "https://leetcode.com/problems/divide-two-integers",
+      "Topics": "Math, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 70.6,
+      "Acceptance Rate": 0.493664334355531,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Compare Version Numbers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4234723231238846,
+      "Link": "https://leetcode.com/problems/compare-version-numbers",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "All O`one Data Structure",
+      "Frequency": 98.0,
+      "Acceptance Rate": 0.4413480853234703,
+      "Link": "https://leetcode.com/problems/all-oone-data-structure",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 78.9,
+      "Acceptance Rate": 0.4939525764689584,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.6385758739982268,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.6510217577539866,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Nested List Weight Sum",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.8554010438592917,
+      "Link": "https://leetcode.com/problems/nested-list-weight-sum",
+      "Topics": "Depth-First Search, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Divide Two Integers",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.1839700628527233,
+      "Link": "https://leetcode.com/problems/divide-two-integers",
+      "Topics": "Math, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.493664334355531,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    }
+  ]
+}

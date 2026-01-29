@@ -1,0 +1,131 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximize Distance to Closest Person",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4898931447175697,
+      "Link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+      "Topics": "Array"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Summary Ranges",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5302431124795074,
+      "Link": "https://leetcode.com/problems/summary-ranges",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximize Distance to Closest Person",
+      "Frequency": 89.9,
+      "Acceptance Rate": 0.4898931447175697,
+      "Link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Subarray of 1's After Deleting One Element",
+      "Frequency": 89.9,
+      "Acceptance Rate": 0.6923692019165307,
+      "Link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+      "Topics": "Array, Dynamic Programming, Sliding Window"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6280481964197672,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4232839601634058,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximize Distance to Closest Person",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4898931447175697,
+      "Link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 92.6,
+      "Acceptance Rate": 0.5292466143644876,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximize Distance to Closest Person",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4898931447175697,
+      "Link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 95.6,
+      "Acceptance Rate": 0.6280482534248885,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 90.2,
+      "Acceptance Rate": 0.4232839601634058,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 83.2,
+      "Acceptance Rate": 0.5292466143644876,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Summary Ranges",
+      "Frequency": 83.2,
+      "Acceptance Rate": 0.5302431124795074,
+      "Link": "https://leetcode.com/problems/summary-ranges",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Palindrome",
+      "Frequency": 73.3,
+      "Acceptance Rate": 0.5096809657578885,
+      "Link": "https://leetcode.com/problems/valid-palindrome",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Subarray of 1's After Deleting One Element",
+      "Frequency": 73.3,
+      "Acceptance Rate": 0.6923692019165307,
+      "Link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+      "Topics": "Array, Dynamic Programming, Sliding Window"
+    }
+  ]
+}

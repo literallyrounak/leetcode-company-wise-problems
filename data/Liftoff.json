@@ -1,0 +1,107 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "N-Queens II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7673358368072375,
+      "Link": "https://leetcode.com/problems/n-queens-ii",
+      "Topics": "Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Diagonal Traverse",
+      "Frequency": 95.2,
+      "Acceptance Rate": 0.631766490373426,
+      "Link": "https://leetcode.com/problems/diagonal-traverse",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Diagonal Traverse II",
+      "Frequency": 80.2,
+      "Acceptance Rate": 0.5802102312543799,
+      "Link": "https://leetcode.com/problems/diagonal-traverse-ii",
+      "Topics": "Array, Sorting, Heap (Priority Queue)"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "N-Queens II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7673358368072375,
+      "Link": "https://leetcode.com/problems/n-queens-ii",
+      "Topics": "Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Diagonal Traverse",
+      "Frequency": 95.2,
+      "Acceptance Rate": 0.631766490373426,
+      "Link": "https://leetcode.com/problems/diagonal-traverse",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Diagonal Traverse II",
+      "Frequency": 80.2,
+      "Acceptance Rate": 0.5802102312543799,
+      "Link": "https://leetcode.com/problems/diagonal-traverse-ii",
+      "Topics": "Array, Sorting, Heap (Priority Queue)"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Diagonal Traverse",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.631766490373426,
+      "Link": "https://leetcode.com/problems/diagonal-traverse",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 96.2,
+      "Acceptance Rate": 0.4827945955457007,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Diagonal Traverse",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.631766490373426,
+      "Link": "https://leetcode.com/problems/diagonal-traverse",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 89.7,
+      "Acceptance Rate": 0.4827945955457007,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "N-Queens II",
+      "Frequency": 86.0,
+      "Acceptance Rate": 0.7673358368072375,
+      "Link": "https://leetcode.com/problems/n-queens-ii",
+      "Topics": "Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Diagonal Traverse II",
+      "Frequency": 75.7,
+      "Acceptance Rate": 0.5802102312543799,
+      "Link": "https://leetcode.com/problems/diagonal-traverse-ii",
+      "Topics": "Array, Sorting, Heap (Priority Queue)"
+    }
+  ]
+}

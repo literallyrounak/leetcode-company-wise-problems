@@ -1,0 +1,66 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Interval",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4347348063449464,
+      "Link": "https://leetcode.com/problems/insert-interval",
+      "Topics": "Array"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4939523116299608,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 59.9,
+      "Acceptance Rate": 0.6115276408838193,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4939523116299608,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 58.6,
+      "Acceptance Rate": 0.6115276408838193,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Interval",
+      "Frequency": 58.6,
+      "Acceptance Rate": 0.4347348063449464,
+      "Link": "https://leetcode.com/problems/insert-interval",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 58.6,
+      "Acceptance Rate": 0.521415184400224,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    }
+  ]
+}

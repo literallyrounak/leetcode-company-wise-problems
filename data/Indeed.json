@@ -1,0 +1,121 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Merge k Sorted Lists",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5677424791476416,
+      "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Even Numbers After Queries",
+      "Frequency": 89.1,
+      "Acceptance Rate": 0.6852833849138529,
+      "Link": "https://leetcode.com/problems/sum-of-even-numbers-after-queries",
+      "Topics": "Array, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Moves to Equal Array Elements",
+      "Frequency": 89.1,
+      "Acceptance Rate": 0.577054187220996,
+      "Link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+      "Topics": "Array, Math"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Cost to Split an Array",
+      "Frequency": 89.1,
+      "Acceptance Rate": 0.4233523732204471,
+      "Link": "https://leetcode.com/problems/minimum-cost-to-split-an-array",
+      "Topics": "Array, Hash Table, Dynamic Programming, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Players With Zero or One Losses",
+      "Frequency": 89.1,
+      "Acceptance Rate": 0.7259689291131767,
+      "Link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+      "Topics": "Array, Hash Table, Sorting, Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Binary Tree Tilt",
+      "Frequency": 89.1,
+      "Acceptance Rate": 0.6409705660933609,
+      "Link": "https://leetcode.com/problems/binary-tree-tilt",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if Every Row and Column Contains All Numbers",
+      "Frequency": 89.1,
+      "Acceptance Rate": 0.528410934019593,
+      "Link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "Topics": "Array, Hash Table, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Even Numbers After Queries",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6852833849138529,
+      "Link": "https://leetcode.com/problems/sum-of-even-numbers-after-queries",
+      "Topics": "Array, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Binary Tree Tilt",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6409705660933609,
+      "Link": "https://leetcode.com/problems/binary-tree-tilt",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Cost to Split an Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4233523732204471,
+      "Link": "https://leetcode.com/problems/minimum-cost-to-split-an-array",
+      "Topics": "Array, Hash Table, Dynamic Programming, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Players With Zero or One Losses",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7259689291131767,
+      "Link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+      "Topics": "Array, Hash Table, Sorting, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Moves to Equal Array Elements",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.577054187220996,
+      "Link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+      "Topics": "Array, Math"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Merge k Sorted Lists",
+      "Frequency": 79.3,
+      "Acceptance Rate": 0.5677424791476416,
+      "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if Every Row and Column Contains All Numbers",
+      "Frequency": 72.8,
+      "Acceptance Rate": 0.528410934019593,
+      "Link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "Topics": "Array, Hash Table, Matrix"
+    }
+  ]
+}

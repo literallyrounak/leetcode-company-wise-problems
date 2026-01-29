@@ -1,0 +1,4012 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.557769903717251,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Palindrome Number",
+      "Frequency": 71.2,
+      "Acceptance Rate": 0.5922454861001272,
+      "Link": "https://leetcode.com/problems/palindrome-number",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 69.7,
+      "Acceptance Rate": 0.4622507658063209,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.5525965868759138,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.4548305505260665,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Consecutive Sequence",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.4704082801866521,
+      "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "Topics": "Array, Hash Table, Union Find"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 61.9,
+      "Acceptance Rate": 0.6510193676088248,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 59.5,
+      "Acceptance Rate": 0.3693616756816993,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Roman to Integer",
+      "Frequency": 59.5,
+      "Acceptance Rate": 0.6486626948713667,
+      "Link": "https://leetcode.com/problems/roman-to-integer",
+      "Topics": "Hash Table, Math, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 59.5,
+      "Acceptance Rate": 0.4381459000864632,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 59.5,
+      "Acceptance Rate": 0.4939526774846352,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 56.7,
+      "Acceptance Rate": 0.3707094730496599,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "4Sum",
+      "Frequency": 56.7,
+      "Acceptance Rate": 0.3821902011379304,
+      "Link": "https://leetcode.com/problems/4sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 56.7,
+      "Acceptance Rate": 0.5160676713980508,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.4232282064668211,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.5927717574111464,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Single Number",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.7596882403268375,
+      "Link": "https://leetcode.com/problems/single-number",
+      "Topics": "Array, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.5778282574410597,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove Duplicates from Sorted Array",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.6035551112882038,
+      "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.4305773671839413,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.4760417141782024,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Pascal's Triangle",
+      "Frequency": 53.4,
+      "Acceptance Rate": 0.770215491719448,
+      "Link": "https://leetcode.com/problems/pascals-triangle",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Diameter of Binary Tree",
+      "Frequency": 49.6,
+      "Acceptance Rate": 0.6358636823587297,
+      "Link": "https://leetcode.com/problems/diameter-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Visible People in a Queue",
+      "Frequency": 49.6,
+      "Acceptance Rate": 0.7129632743660456,
+      "Link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Peak Element",
+      "Frequency": 49.6,
+      "Acceptance Rate": 0.4650924637222962,
+      "Link": "https://leetcode.com/problems/find-peak-element",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 49.6,
+      "Acceptance Rate": 0.3584611145635873,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Russian Doll Envelopes",
+      "Frequency": 49.6,
+      "Acceptance Rate": 0.3732991914997274,
+      "Link": "https://leetcode.com/problems/russian-doll-envelopes",
+      "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Set Matrix Zeroes",
+      "Frequency": 49.6,
+      "Acceptance Rate": 0.6070879795849693,
+      "Link": "https://leetcode.com/problems/set-matrix-zeroes",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 49.6,
+      "Acceptance Rate": 0.6280400947352507,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 49.6,
+      "Acceptance Rate": 0.4827377619034214,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 49.6,
+      "Acceptance Rate": 0.6231992746368219,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 49.6,
+      "Acceptance Rate": 0.4108465766394882,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Best Time to Buy and Sell Stock II",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.6950023404506479,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "String to Integer (atoi)",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.1922942349527772,
+      "Link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Window Substring",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.4535073359144813,
+      "Link": "https://leetcode.com/problems/minimum-window-substring",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.7092881169411895,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Range Module",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.4419888641888101,
+      "Link": "https://leetcode.com/problems/range-module",
+      "Topics": "Design, Segment Tree, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.5780834572811812,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "N-Queens",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.7281704967757537,
+      "Link": "https://leetcode.com/problems/n-queens",
+      "Topics": "Array, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add Two Integers",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.8812227852771523,
+      "Link": "https://leetcode.com/problems/add-two-integers",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Basic Calculator",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.4558962794405194,
+      "Link": "https://leetcode.com/problems/basic-calculator",
+      "Topics": "Math, String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.4521456810048299,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Strings Alternately",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.8222964639886224,
+      "Link": "https://leetcode.com/problems/merge-strings-alternately",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.4814988999917213,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximal Rectangle",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.5370845822665518,
+      "Link": "https://leetcode.com/problems/maximal-rectangle",
+      "Topics": "Array, Dynamic Programming, Stack, Matrix, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Majority Element",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.6574028018936169,
+      "Link": "https://leetcode.com/problems/majority-element",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subarray Sum Equals K",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.4547621523795086,
+      "Link": "https://leetcode.com/problems/subarray-sum-equals-k",
+      "Topics": "Array, Hash Table, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lowest Common Ancestor of a Binary Tree",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.6675499347216417,
+      "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Peak Index in a Mountain Array",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.675694802801327,
+      "Link": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.4283722138743466,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pow(x, n)",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.3702318823521848,
+      "Link": "https://leetcode.com/problems/powx-n",
+      "Topics": "Math, Recursion"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Binary Tree Maximum Path Sum",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.4122427095336609,
+      "Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Apply Substitutions",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.7867262423714037,
+      "Link": "https://leetcode.com/problems/apply-substitutions",
+      "Topics": "Array, Hash Table, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.6385756647080152,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Largest Rectangle in Histogram",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.4737765317407914,
+      "Link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Two Sorted Lists",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.6684091757223755,
+      "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Happy Number",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.5807262329091794,
+      "Link": "https://leetcode.com/problems/happy-number",
+      "Topics": "Hash Table, Math, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Minimum in Rotated Sorted Array",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.5264825291581084,
+      "Link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.5291951450619177,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sort Colors",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.6758312948649591,
+      "Link": "https://leetcode.com/problems/sort-colors",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Fibonacci Number",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.7294495015845286,
+      "Link": "https://leetcode.com/problems/fibonacci-number",
+      "Topics": "Math, Dynamic Programming, Recursion, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Sudoku",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.6227675793740958,
+      "Link": "https://leetcode.com/problems/valid-sudoku",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.6115249906697672,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Linked List",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.7920654119580827,
+      "Link": "https://leetcode.com/problems/reverse-linked-list",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find Words Containing Character",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.9064056797672524,
+      "Link": "https://leetcode.com/problems/find-words-containing-character",
+      "Topics": "Array, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Create Hello World Function",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.8212977812647828,
+      "Link": "https://leetcode.com/problems/create-hello-world-function",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.7790164518819447,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Max Consecutive Ones",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.6248232110227296,
+      "Link": "https://leetcode.com/problems/max-consecutive-ones",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "LFU Cache",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.4660898637811462,
+      "Link": "https://leetcode.com/problems/lfu-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Power of Two",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.4838037051534944,
+      "Link": "https://leetcode.com/problems/power-of-two",
+      "Topics": "Math, Bit Manipulation, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Max Consecutive Ones III",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.6593934025174093,
+      "Link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+      "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Escape the Spreading Fire",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.3628148569802192,
+      "Link": "https://leetcode.com/problems/escape-the-spreading-fire",
+      "Topics": "Array, Binary Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Squares of a Sorted Array",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.7321922364201385,
+      "Link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Burst Balloons",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.6131500044712985,
+      "Link": "https://leetcode.com/problems/burst-balloons",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Climbing Stairs",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.5354070673548961,
+      "Link": "https://leetcode.com/problems/climbing-stairs",
+      "Topics": "Math, Dynamic Programming, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindrome by Concatenating Two Letter Words",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.5370324585879278,
+      "Link": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words",
+      "Topics": "Array, Hash Table, String, Greedy, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.5209977771112393,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Triangle Judgement",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.7368772833754048,
+      "Link": "https://leetcode.com/problems/triangle-judgement",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Min Stack",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.5644510197289069,
+      "Link": "https://leetcode.com/problems/min-stack",
+      "Topics": "Stack, Design"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Logger Rate Limiter",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.7661025675370229,
+      "Link": "https://leetcode.com/problems/logger-rate-limiter",
+      "Topics": "Hash Table, Design, Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reorder List",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.6250474980864169,
+      "Link": "https://leetcode.com/problems/reorder-list",
+      "Topics": "Linked List, Two Pointers, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zero Array Transformation I",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.5440566780372605,
+      "Link": "https://leetcode.com/problems/zero-array-transformation-i",
+      "Topics": "Array, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Search Insert Position",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.4901241638473952,
+      "Link": "https://leetcode.com/problems/search-insert-position",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Koko Eating Bananas",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.4906725726862201,
+      "Link": "https://leetcode.com/problems/koko-eating-bananas",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Array",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.4302137279999349,
+      "Link": "https://leetcode.com/problems/rotate-array",
+      "Topics": "Array, Math, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find All Duplicates in an Array",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.7640865470225948,
+      "Link": "https://leetcode.com/problems/find-all-duplicates-in-an-array",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.521416981510797,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Meeting Rooms III",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.4393472442856221,
+      "Link": "https://leetcode.com/problems/meeting-rooms-iii",
+      "Topics": "Array, Hash Table, Sorting, Heap (Priority Queue), Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Snapshot Array",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.3666543001837093,
+      "Link": "https://leetcode.com/problems/snapshot-array",
+      "Topics": "Array, Hash Table, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Path With Maximum Minimum Value",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.5412731529408017,
+      "Link": "https://leetcode.com/problems/path-with-maximum-minimum-value",
+      "Topics": "Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search Suggestions System",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.6505031460110969,
+      "Link": "https://leetcode.com/problems/search-suggestions-system",
+      "Topics": "Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Same Tree",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.651268811570624,
+      "Link": "https://leetcode.com/problems/same-tree",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.4923425308395746,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Integer",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.3030891979001635,
+      "Link": "https://leetcode.com/problems/reverse-integer",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Provinces",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.6865500056031655,
+      "Link": "https://leetcode.com/problems/number-of-provinces",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Painting a Grid With Three Different Colors",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.7850353068984248,
+      "Link": "https://leetcode.com/problems/painting-a-grid-with-three-different-colors",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Merge k Sorted Lists",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.567741907864408,
+      "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Reverse Nodes in k-Group",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.6304374335039493,
+      "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Separate Squares I",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.3799335174867737,
+      "Link": "https://leetcode.com/problems/separate-squares-i",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Daily Temperatures",
+      "Frequency": 30.8,
+      "Acceptance Rate": 0.6736502939048284,
+      "Link": "https://leetcode.com/problems/daily-temperatures",
+      "Topics": "Array, Stack, Monotonic Stack"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5577699177758002,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 71.8,
+      "Acceptance Rate": 0.4622507658063209,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 68.3,
+      "Acceptance Rate": 0.3707094730496599,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Strings Alternately",
+      "Frequency": 66.6,
+      "Acceptance Rate": 0.8222964639886224,
+      "Link": "https://leetcode.com/problems/merge-strings-alternately",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Create Hello World Function",
+      "Frequency": 65.9,
+      "Acceptance Rate": 0.8212977812647828,
+      "Link": "https://leetcode.com/problems/create-hello-world-function",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 65.3,
+      "Acceptance Rate": 0.4381459000864632,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Palindrome Number",
+      "Frequency": 64.7,
+      "Acceptance Rate": 0.5922454861001272,
+      "Link": "https://leetcode.com/problems/palindrome-number",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 64.0,
+      "Acceptance Rate": 0.6510193676088248,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 64.0,
+      "Acceptance Rate": 0.4548305505260665,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 64.0,
+      "Acceptance Rate": 0.3693616756816993,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 62.6,
+      "Acceptance Rate": 0.5525965868759138,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 62.6,
+      "Acceptance Rate": 0.5291951450619177,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subarray Sum Equals K",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.4547621523795086,
+      "Link": "https://leetcode.com/problems/subarray-sum-equals-k",
+      "Topics": "Array, Hash Table, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.6231992746368219,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 61.0,
+      "Acceptance Rate": 0.5778282574410597,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 59.3,
+      "Acceptance Rate": 0.4232282064668211,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 59.3,
+      "Acceptance Rate": 0.4939526774846352,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Consecutive Sequence",
+      "Frequency": 57.5,
+      "Acceptance Rate": 0.4704082801866521,
+      "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "Topics": "Array, Hash Table, Union Find"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Recyclable and Low Fat Products",
+      "Frequency": 56.5,
+      "Acceptance Rate": 0.8925494047235137,
+      "Link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove Duplicates from Sorted Array",
+      "Frequency": 55.4,
+      "Acceptance Rate": 0.6035551112882038,
+      "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Roman to Integer",
+      "Frequency": 55.4,
+      "Acceptance Rate": 0.6486626948713667,
+      "Link": "https://leetcode.com/problems/roman-to-integer",
+      "Topics": "Hash Table, Math, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "House Robber",
+      "Frequency": 54.3,
+      "Acceptance Rate": 0.5230496798578786,
+      "Link": "https://leetcode.com/problems/house-robber",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Two Sorted Lists",
+      "Frequency": 54.3,
+      "Acceptance Rate": 0.6684091757223755,
+      "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 54.3,
+      "Acceptance Rate": 0.6115249906697672,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 53.1,
+      "Acceptance Rate": 0.4305773671839413,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add Two Integers",
+      "Frequency": 53.1,
+      "Acceptance Rate": 0.8812227852771523,
+      "Link": "https://leetcode.com/problems/add-two-integers",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 51.8,
+      "Acceptance Rate": 0.7713286717803378,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "4Sum",
+      "Frequency": 51.8,
+      "Acceptance Rate": 0.3821902011379304,
+      "Link": "https://leetcode.com/problems/4sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 51.8,
+      "Acceptance Rate": 0.521416981510797,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Climbing Stairs",
+      "Frequency": 51.8,
+      "Acceptance Rate": 0.5354070673548961,
+      "Link": "https://leetcode.com/problems/climbing-stairs",
+      "Topics": "Math, Dynamic Programming, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Koko Eating Bananas",
+      "Frequency": 50.4,
+      "Acceptance Rate": 0.4906725726862201,
+      "Link": "https://leetcode.com/problems/koko-eating-bananas",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Repeating Character Replacement",
+      "Frequency": 50.4,
+      "Acceptance Rate": 0.5721171000443614,
+      "Link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 50.4,
+      "Acceptance Rate": 0.4760417141782024,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Largest Rectangle in Histogram",
+      "Frequency": 50.4,
+      "Acceptance Rate": 0.4737765317407914,
+      "Link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Peak Element",
+      "Frequency": 50.4,
+      "Acceptance Rate": 0.4650924637222962,
+      "Link": "https://leetcode.com/problems/find-peak-element",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Anagram",
+      "Frequency": 48.9,
+      "Acceptance Rate": 0.6666089667345674,
+      "Link": "https://leetcode.com/problems/valid-anagram",
+      "Topics": "Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 48.9,
+      "Acceptance Rate": 0.4108465766394882,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Basic Calculator",
+      "Frequency": 48.9,
+      "Acceptance Rate": 0.4558962794405194,
+      "Link": "https://leetcode.com/problems/basic-calculator",
+      "Topics": "Math, String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 48.9,
+      "Acceptance Rate": 0.3584611145635873,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 48.9,
+      "Acceptance Rate": 0.6385756647080152,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 48.9,
+      "Acceptance Rate": 0.5160676713980508,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Range Module",
+      "Frequency": 48.9,
+      "Acceptance Rate": 0.4419888641888101,
+      "Link": "https://leetcode.com/problems/range-module",
+      "Topics": "Design, Segment Tree, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 47.3,
+      "Acceptance Rate": 0.7790164518819447,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 47.3,
+      "Acceptance Rate": 0.5209977771112393,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Russian Doll Envelopes",
+      "Frequency": 47.3,
+      "Acceptance Rate": 0.3732991914997274,
+      "Link": "https://leetcode.com/problems/russian-doll-envelopes",
+      "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Diameter of Binary Tree",
+      "Frequency": 47.3,
+      "Acceptance Rate": 0.6358636823587297,
+      "Link": "https://leetcode.com/problems/diameter-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 47.3,
+      "Acceptance Rate": 0.4521456810048299,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Majority Element",
+      "Frequency": 47.3,
+      "Acceptance Rate": 0.6574028018936169,
+      "Link": "https://leetcode.com/problems/majority-element",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pow(x, n)",
+      "Frequency": 47.3,
+      "Acceptance Rate": 0.3702318823521848,
+      "Link": "https://leetcode.com/problems/powx-n",
+      "Topics": "Math, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 45.6,
+      "Acceptance Rate": 0.7092881169411895,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 45.6,
+      "Acceptance Rate": 0.4923425308395746,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Plus One",
+      "Frequency": 45.6,
+      "Acceptance Rate": 0.4754761266396238,
+      "Link": "https://leetcode.com/problems/plus-one",
+      "Topics": "Array, Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game",
+      "Frequency": 45.6,
+      "Acceptance Rate": 0.3947919786729132,
+      "Link": "https://leetcode.com/problems/jump-game",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "N-Queens",
+      "Frequency": 45.6,
+      "Acceptance Rate": 0.7281704967757537,
+      "Link": "https://leetcode.com/problems/n-queens",
+      "Topics": "Array, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Array",
+      "Frequency": 45.6,
+      "Acceptance Rate": 0.4302137279999349,
+      "Link": "https://leetcode.com/problems/rotate-array",
+      "Topics": "Array, Math, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sort Colors",
+      "Frequency": 45.6,
+      "Acceptance Rate": 0.6758312948649591,
+      "Link": "https://leetcode.com/problems/sort-colors",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Pascal's Triangle",
+      "Frequency": 45.6,
+      "Acceptance Rate": 0.770215491719448,
+      "Link": "https://leetcode.com/problems/pascals-triangle",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Logger Rate Limiter",
+      "Frequency": 43.6,
+      "Acceptance Rate": 0.7661025675370229,
+      "Link": "https://leetcode.com/problems/logger-rate-limiter",
+      "Topics": "Hash Table, Design, Data Stream"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Linked List",
+      "Frequency": 43.6,
+      "Acceptance Rate": 0.7920654119580827,
+      "Link": "https://leetcode.com/problems/reverse-linked-list",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 43.6,
+      "Acceptance Rate": 0.5780834572811812,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 43.6,
+      "Acceptance Rate": 0.5393973501075863,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Merge k Sorted Lists",
+      "Frequency": 43.6,
+      "Acceptance Rate": 0.567741907864408,
+      "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximal Square",
+      "Frequency": 43.6,
+      "Acceptance Rate": 0.4876133314788993,
+      "Link": "https://leetcode.com/problems/maximal-square",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove Element",
+      "Frequency": 43.6,
+      "Acceptance Rate": 0.600316358048653,
+      "Link": "https://leetcode.com/problems/remove-element",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Happy Number",
+      "Frequency": 43.6,
+      "Acceptance Rate": 0.5807262329091794,
+      "Link": "https://leetcode.com/problems/happy-number",
+      "Topics": "Hash Table, Math, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Single Number",
+      "Frequency": 43.6,
+      "Acceptance Rate": 0.7596882403268375,
+      "Link": "https://leetcode.com/problems/single-number",
+      "Topics": "Array, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximal Rectangle",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.5370845822665518,
+      "Link": "https://leetcode.com/problems/maximal-rectangle",
+      "Topics": "Array, Dynamic Programming, Stack, Matrix, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Power of Two",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.4838037051534944,
+      "Link": "https://leetcode.com/problems/power-of-two",
+      "Topics": "Math, Bit Manipulation, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Integer",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.3030891979001635,
+      "Link": "https://leetcode.com/problems/reverse-integer",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Search Insert Position",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.4901241638473952,
+      "Link": "https://leetcode.com/problems/search-insert-position",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Largest Element in an Array",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.6797700833982673,
+      "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Single Element in a Sorted Array",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.5920694527750138,
+      "Link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Permutations",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.8066011364163758,
+      "Link": "https://leetcode.com/problems/permutations",
+      "Topics": "Array, Backtracking"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Binary Tree Maximum Path Sum",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.4122427095336609,
+      "Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Peak Index in a Mountain Array",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.675694802801327,
+      "Link": "https://leetcode.com/problems/peak-index-in-a-mountain-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find the Index of the First Occurrence in a String",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.449716000865219,
+      "Link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+      "Topics": "Two Pointers, String, String Matching"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Provinces",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.6865500056031655,
+      "Link": "https://leetcode.com/problems/number-of-provinces",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Create a DataFrame from List",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.8147031724545858,
+      "Link": "https://leetcode.com/problems/create-a-dataframe-from-list",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Palindrome",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.5096357249551178,
+      "Link": "https://leetcode.com/problems/valid-palindrome",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.4827377619034214,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Unique Paths",
+      "Frequency": 39.0,
+      "Acceptance Rate": 0.6577283527258664,
+      "Link": "https://leetcode.com/problems/unique-paths",
+      "Topics": "Math, Dynamic Programming, Combinatorics"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "The Earliest Moment When Everyone Become Friends",
+      "Frequency": 36.2,
+      "Acceptance Rate": 0.656983282716056,
+      "Link": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends",
+      "Topics": "Array, Union Find, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate",
+      "Frequency": 36.2,
+      "Acceptance Rate": 0.6323636777340309,
+      "Link": "https://leetcode.com/problems/contains-duplicate",
+      "Topics": "Array, Hash Table, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Regular Expression Matching",
+      "Frequency": 36.2,
+      "Acceptance Rate": 0.2928013101016923,
+      "Link": "https://leetcode.com/problems/regular-expression-matching",
+      "Topics": "String, Dynamic Programming, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 36.2,
+      "Acceptance Rate": 0.4283722138743466,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Combination Sum",
+      "Frequency": 36.2,
+      "Acceptance Rate": 0.7467467920803577,
+      "Link": "https://leetcode.com/problems/combination-sum",
+      "Topics": "Array, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 32.9,
+      "Acceptance Rate": 0.549918579117808,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Split Array Largest Sum",
+      "Frequency": 32.9,
+      "Acceptance Rate": 0.580995560819648,
+      "Link": "https://leetcode.com/problems/split-array-largest-sum",
+      "Topics": "Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Sqrt(x)",
+      "Frequency": 32.9,
+      "Acceptance Rate": 0.4037179345456713,
+      "Link": "https://leetcode.com/problems/sqrtx",
+      "Topics": "Math, Binary Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 32.9,
+      "Acceptance Rate": 0.5327816407313548,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add Binary",
+      "Frequency": 32.9,
+      "Acceptance Rate": 0.5567701348180015,
+      "Link": "https://leetcode.com/problems/add-binary",
+      "Topics": "Math, String, Bit Manipulation, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 28.9,
+      "Acceptance Rate": 0.4827836751158982,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Coin Change",
+      "Frequency": 28.9,
+      "Acceptance Rate": 0.4649544340785128,
+      "Link": "https://leetcode.com/problems/coin-change",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find Customer Referee",
+      "Frequency": 28.9,
+      "Acceptance Rate": 0.7170895369636994,
+      "Link": "https://leetcode.com/problems/find-customer-referee",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Words in a String",
+      "Frequency": 23.8,
+      "Acceptance Rate": 0.5191326197169353,
+      "Link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Finding MK Average",
+      "Frequency": 23.8,
+      "Acceptance Rate": 0.3818881447538479,
+      "Link": "https://leetcode.com/problems/finding-mk-average",
+      "Topics": "Design, Queue, Heap (Priority Queue), Data Stream, Ordered Set"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find the Difference",
+      "Frequency": 23.8,
+      "Acceptance Rate": 0.5972123786185596,
+      "Link": "https://leetcode.com/problems/find-the-difference",
+      "Topics": "Hash Table, String, Bit Manipulation, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pacific Atlantic Water Flow",
+      "Frequency": 23.8,
+      "Acceptance Rate": 0.5753385838153038,
+      "Link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Area Rectangle",
+      "Frequency": 23.8,
+      "Acceptance Rate": 0.5500425559774781,
+      "Link": "https://leetcode.com/problems/minimum-area-rectangle",
+      "Topics": "Array, Hash Table, Math, Geometry, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Guess the Word",
+      "Frequency": 17.1,
+      "Acceptance Rate": 0.3765162794319245,
+      "Link": "https://leetcode.com/problems/guess-the-word",
+      "Topics": "Array, Math, String, Interactive, Game Theory"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5577699318343485,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Create Hello World Function",
+      "Frequency": 76.8,
+      "Acceptance Rate": 0.8212977812647828,
+      "Link": "https://leetcode.com/problems/create-hello-world-function",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 73.8,
+      "Acceptance Rate": 0.4622507658063209,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Recyclable and Low Fat Products",
+      "Frequency": 72.4,
+      "Acceptance Rate": 0.8925494047235137,
+      "Link": "https://leetcode.com/problems/recyclable-and-low-fat-products",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Palindrome Number",
+      "Frequency": 69.2,
+      "Acceptance Rate": 0.5922454861001272,
+      "Link": "https://leetcode.com/problems/palindrome-number",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 69.0,
+      "Acceptance Rate": 0.3707094730496599,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 68.5,
+      "Acceptance Rate": 0.4381459000864632,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 66.3,
+      "Acceptance Rate": 0.4548305505260665,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 66.0,
+      "Acceptance Rate": 0.6510193676088248,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 65.1,
+      "Acceptance Rate": 0.3693616756816993,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove Duplicates from Sorted Array",
+      "Frequency": 63.7,
+      "Acceptance Rate": 0.6035551112882038,
+      "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 60.8,
+      "Acceptance Rate": 0.4232282064668211,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 60.0,
+      "Acceptance Rate": 0.5778282574410597,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 59.5,
+      "Acceptance Rate": 0.3584611145635873,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Roman to Integer",
+      "Frequency": 58.6,
+      "Acceptance Rate": 0.6486626948713667,
+      "Link": "https://leetcode.com/problems/roman-to-integer",
+      "Topics": "Hash Table, Math, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 58.6,
+      "Acceptance Rate": 0.7713286717803378,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Consecutive Sequence",
+      "Frequency": 58.6,
+      "Acceptance Rate": 0.4704082801866521,
+      "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "Topics": "Array, Hash Table, Union Find"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Two Sorted Lists",
+      "Frequency": 58.6,
+      "Acceptance Rate": 0.6684091757223755,
+      "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subarray Sum Equals K",
+      "Frequency": 58.2,
+      "Acceptance Rate": 0.4547621523795086,
+      "Link": "https://leetcode.com/problems/subarray-sum-equals-k",
+      "Topics": "Array, Hash Table, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove Element",
+      "Frequency": 57.2,
+      "Acceptance Rate": 0.600316358048653,
+      "Link": "https://leetcode.com/problems/remove-element",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 56.2,
+      "Acceptance Rate": 0.4305773671839413,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 56.2,
+      "Acceptance Rate": 0.5209977771112393,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Integer",
+      "Frequency": 56.2,
+      "Acceptance Rate": 0.3030891979001635,
+      "Link": "https://leetcode.com/problems/reverse-integer",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 54.0,
+      "Acceptance Rate": 0.5160676713980508,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Pascal's Triangle",
+      "Frequency": 53.3,
+      "Acceptance Rate": 0.770215491719448,
+      "Link": "https://leetcode.com/problems/pascals-triangle",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 53.3,
+      "Acceptance Rate": 0.6115249906697672,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Anagram",
+      "Frequency": 52.7,
+      "Acceptance Rate": 0.6666089667345674,
+      "Link": "https://leetcode.com/problems/valid-anagram",
+      "Topics": "Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "4Sum",
+      "Frequency": 52.7,
+      "Acceptance Rate": 0.3821902011379304,
+      "Link": "https://leetcode.com/problems/4sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pow(x, n)",
+      "Frequency": 52.7,
+      "Acceptance Rate": 0.3702318823521848,
+      "Link": "https://leetcode.com/problems/powx-n",
+      "Topics": "Math, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 52.7,
+      "Acceptance Rate": 0.5393973501075863,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 52.1,
+      "Acceptance Rate": 0.7790164518819447,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "House Robber",
+      "Frequency": 52.1,
+      "Acceptance Rate": 0.5230496798578786,
+      "Link": "https://leetcode.com/problems/house-robber",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 51.4,
+      "Acceptance Rate": 0.6385756647080152,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Search Insert Position",
+      "Frequency": 49.9,
+      "Acceptance Rate": 0.4901241638473952,
+      "Link": "https://leetcode.com/problems/search-insert-position",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove Nth Node From End of List",
+      "Frequency": 49.9,
+      "Acceptance Rate": 0.4896103052563428,
+      "Link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+      "Topics": "Linked List, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 49.2,
+      "Acceptance Rate": 0.7092881169411895,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find First and Last Position of Element in Sorted Array",
+      "Frequency": 47.5,
+      "Acceptance Rate": 0.4682873183580639,
+      "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Linked List",
+      "Frequency": 47.5,
+      "Acceptance Rate": 0.7920654119580827,
+      "Link": "https://leetcode.com/problems/reverse-linked-list",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find the Index of the First Occurrence in a String",
+      "Frequency": 46.6,
+      "Acceptance Rate": 0.449716000865219,
+      "Link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+      "Topics": "Two Pointers, String, String Matching"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 45.7,
+      "Acceptance Rate": 0.4108465766394882,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Permutations",
+      "Frequency": 45.7,
+      "Acceptance Rate": 0.8066011364163758,
+      "Link": "https://leetcode.com/problems/permutations",
+      "Topics": "Array, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Sudoku",
+      "Frequency": 45.7,
+      "Acceptance Rate": 0.6227675793740958,
+      "Link": "https://leetcode.com/problems/valid-sudoku",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 45.7,
+      "Acceptance Rate": 0.4283722138743466,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Merge k Sorted Lists",
+      "Frequency": 44.7,
+      "Acceptance Rate": 0.567741907864408,
+      "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Binary Tree Maximum Path Sum",
+      "Frequency": 43.7,
+      "Acceptance Rate": 0.4122427095336609,
+      "Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 43.7,
+      "Acceptance Rate": 0.5780834572811812,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Reverse Nodes in k-Group",
+      "Frequency": 42.5,
+      "Acceptance Rate": 0.6304374335039493,
+      "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Divide Two Integers",
+      "Frequency": 42.5,
+      "Acceptance Rate": 0.1839697508503305,
+      "Link": "https://leetcode.com/problems/divide-two-integers",
+      "Topics": "Math, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Regular Expression Matching",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.2928013101016923,
+      "Link": "https://leetcode.com/problems/regular-expression-matching",
+      "Topics": "String, Dynamic Programming, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum Closest",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.468869600214817,
+      "Link": "https://leetcode.com/problems/3sum-closest",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Intersection of Two Arrays",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.764742832671859,
+      "Link": "https://leetcode.com/problems/intersection-of-two-arrays",
+      "Topics": "Array, Hash Table, Two Pointers, Binary Search, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Combination Sum",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.7467467920803577,
+      "Link": "https://leetcode.com/problems/combination-sum",
+      "Topics": "Array, Backtracking"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sudoku Solver",
+      "Frequency": 41.4,
+      "Acceptance Rate": 0.6390871778033164,
+      "Link": "https://leetcode.com/problems/sudoku-solver",
+      "Topics": "Array, Hash Table, Backtracking, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Subarray Minimums",
+      "Frequency": 40.1,
+      "Acceptance Rate": 0.3762351166424223,
+      "Link": "https://leetcode.com/problems/sum-of-subarray-minimums",
+      "Topics": "Array, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Swap Nodes in Pairs",
+      "Frequency": 37.2,
+      "Acceptance Rate": 0.6720136828647639,
+      "Link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "String to Integer (atoi)",
+      "Frequency": 37.2,
+      "Acceptance Rate": 0.1922942349527772,
+      "Link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Duplicate Number",
+      "Frequency": 37.2,
+      "Acceptance Rate": 0.6283577384693005,
+      "Link": "https://leetcode.com/problems/find-the-duplicate-number",
+      "Topics": "Array, Two Pointers, Binary Search, Bit Manipulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Missing Number",
+      "Frequency": 37.2,
+      "Acceptance Rate": 0.7006534938999994,
+      "Link": "https://leetcode.com/problems/missing-number",
+      "Topics": "Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Big Countries",
+      "Frequency": 37.2,
+      "Acceptance Rate": 0.6818920862237663,
+      "Link": "https://leetcode.com/problems/big-countries",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Target Sum",
+      "Frequency": 37.2,
+      "Acceptance Rate": 0.5076651123616494,
+      "Link": "https://leetcode.com/problems/target-sum",
+      "Topics": "Array, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Burst Balloons",
+      "Frequency": 37.2,
+      "Acceptance Rate": 0.6131500044712985,
+      "Link": "https://leetcode.com/problems/burst-balloons",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "First Unique Character in a String",
+      "Frequency": 37.2,
+      "Acceptance Rate": 0.6369545656040947,
+      "Link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+      "Topics": "Hash Table, String, Queue, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate List",
+      "Frequency": 37.2,
+      "Acceptance Rate": 0.3994477271612808,
+      "Link": "https://leetcode.com/problems/rotate-list",
+      "Topics": "Linked List, Two Pointers"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Meeting Rooms III",
+      "Frequency": 35.6,
+      "Acceptance Rate": 0.4393472442856221,
+      "Link": "https://leetcode.com/problems/meeting-rooms-iii",
+      "Topics": "Array, Hash Table, Sorting, Heap (Priority Queue), Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Odd Even Jump",
+      "Frequency": 35.6,
+      "Acceptance Rate": 0.4072072749763881,
+      "Link": "https://leetcode.com/problems/odd-even-jump",
+      "Topics": "Array, Dynamic Programming, Stack, Monotonic Stack, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Second Highest Salary",
+      "Frequency": 35.6,
+      "Acceptance Rate": 0.4386508095849322,
+      "Link": "https://leetcode.com/problems/second-highest-salary",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Isomorphic Strings",
+      "Frequency": 35.6,
+      "Acceptance Rate": 0.4685795790862557,
+      "Link": "https://leetcode.com/problems/isomorphic-strings",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pacific Atlantic Water Flow",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.5753385838153038,
+      "Link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Longest Valid Parentheses",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.3631311456770452,
+      "Link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "Topics": "String, Dynamic Programming, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game II",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.4150328452857543,
+      "Link": "https://leetcode.com/problems/jump-game-ii",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water II",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.588762524838287,
+      "Link": "https://leetcode.com/problems/trapping-rain-water-ii",
+      "Topics": "Array, Breadth-First Search, Heap (Priority Queue), Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subsets II",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.595072748658621,
+      "Link": "https://leetcode.com/problems/subsets-ii",
+      "Topics": "Array, Backtracking, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Time Taken to Cross the Door",
+      "Frequency": 33.8,
+      "Acceptance Rate": 0.4947985404859871,
+      "Link": "https://leetcode.com/problems/time-taken-to-cross-the-door",
+      "Topics": "Array, Queue, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Path Sum",
+      "Frequency": 31.8,
+      "Acceptance Rate": 0.664814934885504,
+      "Link": "https://leetcode.com/problems/minimum-path-sum",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 31.8,
+      "Acceptance Rate": 0.6314695091079937,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Implement Stack using Queues",
+      "Frequency": 31.8,
+      "Acceptance Rate": 0.6733897915056893,
+      "Link": "https://leetcode.com/problems/implement-stack-using-queues",
+      "Topics": "Stack, Design, Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Integer to Roman",
+      "Frequency": 31.8,
+      "Acceptance Rate": 0.6861931275088928,
+      "Link": "https://leetcode.com/problems/integer-to-roman",
+      "Topics": "Hash Table, Math, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find All Possible Recipes from Given Supplies",
+      "Frequency": 31.8,
+      "Acceptance Rate": 0.5646091593277981,
+      "Link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+      "Topics": "Array, Hash Table, String, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Falling Path Sum",
+      "Frequency": 31.8,
+      "Acceptance Rate": 0.6144004812942054,
+      "Link": "https://leetcode.com/problems/minimum-falling-path-sum",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Single Number II",
+      "Frequency": 31.8,
+      "Acceptance Rate": 0.6522776346186073,
+      "Link": "https://leetcode.com/problems/single-number-ii",
+      "Topics": "Array, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Wildcard Matching",
+      "Frequency": 29.5,
+      "Acceptance Rate": 0.2989835093068089,
+      "Link": "https://leetcode.com/problems/wildcard-matching",
+      "Topics": "String, Dynamic Programming, Greedy, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Surrounded Regions",
+      "Frequency": 29.5,
+      "Acceptance Rate": 0.4288644756244931,
+      "Link": "https://leetcode.com/problems/surrounded-regions",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Fruit Into Baskets",
+      "Frequency": 27.0,
+      "Acceptance Rate": 0.4642784173371472,
+      "Link": "https://leetcode.com/problems/fruit-into-baskets",
+      "Topics": "Array, Hash Table, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Copy List with Random Pointer",
+      "Frequency": 27.0,
+      "Acceptance Rate": 0.6053669280147949,
+      "Link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+      "Topics": "Hash Table, Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Detonate the Maximum Bombs",
+      "Frequency": 27.0,
+      "Acceptance Rate": 0.492066898115528,
+      "Link": "https://leetcode.com/problems/detonate-the-maximum-bombs",
+      "Topics": "Array, Math, Depth-First Search, Breadth-First Search, Graph, Geometry"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Delete Node in a Linked List",
+      "Frequency": 24.0,
+      "Acceptance Rate": 0.8231559199073729,
+      "Link": "https://leetcode.com/problems/delete-node-in-a-linked-list",
+      "Topics": "Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Moving Average from Data Stream",
+      "Frequency": 24.0,
+      "Acceptance Rate": 0.7993882465731537,
+      "Link": "https://leetcode.com/problems/moving-average-from-data-stream",
+      "Topics": "Array, Design, Queue, Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Remove to Make Valid Parentheses",
+      "Frequency": 24.0,
+      "Acceptance Rate": 0.7074654274676669,
+      "Link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Hand of Straights",
+      "Frequency": 20.4,
+      "Acceptance Rate": 0.5710230469118233,
+      "Link": "https://leetcode.com/problems/hand-of-straights",
+      "Topics": "Array, Hash Table, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Detect Squares",
+      "Frequency": 20.4,
+      "Acceptance Rate": 0.5130252857014308,
+      "Link": "https://leetcode.com/problems/detect-squares",
+      "Topics": "Array, Hash Table, Design, Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse String",
+      "Frequency": 20.4,
+      "Acceptance Rate": 0.7976436563508422,
+      "Link": "https://leetcode.com/problems/reverse-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Graph Valid Tree",
+      "Frequency": 16.0,
+      "Acceptance Rate": 0.4933560205084969,
+      "Link": "https://leetcode.com/problems/graph-valid-tree",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Make The String Great",
+      "Frequency": 16.0,
+      "Acceptance Rate": 0.6827752983137568,
+      "Link": "https://leetcode.com/problems/make-the-string-great",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Get the Size of a DataFrame",
+      "Frequency": 16.0,
+      "Acceptance Rate": 0.8518924318016196,
+      "Link": "https://leetcode.com/problems/get-the-size-of-a-dataframe",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Robot Room Cleaner",
+      "Frequency": 16.0,
+      "Acceptance Rate": 0.7752279751307165,
+      "Link": "https://leetcode.com/problems/robot-room-cleaner",
+      "Topics": "Backtracking, Interactive"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "To Be Or Not To Be",
+      "Frequency": 16.0,
+      "Acceptance Rate": 0.6295807994256238,
+      "Link": "https://leetcode.com/problems/to-be-or-not-to-be",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Safest Path in a Grid",
+      "Frequency": 16.0,
+      "Acceptance Rate": 0.4839726918075422,
+      "Link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid",
+      "Topics": "Array, Binary Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Search II",
+      "Frequency": 10.5,
+      "Acceptance Rate": 0.3732633211647155,
+      "Link": "https://leetcode.com/problems/word-search-ii",
+      "Topics": "Array, String, Backtracking, Trie, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Smallest String Starting From Leaf",
+      "Frequency": 10.5,
+      "Acceptance Rate": 0.608103369683369,
+      "Link": "https://leetcode.com/problems/smallest-string-starting-from-leaf",
+      "Topics": "String, Backtracking, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Distance from All Buildings",
+      "Frequency": 10.5,
+      "Acceptance Rate": 0.4437276667084348,
+      "Link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 78.8,
+      "Acceptance Rate": 0.5291951450619177,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 74.5,
+      "Acceptance Rate": 0.6510193676088248,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 74.4,
+      "Acceptance Rate": 0.4622507658063209,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 73.0,
+      "Acceptance Rate": 0.4381459000864632,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 66.2,
+      "Acceptance Rate": 0.4232282064668211,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 63.9,
+      "Acceptance Rate": 0.5209978267392302,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove Duplicates from Sorted Array",
+      "Frequency": 62.1,
+      "Acceptance Rate": 0.6035551112882038,
+      "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 58.1,
+      "Acceptance Rate": 0.7790164518819447,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 57.3,
+      "Acceptance Rate": 0.4305773671839413,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove Element",
+      "Frequency": 57.0,
+      "Acceptance Rate": 0.600316358048653,
+      "Link": "https://leetcode.com/problems/remove-element",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximal Rectangle",
+      "Frequency": 57.0,
+      "Acceptance Rate": 0.5370845822665518,
+      "Link": "https://leetcode.com/problems/maximal-rectangle",
+      "Topics": "Array, Dynamic Programming, Stack, Matrix, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 57.0,
+      "Acceptance Rate": 0.4521456810048299,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "4Sum",
+      "Frequency": 55.6,
+      "Acceptance Rate": 0.3821902011379304,
+      "Link": "https://leetcode.com/problems/4sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 55.6,
+      "Acceptance Rate": 0.7092881706911216,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find the Index of the First Occurrence in a String",
+      "Frequency": 55.0,
+      "Acceptance Rate": 0.449716000865219,
+      "Link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+      "Topics": "Two Pointers, String, String Matching"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Peak Element",
+      "Frequency": 53.8,
+      "Acceptance Rate": 0.4650922426070062,
+      "Link": "https://leetcode.com/problems/find-peak-element",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 50.9,
+      "Acceptance Rate": 0.4108465766394882,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 50.6,
+      "Acceptance Rate": 0.4760417141782024,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Array",
+      "Frequency": 50.2,
+      "Acceptance Rate": 0.4302137279999349,
+      "Link": "https://leetcode.com/problems/rotate-array",
+      "Topics": "Array, Math, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add Binary",
+      "Frequency": 48.9,
+      "Acceptance Rate": 0.5567701348180015,
+      "Link": "https://leetcode.com/problems/add-binary",
+      "Topics": "Math, String, Bit Manipulation, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "N-Queens",
+      "Frequency": 48.5,
+      "Acceptance Rate": 0.7281704967757537,
+      "Link": "https://leetcode.com/problems/n-queens",
+      "Topics": "Array, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Interval",
+      "Frequency": 48.0,
+      "Acceptance Rate": 0.4347362871417847,
+      "Link": "https://leetcode.com/problems/insert-interval",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Set Matrix Zeroes",
+      "Frequency": 47.5,
+      "Acceptance Rate": 0.6070880933688526,
+      "Link": "https://leetcode.com/problems/set-matrix-zeroes",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Plus One",
+      "Frequency": 47.5,
+      "Acceptance Rate": 0.4754762109513449,
+      "Link": "https://leetcode.com/problems/plus-one",
+      "Topics": "Array, Math"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Power of Two",
+      "Frequency": 47.1,
+      "Acceptance Rate": 0.4838037051534944,
+      "Link": "https://leetcode.com/problems/power-of-two",
+      "Topics": "Math, Bit Manipulation, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find First and Last Position of Element in Sorted Array",
+      "Frequency": 47.1,
+      "Acceptance Rate": 0.4682873183580639,
+      "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Product Subarray",
+      "Frequency": 46.6,
+      "Acceptance Rate": 0.3494162954383182,
+      "Link": "https://leetcode.com/problems/maximum-product-subarray",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 46.6,
+      "Acceptance Rate": 0.4814988999917213,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Words in a String",
+      "Frequency": 45.0,
+      "Acceptance Rate": 0.5191326197169353,
+      "Link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Best Time to Buy and Sell Stock II",
+      "Frequency": 43.8,
+      "Acceptance Rate": 0.6950023404506479,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Isomorphic Strings",
+      "Frequency": 43.2,
+      "Acceptance Rate": 0.4685795790862557,
+      "Link": "https://leetcode.com/problems/isomorphic-strings",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lowest Common Ancestor of a Binary Tree",
+      "Frequency": 42.0,
+      "Acceptance Rate": 0.6675499347216417,
+      "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Missing Number",
+      "Frequency": 41.3,
+      "Acceptance Rate": 0.7006534938999994,
+      "Link": "https://leetcode.com/problems/missing-number",
+      "Topics": "Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Ladder",
+      "Frequency": 41.3,
+      "Acceptance Rate": 0.4281180881873274,
+      "Link": "https://leetcode.com/problems/word-ladder",
+      "Topics": "Hash Table, String, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Path Sum",
+      "Frequency": 41.3,
+      "Acceptance Rate": 0.664814934885504,
+      "Link": "https://leetcode.com/problems/minimum-path-sum",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Rising Temperature",
+      "Frequency": 40.6,
+      "Acceptance Rate": 0.5018276561772634,
+      "Link": "https://leetcode.com/problems/rising-temperature",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Sudoku",
+      "Frequency": 40.6,
+      "Acceptance Rate": 0.6227675793740958,
+      "Link": "https://leetcode.com/problems/valid-sudoku",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum Closest",
+      "Frequency": 40.6,
+      "Acceptance Rate": 0.468869600214817,
+      "Link": "https://leetcode.com/problems/3sum-closest",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate List",
+      "Frequency": 39.1,
+      "Acceptance Rate": 0.3994477271612808,
+      "Link": "https://leetcode.com/problems/rotate-list",
+      "Topics": "Linked List, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reorder List",
+      "Frequency": 38.3,
+      "Acceptance Rate": 0.6250474980864169,
+      "Link": "https://leetcode.com/problems/reorder-list",
+      "Topics": "Linked List, Two Pointers, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Swap Nodes in Pairs",
+      "Frequency": 38.3,
+      "Acceptance Rate": 0.6720136828647639,
+      "Link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Binary Tree Level Order Traversal",
+      "Frequency": 37.5,
+      "Acceptance Rate": 0.7059658947038693,
+      "Link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+      "Topics": "Tree, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Integer to Roman",
+      "Frequency": 37.5,
+      "Acceptance Rate": 0.6861931275088928,
+      "Link": "https://leetcode.com/problems/integer-to-roman",
+      "Topics": "Hash Table, Math, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate II",
+      "Frequency": 37.5,
+      "Acceptance Rate": 0.4904986450077176,
+      "Link": "https://leetcode.com/problems/contains-duplicate-ii",
+      "Topics": "Array, Hash Table, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Linked List II",
+      "Frequency": 36.6,
+      "Acceptance Rate": 0.4959171394576541,
+      "Link": "https://leetcode.com/problems/reverse-linked-list-ii",
+      "Topics": "Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Summary Ranges",
+      "Frequency": 36.6,
+      "Acceptance Rate": 0.5302484768932422,
+      "Link": "https://leetcode.com/problems/summary-ranges",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Max Points on a Line",
+      "Frequency": 35.6,
+      "Acceptance Rate": 0.2895514653845652,
+      "Link": "https://leetcode.com/problems/max-points-on-a-line",
+      "Topics": "Array, Hash Table, Math, Geometry"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Two Sum II - Input Array Is Sorted",
+      "Frequency": 34.6,
+      "Acceptance Rate": 0.6340212187293719,
+      "Link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+      "Topics": "Array, Two Pointers, Binary Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Expression Add Operators",
+      "Frequency": 34.6,
+      "Acceptance Rate": 0.4167625219870472,
+      "Link": "https://leetcode.com/problems/expression-add-operators",
+      "Topics": "Math, String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search a 2D Matrix II",
+      "Frequency": 34.6,
+      "Acceptance Rate": 0.5522249104948518,
+      "Link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+      "Topics": "Array, Binary Search, Divide and Conquer, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Binary Tree Zigzag Level Order Traversal",
+      "Frequency": 33.6,
+      "Acceptance Rate": 0.6168283891746636,
+      "Link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+      "Topics": "Tree, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Balanced Binary Tree",
+      "Frequency": 32.5,
+      "Acceptance Rate": 0.5534202381170411,
+      "Link": "https://leetcode.com/problems/balanced-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Palindrome",
+      "Frequency": 32.5,
+      "Acceptance Rate": 0.4065591820684232,
+      "Link": "https://leetcode.com/problems/shortest-palindrome",
+      "Topics": "String, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Permutation Sequence",
+      "Frequency": 32.5,
+      "Acceptance Rate": 0.4994329004732563,
+      "Link": "https://leetcode.com/problems/permutation-sequence",
+      "Topics": "Math, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subsets II",
+      "Frequency": 31.3,
+      "Acceptance Rate": 0.595072748658621,
+      "Link": "https://leetcode.com/problems/subsets-ii",
+      "Topics": "Array, Backtracking, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Clone Graph",
+      "Frequency": 31.3,
+      "Acceptance Rate": 0.6238569850718234,
+      "Link": "https://leetcode.com/problems/clone-graph",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add Digits",
+      "Frequency": 30.0,
+      "Acceptance Rate": 0.6791255381121745,
+      "Link": "https://leetcode.com/problems/add-digits",
+      "Topics": "Math, Simulation, Number Theory"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Implement Stack using Queues",
+      "Frequency": 30.0,
+      "Acceptance Rate": 0.6733897915056893,
+      "Link": "https://leetcode.com/problems/implement-stack-using-queues",
+      "Topics": "Stack, Design, Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lowest Common Ancestor of a Binary Search Tree",
+      "Frequency": 28.6,
+      "Acceptance Rate": 0.6831069193376744,
+      "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+      "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Basic Calculator II",
+      "Frequency": 28.6,
+      "Acceptance Rate": 0.4581129812287864,
+      "Link": "https://leetcode.com/problems/basic-calculator-ii",
+      "Topics": "Math, String, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove Linked List Elements",
+      "Frequency": 28.6,
+      "Acceptance Rate": 0.5192135190900153,
+      "Link": "https://leetcode.com/problems/remove-linked-list-elements",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Perfect Squares",
+      "Frequency": 28.6,
+      "Acceptance Rate": 0.5567206995951867,
+      "Link": "https://leetcode.com/problems/perfect-squares",
+      "Topics": "Math, Dynamic Programming, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Interleaving String",
+      "Frequency": 28.6,
+      "Acceptance Rate": 0.4217918033968859,
+      "Link": "https://leetcode.com/problems/interleaving-string",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Multiply Strings",
+      "Frequency": 27.0,
+      "Acceptance Rate": 0.4228941429852704,
+      "Link": "https://leetcode.com/problems/multiply-strings",
+      "Topics": "Math, String, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "The Skyline Problem",
+      "Frequency": 27.0,
+      "Acceptance Rate": 0.4396233271583687,
+      "Link": "https://leetcode.com/problems/the-skyline-problem",
+      "Topics": "Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Pascal's Triangle II",
+      "Frequency": 27.0,
+      "Acceptance Rate": 0.6595100107835754,
+      "Link": "https://leetcode.com/problems/pascals-triangle-ii",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Dungeon Game",
+      "Frequency": 25.4,
+      "Acceptance Rate": 0.3949597692424472,
+      "Link": "https://leetcode.com/problems/dungeon-game",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Partition List",
+      "Frequency": 25.4,
+      "Acceptance Rate": 0.5898677373641946,
+      "Link": "https://leetcode.com/problems/partition-list",
+      "Topics": "Linked List, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Combinations",
+      "Frequency": 23.5,
+      "Acceptance Rate": 0.7289648238875795,
+      "Link": "https://leetcode.com/problems/combinations",
+      "Topics": "Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Employees Earning More Than Their Managers",
+      "Frequency": 23.5,
+      "Acceptance Rate": 0.7153023627322151,
+      "Link": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Second Highest Salary",
+      "Frequency": 23.5,
+      "Acceptance Rate": 0.4386508095849322,
+      "Link": "https://leetcode.com/problems/second-highest-salary",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Meeting Rooms",
+      "Frequency": 23.5,
+      "Acceptance Rate": 0.5894713447854578,
+      "Link": "https://leetcode.com/problems/meeting-rooms",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Graph Valid Tree",
+      "Frequency": 23.5,
+      "Acceptance Rate": 0.4933560205084969,
+      "Link": "https://leetcode.com/problems/graph-valid-tree",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Path Sum",
+      "Frequency": 23.5,
+      "Acceptance Rate": 0.5300478045423143,
+      "Link": "https://leetcode.com/problems/path-sum",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Ugly Number II",
+      "Frequency": 23.5,
+      "Acceptance Rate": 0.4925492738355708,
+      "Link": "https://leetcode.com/problems/ugly-number-ii",
+      "Topics": "Hash Table, Math, Dynamic Programming, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Unique Binary Search Trees II",
+      "Frequency": 23.5,
+      "Acceptance Rate": 0.6039807221122715,
+      "Link": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+      "Topics": "Dynamic Programming, Backtracking, Tree, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Restore IP Addresses",
+      "Frequency": 23.5,
+      "Acceptance Rate": 0.531583393083398,
+      "Link": "https://leetcode.com/problems/restore-ip-addresses",
+      "Topics": "String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Game of Life",
+      "Frequency": 23.5,
+      "Acceptance Rate": 0.7141499668480139,
+      "Link": "https://leetcode.com/problems/game-of-life",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Binary Tree Paths",
+      "Frequency": 23.5,
+      "Acceptance Rate": 0.6656317661585257,
+      "Link": "https://leetcode.com/problems/binary-tree-paths",
+      "Topics": "String, Backtracking, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Strobogrammatic Number II",
+      "Frequency": 21.4,
+      "Acceptance Rate": 0.5320014507233087,
+      "Link": "https://leetcode.com/problems/strobogrammatic-number-ii",
+      "Topics": "Array, String, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Word Pattern",
+      "Frequency": 21.4,
+      "Acceptance Rate": 0.430607261173072,
+      "Link": "https://leetcode.com/problems/word-pattern",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Bitwise AND of Numbers Range",
+      "Frequency": 21.4,
+      "Acceptance Rate": 0.477400397545588,
+      "Link": "https://leetcode.com/problems/bitwise-and-of-numbers-range",
+      "Topics": "Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Recover Binary Search Tree",
+      "Frequency": 21.4,
+      "Acceptance Rate": 0.5632431226781013,
+      "Link": "https://leetcode.com/problems/recover-binary-search-tree",
+      "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Populating Next Right Pointers in Each Node",
+      "Frequency": 21.4,
+      "Acceptance Rate": 0.6544147769490073,
+      "Link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+      "Topics": "Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Bits",
+      "Frequency": 19.1,
+      "Acceptance Rate": 0.6320547566319765,
+      "Link": "https://leetcode.com/problems/reverse-bits",
+      "Topics": "Divide and Conquer, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Best Time to Buy and Sell Stock IV",
+      "Frequency": 19.1,
+      "Acceptance Rate": 0.4708615439104682,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Scramble String",
+      "Frequency": 19.1,
+      "Acceptance Rate": 0.4218190083551487,
+      "Link": "https://leetcode.com/problems/scramble-string",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "Frequency": 19.1,
+      "Acceptance Rate": 0.6683774773521286,
+      "Link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+      "Topics": "Array, Hash Table, Divide and Conquer, Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insertion Sort List",
+      "Frequency": 16.4,
+      "Acceptance Rate": 0.5645710379999737,
+      "Link": "https://leetcode.com/problems/insertion-sort-list",
+      "Topics": "Linked List, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix II",
+      "Frequency": 16.4,
+      "Acceptance Rate": 0.734312719680276,
+      "Link": "https://leetcode.com/problems/spiral-matrix-ii",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rank Scores",
+      "Frequency": 16.4,
+      "Acceptance Rate": 0.6530068484300299,
+      "Link": "https://leetcode.com/problems/rank-scores",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Duplicate Emails",
+      "Frequency": 16.4,
+      "Acceptance Rate": 0.7244932493128983,
+      "Link": "https://leetcode.com/problems/duplicate-emails",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Repeated DNA Sequences",
+      "Frequency": 16.4,
+      "Acceptance Rate": 0.5132040320028115,
+      "Link": "https://leetcode.com/problems/repeated-dna-sequences",
+      "Topics": "Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Read N Characters Given Read4",
+      "Frequency": 13.3,
+      "Acceptance Rate": 0.4225902118364912,
+      "Link": "https://leetcode.com/problems/read-n-characters-given-read4",
+      "Topics": "Array, Simulation, Interactive"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Minimum Depth of Binary Tree",
+      "Frequency": 13.3,
+      "Acceptance Rate": 0.506666811649461,
+      "Link": "https://leetcode.com/problems/minimum-depth-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Walls and Gates",
+      "Frequency": 13.3,
+      "Acceptance Rate": 0.6296791509568449,
+      "Link": "https://leetcode.com/problems/walls-and-gates",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rectangle Area",
+      "Frequency": 13.3,
+      "Acceptance Rate": 0.4737387162244031,
+      "Link": "https://leetcode.com/problems/rectangle-area",
+      "Topics": "Math, Geometry"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "N-Queens II",
+      "Frequency": 9.8,
+      "Acceptance Rate": 0.7672955295381376,
+      "Link": "https://leetcode.com/problems/n-queens-ii",
+      "Topics": "Backtracking"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Read N Characters Given read4 II - Call Multiple Times",
+      "Frequency": 9.8,
+      "Acceptance Rate": 0.4290596992252771,
+      "Link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+      "Topics": "Array, Simulation, Interactive"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Gray Code",
+      "Frequency": 9.8,
+      "Acceptance Rate": 0.6187231456205623,
+      "Link": "https://leetcode.com/problems/gray-code",
+      "Topics": "Math, Backtracking, Bit Manipulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.557769945892896,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 75.2,
+      "Acceptance Rate": 0.4622507658063209,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 73.7,
+      "Acceptance Rate": 0.6510193676088248,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.4381459000864632,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 70.1,
+      "Acceptance Rate": 0.3693616756816993,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 70.0,
+      "Acceptance Rate": 0.4548305505260665,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 66.7,
+      "Acceptance Rate": 0.4232282064668211,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Consecutive Sequence",
+      "Frequency": 66.2,
+      "Acceptance Rate": 0.4704082801866521,
+      "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "Topics": "Array, Hash Table, Union Find"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 63.1,
+      "Acceptance Rate": 0.5209978267392302,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 57.8,
+      "Acceptance Rate": 0.7790164518819447,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 57.7,
+      "Acceptance Rate": 0.4283722138743466,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Linked List",
+      "Frequency": 56.7,
+      "Acceptance Rate": 0.7920654119580827,
+      "Link": "https://leetcode.com/problems/reverse-linked-list",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "4Sum",
+      "Frequency": 56.4,
+      "Acceptance Rate": 0.3821902011379304,
+      "Link": "https://leetcode.com/problems/4sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game",
+      "Frequency": 55.8,
+      "Acceptance Rate": 0.3947919786729132,
+      "Link": "https://leetcode.com/problems/jump-game",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 55.4,
+      "Acceptance Rate": 0.7092881706911216,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 55.4,
+      "Acceptance Rate": 0.5327816407313548,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Pascal's Triangle",
+      "Frequency": 55.4,
+      "Acceptance Rate": 0.770215491719448,
+      "Link": "https://leetcode.com/problems/pascals-triangle",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Single Number",
+      "Frequency": 55.4,
+      "Acceptance Rate": 0.7596882403268375,
+      "Link": "https://leetcode.com/problems/single-number",
+      "Topics": "Array, Bit Manipulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find the Index of the First Occurrence in a String",
+      "Frequency": 54.3,
+      "Acceptance Rate": 0.449716000865219,
+      "Link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+      "Topics": "Two Pointers, String, String Matching"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximal Rectangle",
+      "Frequency": 54.3,
+      "Acceptance Rate": 0.5370845822665518,
+      "Link": "https://leetcode.com/problems/maximal-rectangle",
+      "Topics": "Array, Dynamic Programming, Stack, Matrix, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Anagram",
+      "Frequency": 51.4,
+      "Acceptance Rate": 0.6666089667345674,
+      "Link": "https://leetcode.com/problems/valid-anagram",
+      "Topics": "Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 51.2,
+      "Acceptance Rate": 0.4108465766394882,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game II",
+      "Frequency": 50.9,
+      "Acceptance Rate": 0.4150329844075007,
+      "Link": "https://leetcode.com/problems/jump-game-ii",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add Binary",
+      "Frequency": 50.4,
+      "Acceptance Rate": 0.5567701348180015,
+      "Link": "https://leetcode.com/problems/add-binary",
+      "Topics": "Math, String, Bit Manipulation, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 48.6,
+      "Acceptance Rate": 0.4814988999917213,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Interval",
+      "Frequency": 47.3,
+      "Acceptance Rate": 0.4347362871417847,
+      "Link": "https://leetcode.com/problems/insert-interval",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Product Subarray",
+      "Frequency": 45.5,
+      "Acceptance Rate": 0.3494162954383182,
+      "Link": "https://leetcode.com/problems/maximum-product-subarray",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "String to Integer (atoi)",
+      "Frequency": 43.9,
+      "Acceptance Rate": 0.1922942349527772,
+      "Link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Same Tree",
+      "Frequency": 43.5,
+      "Acceptance Rate": 0.651268811570624,
+      "Link": "https://leetcode.com/problems/same-tree",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search a 2D Matrix",
+      "Frequency": 43.5,
+      "Acceptance Rate": 0.5228957258337302,
+      "Link": "https://leetcode.com/problems/search-a-2d-matrix",
+      "Topics": "Array, Binary Search, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Isomorphic Strings",
+      "Frequency": 43.1,
+      "Acceptance Rate": 0.4685795790862557,
+      "Link": "https://leetcode.com/problems/isomorphic-strings",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum Closest",
+      "Frequency": 43.1,
+      "Acceptance Rate": 0.468869600214817,
+      "Link": "https://leetcode.com/problems/3sum-closest",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Wildcard Matching",
+      "Frequency": 43.1,
+      "Acceptance Rate": 0.2989835093068089,
+      "Link": "https://leetcode.com/problems/wildcard-matching",
+      "Topics": "String, Dynamic Programming, Greedy, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Duplicate Number",
+      "Frequency": 43.1,
+      "Acceptance Rate": 0.6283577384693005,
+      "Link": "https://leetcode.com/problems/find-the-duplicate-number",
+      "Topics": "Array, Two Pointers, Binary Search, Bit Manipulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate II",
+      "Frequency": 42.2,
+      "Acceptance Rate": 0.4904986450077176,
+      "Link": "https://leetcode.com/problems/contains-duplicate-ii",
+      "Topics": "Array, Hash Table, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Missing Number",
+      "Frequency": 42.2,
+      "Acceptance Rate": 0.7006534938999994,
+      "Link": "https://leetcode.com/problems/missing-number",
+      "Topics": "Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Symmetric Tree",
+      "Frequency": 41.7,
+      "Acceptance Rate": 0.5927867908424697,
+      "Link": "https://leetcode.com/problems/symmetric-tree",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Path Sum",
+      "Frequency": 40.7,
+      "Acceptance Rate": 0.664814934885504,
+      "Link": "https://leetcode.com/problems/minimum-path-sum",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Smallest Element in a BST",
+      "Frequency": 40.2,
+      "Acceptance Rate": 0.7532956790739447,
+      "Link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+      "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Copy List with Random Pointer",
+      "Frequency": 39.2,
+      "Acceptance Rate": 0.6053669280147949,
+      "Link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+      "Topics": "Hash Table, Linked List"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Islands II",
+      "Frequency": 38.6,
+      "Acceptance Rate": 0.4012685422493824,
+      "Link": "https://leetcode.com/problems/number-of-islands-ii",
+      "Topics": "Array, Hash Table, Union Find"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Clone Graph",
+      "Frequency": 38.6,
+      "Acceptance Rate": 0.6238569850718234,
+      "Link": "https://leetcode.com/problems/clone-graph",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Integer to Roman",
+      "Frequency": 38.0,
+      "Acceptance Rate": 0.6861931275088928,
+      "Link": "https://leetcode.com/problems/integer-to-roman",
+      "Topics": "Hash Table, Math, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Palindrome",
+      "Frequency": 38.0,
+      "Acceptance Rate": 0.4065591820684232,
+      "Link": "https://leetcode.com/problems/shortest-palindrome",
+      "Topics": "String, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flatten Binary Tree to Linked List",
+      "Frequency": 37.4,
+      "Acceptance Rate": 0.6851010744073592,
+      "Link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+      "Topics": "Linked List, Stack, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Shifted Strings",
+      "Frequency": 35.4,
+      "Acceptance Rate": 0.673782383890107,
+      "Link": "https://leetcode.com/problems/group-shifted-strings",
+      "Topics": "Array, Hash Table, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Search II",
+      "Frequency": 34.7,
+      "Acceptance Rate": 0.3732633211647155,
+      "Link": "https://leetcode.com/problems/word-search-ii",
+      "Topics": "Array, String, Backtracking, Trie, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Binary Tree Right Side View",
+      "Frequency": 34.7,
+      "Acceptance Rate": 0.6704254068229247,
+      "Link": "https://leetcode.com/problems/binary-tree-right-side-view",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subsets II",
+      "Frequency": 34.7,
+      "Acceptance Rate": 0.595072748658621,
+      "Link": "https://leetcode.com/problems/subsets-ii",
+      "Topics": "Array, Backtracking, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "The Skyline Problem",
+      "Frequency": 33.2,
+      "Acceptance Rate": 0.4396233271583687,
+      "Link": "https://leetcode.com/problems/the-skyline-problem",
+      "Topics": "Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Implement Stack using Queues",
+      "Frequency": 33.2,
+      "Acceptance Rate": 0.6733897915056893,
+      "Link": "https://leetcode.com/problems/implement-stack-using-queues",
+      "Topics": "Stack, Design, Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Best Time to Buy and Sell Stock with Cooldown",
+      "Frequency": 33.2,
+      "Acceptance Rate": 0.6039720911326697,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Missing Ranges",
+      "Frequency": 32.4,
+      "Acceptance Rate": 0.3526494595509856,
+      "Link": "https://leetcode.com/problems/missing-ranges",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Graph Valid Tree",
+      "Frequency": 32.4,
+      "Acceptance Rate": 0.4933560205084969,
+      "Link": "https://leetcode.com/problems/graph-valid-tree",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Second Highest Salary",
+      "Frequency": 31.5,
+      "Acceptance Rate": 0.4386508095849322,
+      "Link": "https://leetcode.com/problems/second-highest-salary",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Basic Calculator II",
+      "Frequency": 30.6,
+      "Acceptance Rate": 0.4581129812287864,
+      "Link": "https://leetcode.com/problems/basic-calculator-ii",
+      "Topics": "Math, String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Game of Life",
+      "Frequency": 30.6,
+      "Acceptance Rate": 0.7141499668480139,
+      "Link": "https://leetcode.com/problems/game-of-life",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Fraction to Recurring Decimal",
+      "Frequency": 30.6,
+      "Acceptance Rate": 0.2622353839768554,
+      "Link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+      "Topics": "Hash Table, Math, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Digit One",
+      "Frequency": 30.6,
+      "Acceptance Rate": 0.3599159436598703,
+      "Link": "https://leetcode.com/problems/number-of-digit-one",
+      "Topics": "Math, Dynamic Programming, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Walls and Gates",
+      "Frequency": 29.6,
+      "Acceptance Rate": 0.6296791509568449,
+      "Link": "https://leetcode.com/problems/walls-and-gates",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Binary Tree Paths",
+      "Frequency": 29.6,
+      "Acceptance Rate": 0.6656317661585257,
+      "Link": "https://leetcode.com/problems/binary-tree-paths",
+      "Topics": "String, Backtracking, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Wiggle Sort",
+      "Frequency": 27.5,
+      "Acceptance Rate": 0.6822006472491909,
+      "Link": "https://leetcode.com/problems/wiggle-sort",
+      "Topics": "Array, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Best Time to Buy and Sell Stock IV",
+      "Frequency": 27.5,
+      "Acceptance Rate": 0.4708615439104682,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum Smaller",
+      "Frequency": 27.5,
+      "Acceptance Rate": 0.5098856904205789,
+      "Link": "https://leetcode.com/problems/3sum-smaller",
+      "Topics": "Array, Two Pointers, Binary Search, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Combinations",
+      "Frequency": 26.4,
+      "Acceptance Rate": 0.7289648238875795,
+      "Link": "https://leetcode.com/problems/combinations",
+      "Topics": "Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lowest Common Ancestor of a Binary Search Tree",
+      "Frequency": 26.4,
+      "Acceptance Rate": 0.6831069193376744,
+      "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+      "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Read N Characters Given read4 II - Call Multiple Times",
+      "Frequency": 26.4,
+      "Acceptance Rate": 0.4290596992252771,
+      "Link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+      "Topics": "Array, Simulation, Interactive"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Paint Fence",
+      "Frequency": 25.1,
+      "Acceptance Rate": 0.4774369661796149,
+      "Link": "https://leetcode.com/problems/paint-fence",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring with At Most Two Distinct Characters",
+      "Frequency": 25.1,
+      "Acceptance Rate": 0.5647336891491908,
+      "Link": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Flip Game",
+      "Frequency": 25.1,
+      "Acceptance Rate": 0.648810474885,
+      "Link": "https://leetcode.com/problems/flip-game",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Binary Tree Postorder Traversal",
+      "Frequency": 25.1,
+      "Acceptance Rate": 0.757410545581066,
+      "Link": "https://leetcode.com/problems/binary-tree-postorder-traversal",
+      "Topics": "Stack, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Strobogrammatic Number",
+      "Frequency": 25.1,
+      "Acceptance Rate": 0.4760305048749879,
+      "Link": "https://leetcode.com/problems/strobogrammatic-number",
+      "Topics": "Hash Table, Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Iterator",
+      "Frequency": 25.1,
+      "Acceptance Rate": 0.6575715893460048,
+      "Link": "https://leetcode.com/problems/zigzag-iterator",
+      "Topics": "Array, Design, Queue, Iterator"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix II",
+      "Frequency": 23.8,
+      "Acceptance Rate": 0.734312719680276,
+      "Link": "https://leetcode.com/problems/spiral-matrix-ii",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Peeking Iterator",
+      "Frequency": 23.8,
+      "Acceptance Rate": 0.6034819530757167,
+      "Link": "https://leetcode.com/problems/peeking-iterator",
+      "Topics": "Array, Design, Iterator"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Department Top Three Salaries",
+      "Frequency": 23.8,
+      "Acceptance Rate": 0.5777086770789912,
+      "Link": "https://leetcode.com/problems/department-top-three-salaries",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Closest Binary Search Tree Value II",
+      "Frequency": 23.8,
+      "Acceptance Rate": 0.6026240281377268,
+      "Link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+      "Topics": "Two Pointers, Stack, Tree, Depth-First Search, Binary Search Tree, Heap (Priority Queue), Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flatten 2D Vector",
+      "Frequency": 23.8,
+      "Acceptance Rate": 0.5013489435679918,
+      "Link": "https://leetcode.com/problems/flatten-2d-vector",
+      "Topics": "Array, Two Pointers, Design, Iterator"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Unique Word Abbreviation",
+      "Frequency": 22.3,
+      "Acceptance Rate": 0.2705393583975261,
+      "Link": "https://leetcode.com/problems/unique-word-abbreviation",
+      "Topics": "Array, Hash Table, String, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flip Game II",
+      "Frequency": 22.3,
+      "Acceptance Rate": 0.5222630055763394,
+      "Link": "https://leetcode.com/problems/flip-game-ii",
+      "Topics": "Math, Dynamic Programming, Backtracking, Memoization, Game Theory"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Palindrome Permutation",
+      "Frequency": 22.3,
+      "Acceptance Rate": 0.6850934894703868,
+      "Link": "https://leetcode.com/problems/palindrome-permutation",
+      "Topics": "Hash Table, String, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Scramble String",
+      "Frequency": 20.8,
+      "Acceptance Rate": 0.4218190083551487,
+      "Link": "https://leetcode.com/problems/scramble-string",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insertion Sort List",
+      "Frequency": 20.8,
+      "Acceptance Rate": 0.5645710379999737,
+      "Link": "https://leetcode.com/problems/insertion-sort-list",
+      "Topics": "Linked List, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Factorial Trailing Zeroes",
+      "Frequency": 20.8,
+      "Acceptance Rate": 0.4485560789752664,
+      "Link": "https://leetcode.com/problems/factorial-trailing-zeroes",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove Duplicates from Sorted List II",
+      "Frequency": 20.8,
+      "Acceptance Rate": 0.4989080936318432,
+      "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+      "Topics": "Linked List, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Populating Next Right Pointers in Each Node",
+      "Frequency": 19.0,
+      "Acceptance Rate": 0.6544147769490073,
+      "Link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+      "Topics": "Linked List, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Word Pattern",
+      "Frequency": 19.0,
+      "Acceptance Rate": 0.430607261173072,
+      "Link": "https://leetcode.com/problems/word-pattern",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "N-Queens II",
+      "Frequency": 19.0,
+      "Acceptance Rate": 0.7672955295381376,
+      "Link": "https://leetcode.com/problems/n-queens-ii",
+      "Topics": "Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Minimum Depth of Binary Tree",
+      "Frequency": 19.0,
+      "Acceptance Rate": 0.506666811649461,
+      "Link": "https://leetcode.com/problems/minimum-depth-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Bitwise AND of Numbers Range",
+      "Frequency": 17.1,
+      "Acceptance Rate": 0.477400397545588,
+      "Link": "https://leetcode.com/problems/bitwise-and-of-numbers-range",
+      "Topics": "Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rank Scores",
+      "Frequency": 14.9,
+      "Acceptance Rate": 0.6530068484300299,
+      "Link": "https://leetcode.com/problems/rank-scores",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Valid Number",
+      "Frequency": 12.5,
+      "Acceptance Rate": 0.2156351250311539,
+      "Link": "https://leetcode.com/problems/valid-number",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Read N Characters Given Read4",
+      "Frequency": 12.5,
+      "Acceptance Rate": 0.4225902118364912,
+      "Link": "https://leetcode.com/problems/read-n-characters-given-read4",
+      "Topics": "Array, Simulation, Interactive"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Gray Code",
+      "Frequency": 12.5,
+      "Acceptance Rate": 0.6187231456205623,
+      "Link": "https://leetcode.com/problems/gray-code",
+      "Topics": "Math, Backtracking, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Remove Invalid Parentheses",
+      "Frequency": 12.5,
+      "Acceptance Rate": 0.4923157435133604,
+      "Link": "https://leetcode.com/problems/remove-invalid-parentheses",
+      "Topics": "String, Backtracking, Breadth-First Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Minimum in Rotated Sorted Array II",
+      "Frequency": 12.5,
+      "Acceptance Rate": 0.441135385633896,
+      "Link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Celebrity",
+      "Frequency": 9.8,
+      "Acceptance Rate": 0.4843840356335517,
+      "Link": "https://leetcode.com/problems/find-the-celebrity",
+      "Topics": "Two Pointers, Graph, Interactive"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Range Sum Query - Mutable",
+      "Frequency": 5.0,
+      "Acceptance Rate": 0.4170428564247957,
+      "Link": "https://leetcode.com/problems/range-sum-query-mutable",
+      "Topics": "Array, Design, Binary Indexed Tree, Segment Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Binary Tree Level Order Traversal II",
+      "Frequency": 5.0,
+      "Acceptance Rate": 0.6600794078073927,
+      "Link": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii",
+      "Topics": "Tree, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Paint House",
+      "Frequency": 5.0,
+      "Acceptance Rate": 0.6373080782394743,
+      "Link": "https://leetcode.com/problems/paint-house",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ]
+}

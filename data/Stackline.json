@@ -1,0 +1,50 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Height Trees",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4201393030194603,
+      "Link": "https://leetcode.com/problems/minimum-height-trees",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "IPO",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5301856067884377,
+      "Link": "https://leetcode.com/problems/ipo",
+      "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Height Trees",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4201393030194603,
+      "Link": "https://leetcode.com/problems/minimum-height-trees",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Height Trees",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4201393030194603,
+      "Link": "https://leetcode.com/problems/minimum-height-trees",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "IPO",
+      "Frequency": 77.2,
+      "Acceptance Rate": 0.5301856067884377,
+      "Link": "https://leetcode.com/problems/ipo",
+      "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reorganize String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5619678232551094,
+      "Link": "https://leetcode.com/problems/reorganize-string",
+      "Topics": "Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4283746302583542,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximize Sum Of Array After K Negations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5238275789608325,
+      "Link": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations",
+      "Topics": "Array, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.578085996864673,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximize Sum Of Array After K Negations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5238275789608325,
+      "Link": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations",
+      "Topics": "Array, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reorganize String",
+      "Frequency": 67.0,
+      "Acceptance Rate": 0.5619678232551094,
+      "Link": "https://leetcode.com/problems/reorganize-string",
+      "Topics": "Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 67.0,
+      "Acceptance Rate": 0.4283746977996756,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 67.0,
+      "Acceptance Rate": 0.578085996864673,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    }
+  ]
+}

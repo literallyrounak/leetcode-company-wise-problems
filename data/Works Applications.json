@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Largest Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4128187673396755,
+      "Link": "https://leetcode.com/problems/largest-number",
+      "Topics": "Array, String, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "K Inverse Pairs Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4904749496967328,
+      "Link": "https://leetcode.com/problems/k-inverse-pairs-array",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Course Schedule III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4067228094856614,
+      "Link": "https://leetcode.com/problems/course-schedule-iii",
+      "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3707497430761235,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3707497430761235,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Course Schedule III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4067228094856614,
+      "Link": "https://leetcode.com/problems/course-schedule-iii",
+      "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "K Inverse Pairs Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4904749496967328,
+      "Link": "https://leetcode.com/problems/k-inverse-pairs-array",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Largest Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4128187673396755,
+      "Link": "https://leetcode.com/problems/largest-number",
+      "Topics": "Array, String, Greedy, Sorting"
+    }
+  ]
+}

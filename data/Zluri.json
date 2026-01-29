@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Array Hopping Score I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7762183235867446,
+      "Link": "https://leetcode.com/problems/maximum-array-hopping-score-i",
+      "Topics": "Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Array Hopping Score II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.573394495412844,
+      "Link": "https://leetcode.com/problems/maximum-array-hopping-score-ii",
+      "Topics": "Array, Stack, Greedy, Monotonic Stack"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Array Hopping Score I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7762183235867446,
+      "Link": "https://leetcode.com/problems/maximum-array-hopping-score-i",
+      "Topics": "Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Array Hopping Score II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.573394495412844,
+      "Link": "https://leetcode.com/problems/maximum-array-hopping-score-ii",
+      "Topics": "Array, Stack, Greedy, Monotonic Stack"
+    }
+  ]
+}

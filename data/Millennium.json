@@ -1,0 +1,122 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525967760941201,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pow(x, n)",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3702313406018087,
+      "Link": "https://leetcode.com/problems/powx-n",
+      "Topics": "Math, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Smallest Divisor Given a Threshold",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6364670242650312,
+      "Link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Broken Calculator",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.551297403214314,
+      "Link": "https://leetcode.com/problems/broken-calculator",
+      "Topics": "Math, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2175277160154665,
+      "Link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+      "Topics": "Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4232288415727031,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Palindromic Substrings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.716780342298775,
+      "Link": "https://leetcode.com/problems/palindromic-substrings",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pow(x, n)",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3702313406018087,
+      "Link": "https://leetcode.com/problems/powx-n",
+      "Topics": "Math, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Smallest Divisor Given a Threshold",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6364670242650312,
+      "Link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Broken Calculator",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.551297403214314,
+      "Link": "https://leetcode.com/problems/broken-calculator",
+      "Topics": "Math, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2175277160154665,
+      "Link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+      "Topics": "Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4232288415727031,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Palindromic Substrings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.716780342298775,
+      "Link": "https://leetcode.com/problems/palindromic-substrings",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525967760941201,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ]
+}

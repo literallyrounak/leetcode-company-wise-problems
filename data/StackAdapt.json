@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5328274303467472,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Restore IP Addresses",
+      "Frequency": 89.5,
+      "Acceptance Rate": 0.5316261155804161,
+      "Link": "https://leetcode.com/problems/restore-ip-addresses",
+      "Topics": "String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Snapshot Array",
+      "Frequency": 89.5,
+      "Acceptance Rate": 0.3666600622995413,
+      "Link": "https://leetcode.com/problems/snapshot-array",
+      "Topics": "Array, Hash Table, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Dice Rolls With Target Sum",
+      "Frequency": 89.5,
+      "Acceptance Rate": 0.6162808491826136,
+      "Link": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum",
+      "Topics": "Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5328274303467472,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Snapshot Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3666600622995413,
+      "Link": "https://leetcode.com/problems/snapshot-array",
+      "Topics": "Array, Hash Table, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Restore IP Addresses",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.5316261155804161,
+      "Link": "https://leetcode.com/problems/restore-ip-addresses",
+      "Topics": "String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Dice Rolls With Target Sum",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.6162808491826136,
+      "Link": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum",
+      "Topics": "Dynamic Programming"
+    }
+  ]
+}

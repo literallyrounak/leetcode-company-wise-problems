@@ -1,0 +1,212 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lowest Common Ancestor of a Binary Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6675513590636828,
+      "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.452148771503926,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lowest Common Ancestor of a Binary Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6675513590636828,
+      "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Gas Station",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4638358684554832,
+      "Link": "https://leetcode.com/problems/gas-station",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.623201292092127,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6510218479112839,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Bus Routes",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4695300579798596,
+      "Link": "https://leetcode.com/problems/bus-routes",
+      "Topics": "Array, Hash Table, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.452148771503926,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lowest Common Ancestor of a Binary Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6675513590636828,
+      "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Gas Station",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4638358684554832,
+      "Link": "https://leetcode.com/problems/gas-station",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 92.5,
+      "Acceptance Rate": 0.5160681481756035,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring with At Most K Distinct Characters",
+      "Frequency": 92.5,
+      "Acceptance Rate": 0.4949646677725676,
+      "Link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Check if an Original String Exists Given Two Encoded Strings",
+      "Frequency": 81.9,
+      "Acceptance Rate": 0.4322933345532732,
+      "Link": "https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Game of Life",
+      "Frequency": 81.9,
+      "Acceptance Rate": 0.7141528222609304,
+      "Link": "https://leetcode.com/problems/game-of-life",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 81.9,
+      "Acceptance Rate": 0.623201292092127,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Check if an Original String Exists Given Two Encoded Strings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4322933345532732,
+      "Link": "https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Gas Station",
+      "Frequency": 88.6,
+      "Acceptance Rate": 0.4638358684554832,
+      "Link": "https://leetcode.com/problems/gas-station",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 79.6,
+      "Acceptance Rate": 0.6232013595165893,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.5160681481756035,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring with At Most K Distinct Characters",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.4949646677725676,
+      "Link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Bus Routes",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.4695300579798596,
+      "Link": "https://leetcode.com/problems/bus-routes",
+      "Topics": "Array, Hash Table, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.452148771503926,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Game of Life",
+      "Frequency": 64.1,
+      "Acceptance Rate": 0.7141528222609304,
+      "Link": "https://leetcode.com/problems/game-of-life",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 64.1,
+      "Acceptance Rate": 0.6510216996606288,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lowest Common Ancestor of a Binary Tree",
+      "Frequency": 64.1,
+      "Acceptance Rate": 0.6675513590636828,
+      "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    }
+  ]
+}

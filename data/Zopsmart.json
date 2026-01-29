@@ -1,0 +1,315 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.651086356034693,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Words in a String",
+      "Frequency": 81.6,
+      "Acceptance Rate": 0.5192721628620846,
+      "Link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 72.7,
+      "Acceptance Rate": 0.5161060892506519,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.651086356034693,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.5161060892506519,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Words in a String",
+      "Frequency": 81.1,
+      "Acceptance Rate": 0.5192721628620846,
+      "Link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 72.0,
+      "Acceptance Rate": 0.3585054411256428,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.516106229324453,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Window Substring",
+      "Frequency": 76.2,
+      "Acceptance Rate": 0.4535435822395003,
+      "Link": "https://leetcode.com/problems/minimum-window-substring",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Fraction Addition and Subtraction",
+      "Frequency": 72.6,
+      "Acceptance Rate": 0.6614505626107133,
+      "Link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+      "Topics": "Math, String, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 68.2,
+      "Acceptance Rate": 0.651086356034693,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove K Digits",
+      "Frequency": 68.2,
+      "Acceptance Rate": 0.3494500561948273,
+      "Link": "https://leetcode.com/problems/remove-k-digits",
+      "Topics": "String, Stack, Greedy, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Bulls and Cows",
+      "Frequency": 68.2,
+      "Acceptance Rate": 0.5138771783652719,
+      "Link": "https://leetcode.com/problems/bulls-and-cows",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 54.6,
+      "Acceptance Rate": 0.5526329995457592,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 54.6,
+      "Acceptance Rate": 0.7093182554988369,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Nodes in Even Length Groups",
+      "Frequency": 54.6,
+      "Acceptance Rate": 0.6105335755618355,
+      "Link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups",
+      "Topics": "Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 54.6,
+      "Acceptance Rate": 0.3707498172006084,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 54.6,
+      "Acceptance Rate": 0.5778594130677152,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 54.6,
+      "Acceptance Rate": 0.4623055426113341,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sort Colors",
+      "Frequency": 54.6,
+      "Acceptance Rate": 0.6758906413159929,
+      "Link": "https://leetcode.com/problems/sort-colors",
+      "Topics": "Array, Two Pointers, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.516106229324453,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 84.5,
+      "Acceptance Rate": 0.651086356034693,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Nodes in Even Length Groups",
+      "Frequency": 82.6,
+      "Acceptance Rate": 0.6105335755618355,
+      "Link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups",
+      "Topics": "Linked List"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Window Substring",
+      "Frequency": 72.5,
+      "Acceptance Rate": 0.4535435822395003,
+      "Link": "https://leetcode.com/problems/minimum-window-substring",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Bulls and Cows",
+      "Frequency": 68.9,
+      "Acceptance Rate": 0.5138771783652719,
+      "Link": "https://leetcode.com/problems/bulls-and-cows",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Fraction Addition and Subtraction",
+      "Frequency": 68.9,
+      "Acceptance Rate": 0.6614505626107133,
+      "Link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+      "Topics": "Math, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove K Digits",
+      "Frequency": 64.5,
+      "Acceptance Rate": 0.3494500561948273,
+      "Link": "https://leetcode.com/problems/remove-k-digits",
+      "Topics": "String, Stack, Greedy, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 58.8,
+      "Acceptance Rate": 0.5778594130677152,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 58.8,
+      "Acceptance Rate": 0.7093182554988369,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Words in a String",
+      "Frequency": 58.8,
+      "Acceptance Rate": 0.5192721628620846,
+      "Link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 50.8,
+      "Acceptance Rate": 0.3707497596929032,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 50.8,
+      "Acceptance Rate": 0.5526329995457592,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 50.8,
+      "Acceptance Rate": 0.4623055426113341,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 50.8,
+      "Acceptance Rate": 0.6386139867557035,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Linked List",
+      "Frequency": 50.8,
+      "Acceptance Rate": 0.7921057307459562,
+      "Link": "https://leetcode.com/problems/reverse-linked-list",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Reverse Nodes in k-Group",
+      "Frequency": 50.8,
+      "Acceptance Rate": 0.6305056992681838,
+      "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 50.8,
+      "Acceptance Rate": 0.3585054411256428,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sort Colors",
+      "Frequency": 50.8,
+      "Acceptance Rate": 0.6758906413159929,
+      "Link": "https://leetcode.com/problems/sort-colors",
+      "Topics": "Array, Two Pointers, Sorting"
+    }
+  ]
+}

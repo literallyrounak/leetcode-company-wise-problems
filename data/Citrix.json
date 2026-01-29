@@ -1,0 +1,113 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pairs of Songs With Total Durations Divisible by 60",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5324771514259002,
+      "Link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+      "Topics": "Array, Hash Table, Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if Strings Can be Made Equal With Operations I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.470779474689696,
+      "Link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Check if Strings Can be Made Equal With Operations II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5522769560396188,
+      "Link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii",
+      "Topics": "Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Performance of a Team",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4751514702683188,
+      "Link": "https://leetcode.com/problems/maximum-performance-of-a-team",
+      "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find All Groups of Farmland",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7548102383053839,
+      "Link": "https://leetcode.com/problems/find-all-groups-of-farmland",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove Nth Node From End of List",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4896144298412496,
+      "Link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+      "Topics": "Linked List, Two Pointers"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find All Groups of Farmland",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7548102383053839,
+      "Link": "https://leetcode.com/problems/find-all-groups-of-farmland",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Check if Strings Can be Made Equal With Operations II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5522769560396188,
+      "Link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii",
+      "Topics": "Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if Strings Can be Made Equal With Operations I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.470779474689696,
+      "Link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Performance of a Team",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4751514702683188,
+      "Link": "https://leetcode.com/problems/maximum-performance-of-a-team",
+      "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove Nth Node From End of List",
+      "Frequency": 63.7,
+      "Acceptance Rate": 0.4896144298412496,
+      "Link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+      "Topics": "Linked List, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pairs of Songs With Total Durations Divisible by 60",
+      "Frequency": 63.7,
+      "Acceptance Rate": 0.5324771514259002,
+      "Link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+      "Topics": "Array, Hash Table, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 63.7,
+      "Acceptance Rate": 0.4521519780245163,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    }
+  ]
+}

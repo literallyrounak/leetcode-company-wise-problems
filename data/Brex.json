@@ -1,0 +1,24 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Basic Calculator III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5246967071057193,
+      "Link": "https://leetcode.com/problems/basic-calculator-iii",
+      "Topics": "Math, String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Game of Life",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7141535361052459,
+      "Link": "https://leetcode.com/problems/game-of-life",
+      "Topics": "Array, Matrix, Simulation"
+    }
+  ],
+  "5. All": []
+}

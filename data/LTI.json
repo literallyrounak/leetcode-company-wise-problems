@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum White Tiles Covered by a Carpet",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3495782567947516,
+      "Link": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet",
+      "Topics": "Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Integer",
+      "Frequency": 89.0,
+      "Acceptance Rate": 0.3030900694104915,
+      "Link": "https://leetcode.com/problems/reverse-integer",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Closest Subsequence Sum",
+      "Frequency": 89.0,
+      "Acceptance Rate": 0.4160445423134075,
+      "Link": "https://leetcode.com/problems/closest-subsequence-sum",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Bit Manipulation, Sorting, Bitmask"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Zero Request Servers",
+      "Frequency": 89.0,
+      "Acceptance Rate": 0.3412006497165777,
+      "Link": "https://leetcode.com/problems/count-zero-request-servers",
+      "Topics": "Array, Hash Table, Sliding Window, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum White Tiles Covered by a Carpet",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3495782567947516,
+      "Link": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet",
+      "Topics": "Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Integer",
+      "Frequency": 88.8,
+      "Acceptance Rate": 0.3030900694104915,
+      "Link": "https://leetcode.com/problems/reverse-integer",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Closest Subsequence Sum",
+      "Frequency": 88.8,
+      "Acceptance Rate": 0.4160445423134075,
+      "Link": "https://leetcode.com/problems/closest-subsequence-sum",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Bit Manipulation, Sorting, Bitmask"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Zero Request Servers",
+      "Frequency": 88.8,
+      "Acceptance Rate": 0.3412006497165777,
+      "Link": "https://leetcode.com/problems/count-zero-request-servers",
+      "Topics": "Array, Hash Table, Sliding Window, Sorting"
+    }
+  ]
+}

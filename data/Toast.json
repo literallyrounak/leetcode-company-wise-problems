@@ -1,0 +1,66 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Celebrity",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.484395409739966,
+      "Link": "https://leetcode.com/problems/find-the-celebrity",
+      "Topics": "Two Pointers, Graph, Interactive"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Celebrity",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.484395409739966,
+      "Link": "https://leetcode.com/problems/find-the-celebrity",
+      "Topics": "Two Pointers, Graph, Interactive"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Palindrome",
+      "Frequency": 96.1,
+      "Acceptance Rate": 0.509681519795858,
+      "Link": "https://leetcode.com/problems/valid-palindrome",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 76.6,
+      "Acceptance Rate": 0.5526330669787187,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Celebrity",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.484395409739966,
+      "Link": "https://leetcode.com/problems/find-the-celebrity",
+      "Topics": "Two Pointers, Graph, Interactive"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Palindrome",
+      "Frequency": 90.3,
+      "Acceptance Rate": 0.509681519795858,
+      "Link": "https://leetcode.com/problems/valid-palindrome",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 79.7,
+      "Acceptance Rate": 0.5526330669787187,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ]
+}

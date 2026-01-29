@@ -1,0 +1,146 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6280402079242245,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4521484931675215,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Linked List",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.7920663222242535,
+      "Link": "https://leetcode.com/problems/reverse-linked-list",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Basic Calculator II",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.4581175582517616,
+      "Link": "https://leetcode.com/problems/basic-calculator-ii",
+      "Topics": "Math, String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find First and Last Position of Element in Sorted Array",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.468288663109128,
+      "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Path Sum III",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.4609139543754039,
+      "Link": "https://leetcode.com/problems/path-sum-iii",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Alien Dictionary",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.3667369950676969,
+      "Link": "https://leetcode.com/problems/alien-dictionary",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find First and Last Position of Element in Sorted Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.468288663109128,
+      "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4521484931675215,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6280402079242245,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Linked List",
+      "Frequency": 87.3,
+      "Acceptance Rate": 0.7920663222242535,
+      "Link": "https://leetcode.com/problems/reverse-linked-list",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Basic Calculator II",
+      "Frequency": 87.3,
+      "Acceptance Rate": 0.4581175582517616,
+      "Link": "https://leetcode.com/problems/basic-calculator-ii",
+      "Topics": "Math, String, Stack"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Alien Dictionary",
+      "Frequency": 87.3,
+      "Acceptance Rate": 0.3667369950676969,
+      "Link": "https://leetcode.com/problems/alien-dictionary",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Path Sum III",
+      "Frequency": 87.3,
+      "Acceptance Rate": 0.4609139543754039,
+      "Link": "https://leetcode.com/problems/path-sum-iii",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reconstruct Original Digits from English",
+      "Frequency": 87.3,
+      "Acceptance Rate": 0.5157334259339642,
+      "Link": "https://leetcode.com/problems/reconstruct-original-digits-from-english",
+      "Topics": "Hash Table, Math, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 87.3,
+      "Acceptance Rate": 0.709289019979725,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Merge k Sorted Lists",
+      "Frequency": 87.3,
+      "Acceptance Rate": 0.5677428134833566,
+      "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Time to Break Locks I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3033816671338651,
+      "Link": "https://leetcode.com/problems/minimum-time-to-break-locks-i",
+      "Topics": "Array, Dynamic Programming, Backtracking, Bit Manipulation, Depth-First Search, Bitmask"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Time to Break Locks II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4269662921348314,
+      "Link": "https://leetcode.com/problems/minimum-time-to-break-locks-ii",
+      "Topics": "Array, Depth-First Search, Graph"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Time to Break Locks I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3033816671338651,
+      "Link": "https://leetcode.com/problems/minimum-time-to-break-locks-i",
+      "Topics": "Array, Dynamic Programming, Backtracking, Bit Manipulation, Depth-First Search, Bitmask"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Time to Break Locks II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4269662921348314,
+      "Link": "https://leetcode.com/problems/minimum-time-to-break-locks-ii",
+      "Topics": "Array, Depth-First Search, Graph"
+    }
+  ]
+}

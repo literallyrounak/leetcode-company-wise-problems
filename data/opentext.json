@@ -1,0 +1,65 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3693619526562289,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Largest 3-Same-Digit Number in String",
+      "Frequency": 88.8,
+      "Acceptance Rate": 0.6909566734515847,
+      "Link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 88.8,
+      "Acceptance Rate": 0.5525972597748545,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Largest 3-Same-Digit Number in String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6909566734515847,
+      "Link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 74.2,
+      "Acceptance Rate": 0.3693619526562289,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 65.5,
+      "Acceptance Rate": 0.5525972597748545,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 65.5,
+      "Acceptance Rate": 0.4232292748245516,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    }
+  ]
+}

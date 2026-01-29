@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Good Triplets",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8548398546656082,
+      "Link": "https://leetcode.com/problems/count-good-triplets",
+      "Topics": "Array, Enumeration"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Difficulty of a Job Schedule",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5965934207360405,
+      "Link": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6510870126857792,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Difficulty of a Job Schedule",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5965934207360405,
+      "Link": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Good Triplets",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8548398546656082,
+      "Link": "https://leetcode.com/problems/count-good-triplets",
+      "Topics": "Array, Enumeration"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 67.0,
+      "Acceptance Rate": 0.6510870126857792,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    }
+  ]
+}

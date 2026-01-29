@@ -1,0 +1,65 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Three Consecutive Integers That Sum to a Given Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6461909267018064,
+      "Link": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number",
+      "Topics": "Math, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5577706633679903,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Palindrome Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.592245084409646,
+      "Link": "https://leetcode.com/problems/palindrome-number",
+      "Topics": "Math"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Three Consecutive Integers That Sum to a Given Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6461909267018064,
+      "Link": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number",
+      "Topics": "Math, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 66.6,
+      "Acceptance Rate": 0.5577706633679903,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 66.6,
+      "Acceptance Rate": 0.5525969539323237,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Palindrome Number",
+      "Frequency": 66.6,
+      "Acceptance Rate": 0.592245084409646,
+      "Link": "https://leetcode.com/problems/palindrome-number",
+      "Topics": "Math"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Reverse Polish Notation",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5495056579293032,
+      "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "Topics": "Array, Math, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Divide a String Into Groups of Size k",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.674969740982813,
+      "Link": "https://leetcode.com/problems/divide-a-string-into-groups-of-size-k",
+      "Topics": "String, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 89.4,
+      "Acceptance Rate": 0.5291966796314408,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Divide a String Into Groups of Size k",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.674969740982813,
+      "Link": "https://leetcode.com/problems/divide-a-string-into-groups-of-size-k",
+      "Topics": "String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Reverse Polish Notation",
+      "Frequency": 79.6,
+      "Acceptance Rate": 0.5495056579293032,
+      "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "Topics": "Array, Math, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.5291966796314408,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    }
+  ]
+}

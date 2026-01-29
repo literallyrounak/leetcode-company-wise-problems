@@ -1,0 +1,67 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4526692486398087,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4526692486398087,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7092898112648001,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Mountain in Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4107846968136123,
+      "Link": "https://leetcode.com/problems/longest-mountain-in-array",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Enumeration"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4526692486398087,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Mountain in Array",
+      "Frequency": 93.4,
+      "Acceptance Rate": 0.4107846968136123,
+      "Link": "https://leetcode.com/problems/longest-mountain-in-array",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Enumeration"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 84.1,
+      "Acceptance Rate": 0.7092898112648001,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    }
+  ]
+}

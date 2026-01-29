@@ -1,0 +1,123 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Set Intersection Size At Least Two",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4525535198979934,
+      "Link": "https://leetcode.com/problems/set-intersection-size-at-least-two",
+      "Topics": "Array, Greedy, Sorting"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Set Intersection Size At Least Two",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4525535198979934,
+      "Link": "https://leetcode.com/problems/set-intersection-size-at-least-two",
+      "Topics": "Array, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Binary Tree Cameras",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.4718247023878054,
+      "Link": "https://leetcode.com/problems/binary-tree-cameras",
+      "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Zero Request Servers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3411780304285856,
+      "Link": "https://leetcode.com/problems/count-zero-request-servers",
+      "Topics": "Array, Hash Table, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotting Oranges",
+      "Frequency": 88.4,
+      "Acceptance Rate": 0.5661883552589942,
+      "Link": "https://leetcode.com/problems/rotting-oranges",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "All Nodes Distance K in Binary Tree",
+      "Frequency": 88.4,
+      "Acceptance Rate": 0.6644239674066067,
+      "Link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+      "Topics": "Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 88.4,
+      "Acceptance Rate": 0.4283744782495984,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotting Oranges",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5661883552589942,
+      "Link": "https://leetcode.com/problems/rotting-oranges",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Zero Request Servers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3411780304285856,
+      "Link": "https://leetcode.com/problems/count-zero-request-servers",
+      "Topics": "Array, Hash Table, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Set Intersection Size At Least Two",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4525535198979934,
+      "Link": "https://leetcode.com/problems/set-intersection-size-at-least-two",
+      "Topics": "Array, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "All Nodes Distance K in Binary Tree",
+      "Frequency": 87.6,
+      "Acceptance Rate": 0.6644239674066067,
+      "Link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+      "Topics": "Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 87.6,
+      "Acceptance Rate": 0.4283744782495984,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Capacity To Ship Packages Within D Days",
+      "Frequency": 87.6,
+      "Acceptance Rate": 0.7211801035200593,
+      "Link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Binary Tree Cameras",
+      "Frequency": 87.6,
+      "Acceptance Rate": 0.4718247023878054,
+      "Link": "https://leetcode.com/problems/binary-tree-cameras",
+      "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+    }
+  ]
+}

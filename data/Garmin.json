@@ -1,0 +1,107 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5577709609989225,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5577709609989225,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525972417972461,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Minimum Cost of Buying Candies With Discount",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6220026757229598,
+      "Link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+      "Topics": "Array, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse String",
+      "Frequency": 89.7,
+      "Acceptance Rate": 0.7976434229275776,
+      "Link": "https://leetcode.com/problems/reverse-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Delete Columns to Make Sorted",
+      "Frequency": 89.7,
+      "Acceptance Rate": 0.7477537485791238,
+      "Link": "https://leetcode.com/problems/delete-columns-to-make-sorted",
+      "Topics": "Array, String"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525972417972461,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Minimum Cost of Buying Candies With Discount",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6220026757229598,
+      "Link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+      "Topics": "Array, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse String",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.797643473119005,
+      "Link": "https://leetcode.com/problems/reverse-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Delete Columns to Make Sorted",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.7477537485791238,
+      "Link": "https://leetcode.com/problems/delete-columns-to-make-sorted",
+      "Topics": "Array, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Palindrome Number",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.5922447149521741,
+      "Link": "https://leetcode.com/problems/palindrome-number",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.557770943267532,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ]
+}

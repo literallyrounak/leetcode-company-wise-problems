@@ -1,0 +1,130 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525969560951968,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525969560951968,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find All Anagrams in a String",
+      "Frequency": 83.7,
+      "Acceptance Rate": 0.5220075091652397,
+      "Link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.5577703407879065,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Best Time to Buy and Sell Stock III",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.5112109071694252,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 64.8,
+      "Acceptance Rate": 0.423228885927181,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Climbing Stairs",
+      "Frequency": 64.8,
+      "Acceptance Rate": 0.5354080945386758,
+      "Link": "https://leetcode.com/problems/climbing-stairs",
+      "Topics": "Math, Dynamic Programming, Memoization"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if All Characters Have Equal Number of Occurrences",
+      "Frequency": 64.8,
+      "Acceptance Rate": 0.7869266398500473,
+      "Link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences",
+      "Topics": "Hash Table, String, Counting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525969560951968,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Check if All Characters Have Equal Number of Occurrences",
+      "Frequency": 94.6,
+      "Acceptance Rate": 0.7869266398500473,
+      "Link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find All Anagrams in a String",
+      "Frequency": 80.5,
+      "Acceptance Rate": 0.5220075091652397,
+      "Link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 70.0,
+      "Acceptance Rate": 0.5577703407879065,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Best Time to Buy and Sell Stock III",
+      "Frequency": 70.0,
+      "Acceptance Rate": 0.5112109071694252,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 61.7,
+      "Acceptance Rate": 0.423228885927181,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Climbing Stairs",
+      "Frequency": 61.7,
+      "Acceptance Rate": 0.5354080945386758,
+      "Link": "https://leetcode.com/problems/climbing-stairs",
+      "Topics": "Math, Dynamic Programming, Memoization"
+    }
+  ]
+}

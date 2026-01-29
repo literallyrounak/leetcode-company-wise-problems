@@ -1,0 +1,226 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find First and Last Position of Element in Sorted Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4682884568735488,
+      "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Height Trees",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.420144691524227,
+      "Link": "https://leetcode.com/problems/minimum-height-trees",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find All Anagrams in a String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5220068246888969,
+      "Link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "Topics": "Hash Table, String, Sliding Window"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5214182529017943,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 91.8,
+      "Acceptance Rate": 0.709288828623018,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Distinct Islands",
+      "Frequency": 91.8,
+      "Acceptance Rate": 0.6225544075621016,
+      "Link": "https://leetcode.com/problems/number-of-distinct-islands",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Koko Eating Bananas",
+      "Frequency": 80.3,
+      "Acceptance Rate": 0.4906711888858833,
+      "Link": "https://leetcode.com/problems/koko-eating-bananas",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 80.3,
+      "Acceptance Rate": 0.6115259200424883,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 80.3,
+      "Acceptance Rate": 0.4521475035659106,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Browser History",
+      "Frequency": 80.3,
+      "Acceptance Rate": 0.7774686768883133,
+      "Link": "https://leetcode.com/problems/design-browser-history",
+      "Topics": "Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 80.3,
+      "Acceptance Rate": 0.5780838894511294,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 80.3,
+      "Acceptance Rate": 0.6510205336424274,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 80.3,
+      "Acceptance Rate": 0.5327808081897567,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5214182529017943,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 91.4,
+      "Acceptance Rate": 0.709288828623018,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Distinct Islands",
+      "Frequency": 91.4,
+      "Acceptance Rate": 0.6225544075621016,
+      "Link": "https://leetcode.com/problems/number-of-distinct-islands",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 91.4,
+      "Acceptance Rate": 0.5780838894511294,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 91.4,
+      "Acceptance Rate": 0.5327808081897567,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find First and Last Position of Element in Sorted Array",
+      "Frequency": 91.4,
+      "Acceptance Rate": 0.4682884568735488,
+      "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 79.4,
+      "Acceptance Rate": 0.6115259200424883,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Koko Eating Bananas",
+      "Frequency": 79.4,
+      "Acceptance Rate": 0.4906714096772501,
+      "Link": "https://leetcode.com/problems/koko-eating-bananas",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 79.4,
+      "Acceptance Rate": 0.4521475035659106,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Browser History",
+      "Frequency": 79.4,
+      "Acceptance Rate": 0.7774686768883133,
+      "Link": "https://leetcode.com/problems/design-browser-history",
+      "Topics": "Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 79.4,
+      "Acceptance Rate": 0.6510205336424274,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Height Trees",
+      "Frequency": 79.4,
+      "Acceptance Rate": 0.420144691524227,
+      "Link": "https://leetcode.com/problems/minimum-height-trees",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find All Anagrams in a String",
+      "Frequency": 79.4,
+      "Acceptance Rate": 0.5220068246888969,
+      "Link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 79.4,
+      "Acceptance Rate": 0.4232286113783459,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    }
+  ]
+}

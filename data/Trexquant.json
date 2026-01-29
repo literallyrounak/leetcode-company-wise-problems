@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5394630958493493,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Brick Wall",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5585762726172722,
+      "Link": "https://leetcode.com/problems/brick-wall",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Max Difference You Can Get From Changing an Integer",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4901474986248562,
+      "Link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+      "Topics": "Math, Greedy"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Max Difference You Can Get From Changing an Integer",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4901474986248562,
+      "Link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+      "Topics": "Math, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Brick Wall",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.5585762726172722,
+      "Link": "https://leetcode.com/problems/brick-wall",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.5394630958493493,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.6386159754422588,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.3707513382130997,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    }
+  ]
+}

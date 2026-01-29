@@ -1,0 +1,251 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4381461925594216,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Spreadsheet",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6762689977153075,
+      "Link": "https://leetcode.com/problems/design-spreadsheet",
+      "Topics": "Array, Hash Table, String, Design, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 66.8,
+      "Acceptance Rate": 0.4381461925594216,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Design Excel Sum Formula",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4256816329246585,
+      "Link": "https://leetcode.com/problems/design-excel-sum-formula",
+      "Topics": "Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 85.8,
+      "Acceptance Rate": 0.4381461925594216,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 85.8,
+      "Acceptance Rate": 0.6314708808408903,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Synonymous Sentences",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.5657701813916468,
+      "Link": "https://leetcode.com/problems/synonymous-sentences",
+      "Topics": "Array, Hash Table, String, Backtracking, Union Find"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Employee Importance",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.6842114454359709,
+      "Link": "https://leetcode.com/problems/employee-importance",
+      "Topics": "Array, Hash Table, Tree, Depth-First Search, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 57.3,
+      "Acceptance Rate": 0.5209980357192625,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Last Stone Weight",
+      "Frequency": 57.3,
+      "Acceptance Rate": 0.6592872235573963,
+      "Link": "https://leetcode.com/problems/last-stone-weight",
+      "Topics": "Array, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Optimal Account Balancing",
+      "Frequency": 57.3,
+      "Acceptance Rate": 0.4993810266893702,
+      "Link": "https://leetcode.com/problems/optimal-account-balancing",
+      "Topics": "Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Accounts Merge",
+      "Frequency": 57.3,
+      "Acceptance Rate": 0.595800382092666,
+      "Link": "https://leetcode.com/problems/accounts-merge",
+      "Topics": "Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Visible People in a Queue",
+      "Frequency": 57.3,
+      "Acceptance Rate": 0.7129705142972448,
+      "Link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximize Amount After Two Days of Conversions",
+      "Frequency": 57.3,
+      "Acceptance Rate": 0.5897915340547422,
+      "Link": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Graph"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Design Excel Sum Formula",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4256816329246585,
+      "Link": "https://leetcode.com/problems/design-excel-sum-formula",
+      "Topics": "Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Median of Two Sorted Arrays",
+      "Frequency": 88.8,
+      "Acceptance Rate": 0.4381461925594216,
+      "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "Topics": "Array, Binary Search, Divide and Conquer"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Spreadsheet",
+      "Frequency": 88.8,
+      "Acceptance Rate": 0.6762689977153075,
+      "Link": "https://leetcode.com/problems/design-spreadsheet",
+      "Topics": "Array, Hash Table, String, Design, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 84.2,
+      "Acceptance Rate": 0.6314708808408903,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Synonymous Sentences",
+      "Frequency": 63.5,
+      "Acceptance Rate": 0.5657701813916468,
+      "Link": "https://leetcode.com/problems/synonymous-sentences",
+      "Topics": "Array, Hash Table, String, Backtracking, Union Find"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Employee Importance",
+      "Frequency": 63.5,
+      "Acceptance Rate": 0.6842114454359709,
+      "Link": "https://leetcode.com/problems/employee-importance",
+      "Topics": "Array, Hash Table, Tree, Depth-First Search, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 63.5,
+      "Acceptance Rate": 0.5209980357192625,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Optimal Account Balancing",
+      "Frequency": 63.5,
+      "Acceptance Rate": 0.4993810266893702,
+      "Link": "https://leetcode.com/problems/optimal-account-balancing",
+      "Topics": "Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Last Stone Weight",
+      "Frequency": 55.1,
+      "Acceptance Rate": 0.6592872235573963,
+      "Link": "https://leetcode.com/problems/last-stone-weight",
+      "Topics": "Array, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Visible People in a Queue",
+      "Frequency": 55.1,
+      "Acceptance Rate": 0.7129705142972448,
+      "Link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Accounts Merge",
+      "Frequency": 55.1,
+      "Acceptance Rate": 0.595800382092666,
+      "Link": "https://leetcode.com/problems/accounts-merge",
+      "Topics": "Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 55.1,
+      "Acceptance Rate": 0.5499186948290465,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "LFU Cache",
+      "Frequency": 55.1,
+      "Acceptance Rate": 0.4660898637811462,
+      "Link": "https://leetcode.com/problems/lfu-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Two Sorted Lists",
+      "Frequency": 55.1,
+      "Acceptance Rate": 0.6684090442432823,
+      "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximize Amount After Two Days of Conversions",
+      "Frequency": 55.1,
+      "Acceptance Rate": 0.5897915340547422,
+      "Link": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Graph"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Alien Dictionary",
+      "Frequency": 55.1,
+      "Acceptance Rate": 0.3667372421638184,
+      "Link": "https://leetcode.com/problems/alien-dictionary",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    }
+  ]
+}

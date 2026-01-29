@@ -1,0 +1,24 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6510221090720293,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Deletions to Make String Balanced",
+      "Frequency": 90.1,
+      "Acceptance Rate": 0.6558476619238462,
+      "Link": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced",
+      "Topics": "String, Dynamic Programming, Stack"
+    }
+  ]
+}

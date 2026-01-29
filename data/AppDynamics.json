@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring with At Most K Distinct Characters",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4949671858164365,
+      "Link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximum Number of Balls in a Box",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.742540030878883,
+      "Link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box",
+      "Topics": "Hash Table, Math, Counting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximum Number of Balls in a Box",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.742540030878883,
+      "Link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box",
+      "Topics": "Hash Table, Math, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring with At Most K Distinct Characters",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4949671858164365,
+      "Link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    }
+  ]
+}

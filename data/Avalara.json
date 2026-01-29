@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Abbreviating the Product of a Range",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2449149024491489,
+      "Link": "https://leetcode.com/problems/abbreviating-the-product-of-a-range",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Integer to English Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3435511087326365,
+      "Link": "https://leetcode.com/problems/integer-to-english-words",
+      "Topics": "Math, String, Recursion"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Abbreviating the Product of a Range",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2449149024491489,
+      "Link": "https://leetcode.com/problems/abbreviating-the-product-of-a-range",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Integer to English Words",
+      "Frequency": 67.0,
+      "Acceptance Rate": 0.3435511087326365,
+      "Link": "https://leetcode.com/problems/integer-to-english-words",
+      "Topics": "Math, String, Recursion"
+    }
+  ]
+}

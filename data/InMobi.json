@@ -1,0 +1,105 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reach a Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4389583072143981,
+      "Link": "https://leetcode.com/problems/reach-a-number",
+      "Topics": "Math, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Partition Labels",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8153348894045592,
+      "Link": "https://leetcode.com/problems/partition-labels",
+      "Topics": "Hash Table, Two Pointers, String, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Number of Robots Within Budget",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3680937544075598,
+      "Link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+      "Topics": "Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Redundant Connection",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.664559976331304,
+      "Link": "https://leetcode.com/problems/redundant-connection",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Longest Valid Parentheses",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3631311123479367,
+      "Link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "Topics": "String, Dynamic Programming, Stack"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6510220449461127,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reach a Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4389583072143981,
+      "Link": "https://leetcode.com/problems/reach-a-number",
+      "Topics": "Math, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Partition Labels",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.8153348894045592,
+      "Link": "https://leetcode.com/problems/partition-labels",
+      "Topics": "Hash Table, Two Pointers, String, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Number of Robots Within Budget",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.3680937544075598,
+      "Link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+      "Topics": "Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Redundant Connection",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.664559976331304,
+      "Link": "https://leetcode.com/problems/redundant-connection",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Longest Valid Parentheses",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.3631311123479367,
+      "Link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "Topics": "String, Dynamic Programming, Stack"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.6510220449461127,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.592771943363307,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 80.6,
+      "Acceptance Rate": 0.6456603251734532,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minesweeper",
+      "Frequency": 80.6,
+      "Acceptance Rate": 0.6812440177509644,
+      "Link": "https://leetcode.com/problems/minesweeper",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.592771943363307,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minesweeper",
+      "Frequency": 85.1,
+      "Acceptance Rate": 0.6812440177509644,
+      "Link": "https://leetcode.com/problems/minesweeper",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Defanging an IP Address",
+      "Frequency": 76.5,
+      "Acceptance Rate": 0.896860944340323,
+      "Link": "https://leetcode.com/problems/defanging-an-ip-address",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 76.5,
+      "Acceptance Rate": 0.6456601799887839,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Employee Importance",
+      "Frequency": 76.5,
+      "Acceptance Rate": 0.6842114454359709,
+      "Link": "https://leetcode.com/problems/employee-importance",
+      "Topics": "Array, Hash Table, Tree, Depth-First Search, Breadth-First Search"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Orders in the Backlog",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5196292359051828,
+      "Link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+      "Topics": "Array, Heap (Priority Queue), Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Restore the Array From Adjacent Pairs",
+      "Frequency": 80.2,
+      "Acceptance Rate": 0.7472197096394245,
+      "Link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs",
+      "Topics": "Array, Hash Table, Depth-First Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 74.0,
+      "Acceptance Rate": 0.5525960901035435,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Check if There is a Valid Path in a Grid",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.4896488091805547,
+      "Link": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Good Meals",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.3164606880510123,
+      "Link": "https://leetcode.com/problems/count-good-meals",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Ways to Split Array Into Three Subarrays",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.3344652559336574,
+      "Link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+      "Topics": "Array, Two Pointers, Binary Search, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Capital Gain/Loss",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.849191049073916,
+      "Link": "https://leetcode.com/problems/capital-gainloss",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Count the Number of Consistent Strings",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.8827632052615655,
+      "Link": "https://leetcode.com/problems/count-the-number-of-consistent-strings",
+      "Topics": "Array, Hash Table, String, Bit Manipulation, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Brightest Position on Street",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.605687821115855,
+      "Link": "https://leetcode.com/problems/brightest-position-on-street",
+      "Topics": "Array, Sorting, Prefix Sum, Ordered Set"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 65.2,
+      "Acceptance Rate": 0.4814993566410409,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Orders in the Backlog",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5196292359051828,
+      "Link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+      "Topics": "Array, Heap (Priority Queue), Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Restore the Array From Adjacent Pairs",
+      "Frequency": 91.4,
+      "Acceptance Rate": 0.7472197096394245,
+      "Link": "https://leetcode.com/problems/restore-the-array-from-adjacent-pairs",
+      "Topics": "Array, Hash Table, Depth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Brightest Position on Street",
+      "Frequency": 87.6,
+      "Acceptance Rate": 0.605687821115855,
+      "Link": "https://leetcode.com/problems/brightest-position-on-street",
+      "Topics": "Array, Sorting, Prefix Sum, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Good Meals",
+      "Frequency": 87.6,
+      "Acceptance Rate": 0.3164606880510123,
+      "Link": "https://leetcode.com/problems/count-good-meals",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Ways to Split Array Into Three Subarrays",
+      "Frequency": 87.6,
+      "Acceptance Rate": 0.3344652559336574,
+      "Link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+      "Topics": "Array, Two Pointers, Binary Search, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Check if There is a Valid Path in a Grid",
+      "Frequency": 87.6,
+      "Acceptance Rate": 0.4896488091805547,
+      "Link": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Capital Gain/Loss",
+      "Frequency": 87.6,
+      "Acceptance Rate": 0.849191049073916,
+      "Link": "https://leetcode.com/problems/capital-gainloss",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Count the Number of Consistent Strings",
+      "Frequency": 87.6,
+      "Acceptance Rate": 0.8827632052615655,
+      "Link": "https://leetcode.com/problems/count-the-number-of-consistent-strings",
+      "Topics": "Array, Hash Table, String, Bit Manipulation, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 80.0,
+      "Acceptance Rate": 0.592771943363307,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 62.1,
+      "Acceptance Rate": 0.4814993566410409,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 62.1,
+      "Acceptance Rate": 0.5525960901035435,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minesweeper",
+      "Frequency": 62.1,
+      "Acceptance Rate": 0.6812440177509644,
+      "Link": "https://leetcode.com/problems/minesweeper",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Defanging an IP Address",
+      "Frequency": 53.5,
+      "Acceptance Rate": 0.896860944340323,
+      "Link": "https://leetcode.com/problems/defanging-an-ip-address",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 53.5,
+      "Acceptance Rate": 0.6456601799887839,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Employee Importance",
+      "Frequency": 53.5,
+      "Acceptance Rate": 0.6842114454359709,
+      "Link": "https://leetcode.com/problems/employee-importance",
+      "Topics": "Array, Hash Table, Tree, Depth-First Search, Breadth-First Search"
+    }
+  ]
+}

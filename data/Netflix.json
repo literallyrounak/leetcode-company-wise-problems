@@ -1,0 +1,691 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Logger Rate Limiter",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.766103057053701,
+      "Link": "https://leetcode.com/problems/logger-rate-limiter",
+      "Topics": "Hash Table, Design, Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Cache With Time Limit",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7578738827979018,
+      "Link": "https://leetcode.com/problems/cache-with-time-limit",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Contains Duplicate III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2363336099654279,
+      "Link": "https://leetcode.com/problems/contains-duplicate-iii",
+      "Topics": "Array, Sliding Window, Sorting, Bucket Sort, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Koko Eating Bananas",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.4906728258268568,
+      "Link": "https://leetcode.com/problems/koko-eating-bananas",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.6323637027239968,
+      "Link": "https://leetcode.com/problems/contains-duplicate",
+      "Topics": "Array, Hash Table, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate II",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.4904988267558174,
+      "Link": "https://leetcode.com/problems/contains-duplicate-ii",
+      "Topics": "Array, Hash Table, Sliding Window"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Reconstruct Itinerary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4360564496598489,
+      "Link": "https://leetcode.com/problems/reconstruct-itinerary",
+      "Topics": "Depth-First Search, Graph, Eulerian Circuit"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Logger Rate Limiter",
+      "Frequency": 88.6,
+      "Acceptance Rate": 0.766103057053701,
+      "Link": "https://leetcode.com/problems/logger-rate-limiter",
+      "Topics": "Hash Table, Design, Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 79.6,
+      "Acceptance Rate": 0.4939523849309626,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Cache With Time Limit",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.7578738827979018,
+      "Link": "https://leetcode.com/problems/cache-with-time-limit",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.452669635264123,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.3693617406358928,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Koko Eating Bananas",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.4906728258268568,
+      "Link": "https://leetcode.com/problems/koko-eating-bananas",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Contains Duplicate III",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.2363336099654279,
+      "Link": "https://leetcode.com/problems/contains-duplicate-iii",
+      "Topics": "Array, Sliding Window, Sorting, Bucket Sort, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 64.1,
+      "Acceptance Rate": 0.5214171545868618,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 64.1,
+      "Acceptance Rate": 0.4827378020649074,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Network Delay Time",
+      "Frequency": 64.1,
+      "Acceptance Rate": 0.5744231558987412,
+      "Link": "https://leetcode.com/problems/network-delay-time",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate",
+      "Frequency": 64.1,
+      "Acceptance Rate": 0.6323637027239968,
+      "Link": "https://leetcode.com/problems/contains-duplicate",
+      "Topics": "Array, Hash Table, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate II",
+      "Frequency": 64.1,
+      "Acceptance Rate": 0.4904988267558174,
+      "Link": "https://leetcode.com/problems/contains-duplicate-ii",
+      "Topics": "Array, Hash Table, Sliding Window"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4939523849309626,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 92.2,
+      "Acceptance Rate": 0.4108465766394882,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 88.1,
+      "Acceptance Rate": 0.5214171545868618,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 85.8,
+      "Acceptance Rate": 0.4827836751158982,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Logger Rate Limiter",
+      "Frequency": 80.2,
+      "Acceptance Rate": 0.766103057053701,
+      "Link": "https://leetcode.com/problems/logger-rate-limiter",
+      "Topics": "Hash Table, Design, Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flatten Nested List Iterator",
+      "Frequency": 80.2,
+      "Acceptance Rate": 0.6522839525510098,
+      "Link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+      "Topics": "Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 76.7,
+      "Acceptance Rate": 0.4936630449185106,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Summary Ranges",
+      "Frequency": 76.7,
+      "Acceptance Rate": 0.5302484768932422,
+      "Link": "https://leetcode.com/problems/summary-ranges",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 76.7,
+      "Acceptance Rate": 0.6456597249158955,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 76.7,
+      "Acceptance Rate": 0.45214645870656,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.5499187409631957,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.552596303671932,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.592771943363307,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Daily Temperatures",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.6736501174296972,
+      "Link": "https://leetcode.com/problems/daily-temperatures",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate II",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.4904988267558174,
+      "Link": "https://leetcode.com/problems/contains-duplicate-ii",
+      "Topics": "Array, Hash Table, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Implement Queue using Stacks",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.6806078349365677,
+      "Link": "https://leetcode.com/problems/implement-queue-using-stacks",
+      "Topics": "Stack, Design, Queue"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.5291952521829845,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Cache With Time Limit",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.7578738827979018,
+      "Link": "https://leetcode.com/problems/cache-with-time-limit",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "To Be Or Not To Be",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.6295807994256238,
+      "Link": "https://leetcode.com/problems/to-be-or-not-to-be",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.423228375756834,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.4283721466614929,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Remove to Make Valid Parentheses",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.7074652447295087,
+      "Link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.5342350029047974,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Array",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.4302138810363553,
+      "Link": "https://leetcode.com/problems/rotate-array",
+      "Topics": "Array, Math, Two Pointers"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.4814993566410409,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.539397306376751,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.7790166005161556,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Flowers in Full Bloom",
+      "Frequency": 52.3,
+      "Acceptance Rate": 0.5717535511066795,
+      "Link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+      "Topics": "Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4939523849309626,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Logger Rate Limiter",
+      "Frequency": 89.4,
+      "Acceptance Rate": 0.766103057053701,
+      "Link": "https://leetcode.com/problems/logger-rate-limiter",
+      "Topics": "Hash Table, Design, Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 87.7,
+      "Acceptance Rate": 0.5214171545868618,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "First Missing Positive",
+      "Frequency": 87.7,
+      "Acceptance Rate": 0.4108465766394882,
+      "Link": "https://leetcode.com/problems/first-missing-positive",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Reconstruct Itinerary",
+      "Frequency": 85.8,
+      "Acceptance Rate": 0.4360564496598489,
+      "Link": "https://leetcode.com/problems/reconstruct-itinerary",
+      "Topics": "Depth-First Search, Graph, Eulerian Circuit"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 81.3,
+      "Acceptance Rate": 0.4827836751158982,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 75.8,
+      "Acceptance Rate": 0.4936630449185106,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flatten Nested List Iterator",
+      "Frequency": 75.8,
+      "Acceptance Rate": 0.6522839525510098,
+      "Link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+      "Topics": "Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 72.4,
+      "Acceptance Rate": 0.45214645870656,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 72.4,
+      "Acceptance Rate": 0.6456597249158955,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Summary Ranges",
+      "Frequency": 72.4,
+      "Acceptance Rate": 0.5302484768932422,
+      "Link": "https://leetcode.com/problems/summary-ranges",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Cache With Time Limit",
+      "Frequency": 68.4,
+      "Acceptance Rate": 0.7578738827979018,
+      "Link": "https://leetcode.com/problems/cache-with-time-limit",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate II",
+      "Frequency": 63.5,
+      "Acceptance Rate": 0.4904988267558174,
+      "Link": "https://leetcode.com/problems/contains-duplicate-ii",
+      "Topics": "Array, Hash Table, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 63.5,
+      "Acceptance Rate": 0.3693617406358928,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Contains Duplicate III",
+      "Frequency": 63.5,
+      "Acceptance Rate": 0.236334246913539,
+      "Link": "https://leetcode.com/problems/contains-duplicate-iii",
+      "Topics": "Array, Sliding Window, Sorting, Bucket Sort, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 57.2,
+      "Acceptance Rate": 0.592771943363307,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate",
+      "Frequency": 57.2,
+      "Acceptance Rate": 0.6323637027239968,
+      "Link": "https://leetcode.com/problems/contains-duplicate",
+      "Topics": "Array, Hash Table, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Koko Eating Bananas",
+      "Frequency": 57.2,
+      "Acceptance Rate": 0.4906726131205488,
+      "Link": "https://leetcode.com/problems/koko-eating-bananas",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 57.2,
+      "Acceptance Rate": 0.452669635264123,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Daily Temperatures",
+      "Frequency": 57.2,
+      "Acceptance Rate": 0.6736501174296972,
+      "Link": "https://leetcode.com/problems/daily-temperatures",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 57.2,
+      "Acceptance Rate": 0.5525963419027548,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 57.2,
+      "Acceptance Rate": 0.423228375756834,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 57.2,
+      "Acceptance Rate": 0.5499187409631957,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 57.2,
+      "Acceptance Rate": 0.4283722142038899,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 57.2,
+      "Acceptance Rate": 0.5342350029047974,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.4814993566410409,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.539397306376751,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Sorted Array",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.5291952521829845,
+      "Link": "https://leetcode.com/problems/merge-sorted-array",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Flowers in Full Bloom",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.5717535511066795,
+      "Link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+      "Topics": "Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.7790166005161556,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Coin Change",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.4649548561668961,
+      "Link": "https://leetcode.com/problems/coin-change",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.4827378020649074,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.7713287456277772,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Array",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.4302138810363553,
+      "Link": "https://leetcode.com/problems/rotate-array",
+      "Topics": "Array, Math, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Network Delay Time",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.5744231558987412,
+      "Link": "https://leetcode.com/problems/network-delay-time",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Remove to Make Valid Parentheses",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.7074652447295087,
+      "Link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "To Be Or Not To Be",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.6295807994256238,
+      "Link": "https://leetcode.com/problems/to-be-or-not-to-be",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Implement Queue using Stacks",
+      "Frequency": 48.3,
+      "Acceptance Rate": 0.6806078349365677,
+      "Link": "https://leetcode.com/problems/implement-queue-using-stacks",
+      "Topics": "Stack, Design, Queue"
+    }
+  ]
+}

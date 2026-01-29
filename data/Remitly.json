@@ -1,0 +1,147 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Isomorphic Strings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4685798323600621,
+      "Link": "https://leetcode.com/problems/isomorphic-strings",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5342357857229685,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate the Bracket Pairs of a String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6823127483382226,
+      "Link": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string",
+      "Topics": "Array, Hash Table, String"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Isomorphic Strings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4685798323600621,
+      "Link": "https://leetcode.com/problems/isomorphic-strings",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 79.6,
+      "Acceptance Rate": 0.5342357857229685,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate the Bracket Pairs of a String",
+      "Frequency": 79.6,
+      "Acceptance Rate": 0.6823127483382226,
+      "Link": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string",
+      "Topics": "Array, Hash Table, String"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Isomorphic Strings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4685798323600621,
+      "Link": "https://leetcode.com/problems/isomorphic-strings",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Task Scheduler II",
+      "Frequency": 79.4,
+      "Acceptance Rate": 0.5397196782316108,
+      "Link": "https://leetcode.com/problems/task-scheduler-ii",
+      "Topics": "Array, Hash Table, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design Search Autocomplete System",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.4940684034753071,
+      "Link": "https://leetcode.com/problems/design-search-autocomplete-system",
+      "Topics": "String, Depth-First Search, Design, Trie, Sorting, Heap (Priority Queue), Data Stream"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Isomorphic Strings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4685798323600621,
+      "Link": "https://leetcode.com/problems/isomorphic-strings",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Task Scheduler II",
+      "Frequency": 70.6,
+      "Acceptance Rate": 0.5397196782316108,
+      "Link": "https://leetcode.com/problems/task-scheduler-ii",
+      "Topics": "Array, Hash Table, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design Search Autocomplete System",
+      "Frequency": 62.5,
+      "Acceptance Rate": 0.4940684034753071,
+      "Link": "https://leetcode.com/problems/design-search-autocomplete-system",
+      "Topics": "String, Depth-First Search, Design, Trie, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Task Scheduler",
+      "Frequency": 62.5,
+      "Acceptance Rate": 0.6153925972156205,
+      "Link": "https://leetcode.com/problems/task-scheduler",
+      "Topics": "Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 62.5,
+      "Acceptance Rate": 0.5525968886230834,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 62.5,
+      "Acceptance Rate": 0.4827853398737957,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule II",
+      "Frequency": 62.5,
+      "Acceptance Rate": 0.5342357857229685,
+      "Link": "https://leetcode.com/problems/course-schedule-ii",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate the Bracket Pairs of a String",
+      "Frequency": 62.5,
+      "Acceptance Rate": 0.6823127483382226,
+      "Link": "https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string",
+      "Topics": "Array, Hash Table, String"
+    }
+  ]
+}

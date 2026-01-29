@@ -1,0 +1,65 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Zero Request Servers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3412006497165777,
+      "Link": "https://leetcode.com/problems/count-zero-request-servers",
+      "Topics": "Array, Hash Table, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Minimum Distance to the Target Element",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.5422827262892175,
+      "Link": "https://leetcode.com/problems/minimum-distance-to-the-target-element",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Matrix Sum",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.6590661100173162,
+      "Link": "https://leetcode.com/problems/maximum-matrix-sum",
+      "Topics": "Array, Greedy, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Minimum Distance to the Target Element",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5422827262892175,
+      "Link": "https://leetcode.com/problems/minimum-distance-to-the-target-element",
+      "Topics": "Array"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Zero Request Servers",
+      "Frequency": 75.5,
+      "Acceptance Rate": 0.3412006497165777,
+      "Link": "https://leetcode.com/problems/count-zero-request-servers",
+      "Topics": "Array, Hash Table, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Matrix Sum",
+      "Frequency": 67.3,
+      "Acceptance Rate": 0.6590661100173162,
+      "Link": "https://leetcode.com/problems/maximum-matrix-sum",
+      "Topics": "Array, Greedy, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 67.3,
+      "Acceptance Rate": 0.5577707617765584,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ]
+}

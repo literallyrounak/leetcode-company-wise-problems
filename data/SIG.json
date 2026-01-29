@@ -1,0 +1,123 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Black Blocks",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3862287177941841,
+      "Link": "https://leetcode.com/problems/number-of-black-blocks",
+      "Topics": "Array, Hash Table, Enumeration"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Block Placement Queries",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.168902023187088,
+      "Link": "https://leetcode.com/problems/block-placement-queries",
+      "Topics": "Array, Binary Search, Binary Indexed Tree, Segment Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Black Blocks",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3862287177941841,
+      "Link": "https://leetcode.com/problems/number-of-black-blocks",
+      "Topics": "Array, Hash Table, Enumeration"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Validate Binary Search Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3438047626970681,
+      "Link": "https://leetcode.com/problems/validate-binary-search-tree",
+      "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 92.5,
+      "Acceptance Rate": 0.4815026183267016,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Largest Element in an Array",
+      "Frequency": 71.9,
+      "Acceptance Rate": 0.6797703802112421,
+      "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add Binary",
+      "Frequency": 71.9,
+      "Acceptance Rate": 0.556770384811513,
+      "Link": "https://leetcode.com/problems/add-binary",
+      "Topics": "Math, String, Bit Manipulation, Simulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Validate Binary Search Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3438047626970681,
+      "Link": "https://leetcode.com/problems/validate-binary-search-tree",
+      "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 92.2,
+      "Acceptance Rate": 0.4815026183267016,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Largest Element in an Array",
+      "Frequency": 71.1,
+      "Acceptance Rate": 0.6797703802112421,
+      "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Add Binary",
+      "Frequency": 71.1,
+      "Acceptance Rate": 0.556770384811513,
+      "Link": "https://leetcode.com/problems/add-binary",
+      "Topics": "Math, String, Bit Manipulation, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 71.1,
+      "Acceptance Rate": 0.5393984752092467,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Block Placement Queries",
+      "Frequency": 71.1,
+      "Acceptance Rate": 0.168902023187088,
+      "Link": "https://leetcode.com/problems/block-placement-queries",
+      "Topics": "Array, Binary Search, Binary Indexed Tree, Segment Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Black Blocks",
+      "Frequency": 71.1,
+      "Acceptance Rate": 0.3862287177941841,
+      "Link": "https://leetcode.com/problems/number-of-black-blocks",
+      "Topics": "Array, Hash Table, Enumeration"
+    }
+  ]
+}

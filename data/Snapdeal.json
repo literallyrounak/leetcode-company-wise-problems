@@ -1,0 +1,49 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5526331209220502,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Arithmetic Subsequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4948403233078351,
+      "Link": "https://leetcode.com/problems/longest-arithmetic-subsequence",
+      "Topics": "Array, Hash Table, Binary Search, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Arithmetic Subsequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4948403233078351,
+      "Link": "https://leetcode.com/problems/longest-arithmetic-subsequence",
+      "Topics": "Array, Hash Table, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.5526331209220502,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Lowest Common Ancestor of a Binary Tree",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.6676255028751279,
+      "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Operations to Make Network Connected",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6466501296398147,
+      "Link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum One Bit Operations to Make Integers Zero",
+      "Frequency": 82.9,
+      "Acceptance Rate": 0.73240710674027,
+      "Link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero",
+      "Topics": "Dynamic Programming, Bit Manipulation, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximal Score After Applying K Operations",
+      "Frequency": 68.4,
+      "Acceptance Rate": 0.6378607678773867,
+      "Link": "https://leetcode.com/problems/maximal-score-after-applying-k-operations",
+      "Topics": "Array, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Shortest Bridge",
+      "Frequency": 68.4,
+      "Acceptance Rate": 0.5864849244498144,
+      "Link": "https://leetcode.com/problems/shortest-bridge",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximal Score After Applying K Operations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6378607678773867,
+      "Link": "https://leetcode.com/problems/maximal-score-after-applying-k-operations",
+      "Topics": "Array, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Shortest Bridge",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5864849244498144,
+      "Link": "https://leetcode.com/problems/shortest-bridge",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Operations to Make Network Connected",
+      "Frequency": 97.7,
+      "Acceptance Rate": 0.6466501296398147,
+      "Link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum One Bit Operations to Make Integers Zero",
+      "Frequency": 80.2,
+      "Acceptance Rate": 0.73240710674027,
+      "Link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero",
+      "Topics": "Dynamic Programming, Bit Manipulation, Memoization"
+    }
+  ]
+}

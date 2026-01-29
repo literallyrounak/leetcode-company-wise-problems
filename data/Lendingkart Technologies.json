@@ -1,0 +1,16 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Smallest String With A Given Numeric Value",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6708770289225836,
+      "Link": "https://leetcode.com/problems/smallest-string-with-a-given-numeric-value",
+      "Topics": "String, Greedy"
+    }
+  ]
+}

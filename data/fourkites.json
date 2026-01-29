@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Subarray With Maximum Bitwise AND",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6181425057525985,
+      "Link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+      "Topics": "Array, Bit Manipulation, Brainteaser"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Unequal Adjacent Groups Subsequence II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5135262321144675,
+      "Link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii",
+      "Topics": "Array, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Unequal Adjacent Groups Subsequence I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6756708309889311,
+      "Link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+      "Topics": "Array, String, Dynamic Programming, Greedy"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Unequal Adjacent Groups Subsequence II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5135262321144675,
+      "Link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii",
+      "Topics": "Array, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Subarray With Maximum Bitwise AND",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6181425057525985,
+      "Link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+      "Topics": "Array, Bit Manipulation, Brainteaser"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Unequal Adjacent Groups Subsequence I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6756708309889311,
+      "Link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+      "Topics": "Array, String, Dynamic Programming, Greedy"
+    }
+  ]
+}

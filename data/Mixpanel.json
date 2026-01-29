@@ -1,0 +1,59 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flatten Nested List Iterator",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6523082264009105,
+      "Link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+      "Topics": "Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flatten Nested List Iterator",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6523082264009105,
+      "Link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+      "Topics": "Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Interval List Intersections",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7267839611466144,
+      "Link": "https://leetcode.com/problems/interval-list-intersections",
+      "Topics": "Array, Two Pointers, Line Sweep"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Interval List Intersections",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7267839611466144,
+      "Link": "https://leetcode.com/problems/interval-list-intersections",
+      "Topics": "Array, Two Pointers, Line Sweep"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Flatten Nested List Iterator",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6523082264009105,
+      "Link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+      "Topics": "Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Stock Price Fluctuation ",
+      "Frequency": 84.3,
+      "Acceptance Rate": 0.4816730098589706,
+      "Link": "https://leetcode.com/problems/stock-price-fluctuation",
+      "Topics": "Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+    }
+  ]
+}

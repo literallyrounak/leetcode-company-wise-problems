@@ -1,0 +1,355 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Largest Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4128053161945387,
+      "Link": "https://leetcode.com/problems/largest-number",
+      "Topics": "Array, String, Greedy, Sorting"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Largest Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4128053161945387,
+      "Link": "https://leetcode.com/problems/largest-number",
+      "Topics": "Array, String, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Twin Sum of a Linked List",
+      "Frequency": 77.9,
+      "Acceptance Rate": 0.8147472951229525,
+      "Link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list",
+      "Topics": "Linked List, Two Pointers, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove K Digits",
+      "Frequency": 77.9,
+      "Acceptance Rate": 0.3494048385655791,
+      "Link": "https://leetcode.com/problems/remove-k-digits",
+      "Topics": "String, Stack, Greedy, Monotonic Stack"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6280403790240795,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.4622521516983059,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove Zero Sum Consecutive Nodes from Linked List",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.5286406766600661,
+      "Link": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list",
+      "Topics": "Hash Table, Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+      "Frequency": 81.7,
+      "Acceptance Rate": 0.6945200779613259,
+      "Link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "Topics": "Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Good Leaf Nodes Pairs",
+      "Frequency": 81.7,
+      "Acceptance Rate": 0.7177471264367816,
+      "Link": "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 81.7,
+      "Acceptance Rate": 0.552596818875515,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Nodes in Between Zeros",
+      "Frequency": 81.7,
+      "Acceptance Rate": 0.8955413496627146,
+      "Link": "https://leetcode.com/problems/merge-nodes-in-between-zeros",
+      "Topics": "Linked List, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Bottom Left Tree Value",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.7175109020252438,
+      "Link": "https://leetcode.com/problems/find-bottom-left-tree-value",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Twin Sum of a Linked List",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.8147472951229525,
+      "Link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list",
+      "Topics": "Linked List, Two Pointers, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Odd Levels of Binary Tree",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.866394464658027,
+      "Link": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Reverse Nodes in k-Group",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.6304371463092185,
+      "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Substring With Maximum Cost",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.5684542586750788,
+      "Link": "https://leetcode.com/problems/find-the-substring-with-maximum-cost",
+      "Topics": "Array, Hash Table, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Pairs Whose Sum is Less than Target",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.8749491278191247,
+      "Link": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target",
+      "Topics": "Array, Two Pointers, Binary Search, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Swaps to Group All 1's Together II",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.6551733570937285,
+      "Link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
+      "Topics": "Array, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.3693616511844462,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Construct Smallest Number From DI String",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.8582927253741733,
+      "Link": "https://leetcode.com/problems/construct-smallest-number-from-di-string",
+      "Topics": "String, Backtracking, Stack, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Trim a Binary Search Tree",
+      "Frequency": 71.0,
+      "Acceptance Rate": 0.6637360647202037,
+      "Link": "https://leetcode.com/problems/trim-a-binary-search-tree",
+      "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Move Zeroes",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6280403790240795,
+      "Link": "https://leetcode.com/problems/move-zeroes",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 95.0,
+      "Acceptance Rate": 0.4622521516983059,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Largest Number",
+      "Frequency": 95.0,
+      "Acceptance Rate": 0.4128053161945387,
+      "Link": "https://leetcode.com/problems/largest-number",
+      "Topics": "Array, String, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove Zero Sum Consecutive Nodes from Linked List",
+      "Frequency": 88.9,
+      "Acceptance Rate": 0.5286406766600661,
+      "Link": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list",
+      "Topics": "Hash Table, Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Twin Sum of a Linked List",
+      "Frequency": 88.9,
+      "Acceptance Rate": 0.8147472951229525,
+      "Link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list",
+      "Topics": "Linked List, Two Pointers, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reverse Odd Levels of Binary Tree",
+      "Frequency": 81.0,
+      "Acceptance Rate": 0.866394464658027,
+      "Link": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Bottom Left Tree Value",
+      "Frequency": 81.0,
+      "Acceptance Rate": 0.7175109020252438,
+      "Link": "https://leetcode.com/problems/find-bottom-left-tree-value",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Pairs Whose Sum is Less than Target",
+      "Frequency": 81.0,
+      "Acceptance Rate": 0.8749491278191247,
+      "Link": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target",
+      "Topics": "Array, Two Pointers, Binary Search, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Nodes in Between Zeros",
+      "Frequency": 81.0,
+      "Acceptance Rate": 0.8955413496627146,
+      "Link": "https://leetcode.com/problems/merge-nodes-in-between-zeros",
+      "Topics": "Linked List, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 81.0,
+      "Acceptance Rate": 0.5525968098867432,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Good Leaf Nodes Pairs",
+      "Frequency": 81.0,
+      "Acceptance Rate": 0.7177471264367816,
+      "Link": "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+      "Frequency": 81.0,
+      "Acceptance Rate": 0.6945200779613259,
+      "Link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "Topics": "Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Substring With Maximum Cost",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.5684542586750788,
+      "Link": "https://leetcode.com/problems/find-the-substring-with-maximum-cost",
+      "Topics": "Array, Hash Table, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Construct Smallest Number From DI String",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.8582927253741733,
+      "Link": "https://leetcode.com/problems/construct-smallest-number-from-di-string",
+      "Topics": "String, Backtracking, Stack, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Swaps to Group All 1's Together II",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.6551733570937285,
+      "Link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
+      "Topics": "Array, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.3693616511844462,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Reverse Nodes in k-Group",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.6304371463092185,
+      "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Good Nodes in Binary Tree",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.735000400672318,
+      "Link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Trim a Binary Search Tree",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.6637360647202037,
+      "Link": "https://leetcode.com/problems/trim-a-binary-search-tree",
+      "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove K Digits",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.3494048385655791,
+      "Link": "https://leetcode.com/problems/remove-k-digits",
+      "Topics": "String, Stack, Greedy, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Daily Temperatures",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.6736509039874431,
+      "Link": "https://leetcode.com/problems/daily-temperatures",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Difference Between Node and Ancestor",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.7806028577020944,
+      "Link": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    }
+  ]
+}

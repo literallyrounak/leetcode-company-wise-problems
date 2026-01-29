@@ -1,0 +1,100 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5209988985600883,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5209988985600883,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5209988985600883,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Range Sum Query 2D - Immutable",
+      "Frequency": 80.4,
+      "Acceptance Rate": 0.5652722738293752,
+      "Link": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+      "Topics": "Array, Design, Matrix, Prefix Sum"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5209988985600883,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Simplify Path",
+      "Frequency": 94.9,
+      "Acceptance Rate": 0.4785476063011359,
+      "Link": "https://leetcode.com/problems/simplify-path",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 78.9,
+      "Acceptance Rate": 0.4305779256856484,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5209988985600883,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Simplify Path",
+      "Frequency": 85.6,
+      "Acceptance Rate": 0.4785476063011359,
+      "Link": "https://leetcode.com/problems/simplify-path",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 66.7,
+      "Acceptance Rate": 0.4305779256856484,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Range Sum Query 2D - Immutable",
+      "Frequency": 66.7,
+      "Acceptance Rate": 0.5652722738293752,
+      "Link": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+      "Topics": "Array, Design, Matrix, Prefix Sum"
+    }
+  ]
+}

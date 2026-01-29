@@ -1,0 +1,604 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Repeated DNA Sequences",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5132038237868195,
+      "Link": "https://leetcode.com/problems/repeated-dna-sequences",
+      "Topics": "Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Unique Paths",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6577292198640936,
+      "Link": "https://leetcode.com/problems/unique-paths",
+      "Topics": "Math, Dynamic Programming, Combinatorics"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4939526352897762,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Perfect Number",
+      "Frequency": 84.1,
+      "Acceptance Rate": 0.4489257450556843,
+      "Link": "https://leetcode.com/problems/perfect-number",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Repeated DNA Sequences",
+      "Frequency": 84.1,
+      "Acceptance Rate": 0.5132038237868195,
+      "Link": "https://leetcode.com/problems/repeated-dna-sequences",
+      "Topics": "Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Vowel Spellchecker",
+      "Frequency": 74.9,
+      "Acceptance Rate": 0.5157619197411585,
+      "Link": "https://leetcode.com/problems/vowel-spellchecker",
+      "Topics": "Array, Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 74.9,
+      "Acceptance Rate": 0.6232009887594286,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 74.9,
+      "Acceptance Rate": 0.5499191107870306,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 74.9,
+      "Acceptance Rate": 0.7713293364055746,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Unique Paths",
+      "Frequency": 74.9,
+      "Acceptance Rate": 0.6577292198640936,
+      "Link": "https://leetcode.com/problems/unique-paths",
+      "Topics": "Math, Dynamic Programming, Combinatorics"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4939526352897762,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 90.7,
+      "Acceptance Rate": 0.7713293364055746,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove All Adjacent Duplicates In String",
+      "Frequency": 86.5,
+      "Acceptance Rate": 0.715875534292082,
+      "Link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove All Adjacent Duplicates in String II",
+      "Frequency": 86.5,
+      "Acceptance Rate": 0.5960173343469628,
+      "Link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Sqrt(x)",
+      "Frequency": 86.5,
+      "Acceptance Rate": 0.4037182691859833,
+      "Link": "https://leetcode.com/problems/sqrtx",
+      "Topics": "Math, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 81.3,
+      "Acceptance Rate": 0.4283724679402803,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 81.3,
+      "Acceptance Rate": 0.5499191107870306,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Perfect Number",
+      "Frequency": 81.3,
+      "Acceptance Rate": 0.4489257450556843,
+      "Link": "https://leetcode.com/problems/perfect-number",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Repeated DNA Sequences",
+      "Frequency": 81.3,
+      "Acceptance Rate": 0.5132038237868195,
+      "Link": "https://leetcode.com/problems/repeated-dna-sequences",
+      "Topics": "Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Vowel Spellchecker",
+      "Frequency": 74.7,
+      "Acceptance Rate": 0.5157619197411585,
+      "Link": "https://leetcode.com/problems/vowel-spellchecker",
+      "Topics": "Array, Hash Table, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 65.4,
+      "Acceptance Rate": 0.6510204648612313,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 65.4,
+      "Acceptance Rate": 0.6232009887594286,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 65.4,
+      "Acceptance Rate": 0.4526702267974355,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Climbing Stairs",
+      "Frequency": 65.4,
+      "Acceptance Rate": 0.535407459224679,
+      "Link": "https://leetcode.com/problems/climbing-stairs",
+      "Topics": "Math, Dynamic Programming, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Unique Paths",
+      "Frequency": 65.4,
+      "Acceptance Rate": 0.6577292198640936,
+      "Link": "https://leetcode.com/problems/unique-paths",
+      "Topics": "Math, Dynamic Programming, Combinatorics"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4939526352897762,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove All Adjacent Duplicates In String",
+      "Frequency": 95.5,
+      "Acceptance Rate": 0.715875534292082,
+      "Link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove All Adjacent Duplicates in String II",
+      "Frequency": 87.5,
+      "Acceptance Rate": 0.5960173343469628,
+      "Link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 85.0,
+      "Acceptance Rate": 0.5499191107870306,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Vowel Spellchecker",
+      "Frequency": 78.7,
+      "Acceptance Rate": 0.5157619197411585,
+      "Link": "https://leetcode.com/problems/vowel-spellchecker",
+      "Topics": "Array, Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Repeated DNA Sequences",
+      "Frequency": 74.8,
+      "Acceptance Rate": 0.5132038237868195,
+      "Link": "https://leetcode.com/problems/repeated-dna-sequences",
+      "Topics": "Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 74.8,
+      "Acceptance Rate": 0.4283724679402803,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Climbing Stairs",
+      "Frequency": 70.0,
+      "Acceptance Rate": 0.535407459224679,
+      "Link": "https://leetcode.com/problems/climbing-stairs",
+      "Topics": "Math, Dynamic Programming, Memoization"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Backspace String Compare",
+      "Frequency": 70.0,
+      "Acceptance Rate": 0.4948175019000657,
+      "Link": "https://leetcode.com/problems/backspace-string-compare",
+      "Topics": "Two Pointers, String, Stack, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 70.0,
+      "Acceptance Rate": 0.7713293364055746,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Break II",
+      "Frequency": 70.0,
+      "Acceptance Rate": 0.5364546303753539,
+      "Link": "https://leetcode.com/problems/word-break-ii",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Perfect Number",
+      "Frequency": 70.0,
+      "Acceptance Rate": 0.4489257450556843,
+      "Link": "https://leetcode.com/problems/perfect-number",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 63.7,
+      "Acceptance Rate": 0.4526702267974355,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 63.7,
+      "Acceptance Rate": 0.4827386605332721,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 63.7,
+      "Acceptance Rate": 0.6232010561844157,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Logger Rate Limiter",
+      "Frequency": 55.0,
+      "Acceptance Rate": 0.766103057053701,
+      "Link": "https://leetcode.com/problems/logger-rate-limiter",
+      "Topics": "Hash Table, Design, Data Stream"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Sum of Left Leaves",
+      "Frequency": 55.0,
+      "Acceptance Rate": 0.6165969923913787,
+      "Link": "https://leetcode.com/problems/sum-of-left-leaves",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Set Mismatch",
+      "Frequency": 55.0,
+      "Acceptance Rate": 0.4500023166771268,
+      "Link": "https://leetcode.com/problems/set-mismatch",
+      "Topics": "Array, Hash Table, Bit Manipulation, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Special Binary String",
+      "Frequency": 55.0,
+      "Acceptance Rate": 0.6351153721156971,
+      "Link": "https://leetcode.com/problems/special-binary-string",
+      "Topics": "String, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode the Slanted Ciphertext",
+      "Frequency": 55.0,
+      "Acceptance Rate": 0.4912737614129622,
+      "Link": "https://leetcode.com/problems/decode-the-slanted-ciphertext",
+      "Topics": "String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Reverse Polish Notation",
+      "Frequency": 55.0,
+      "Acceptance Rate": 0.5495028146041505,
+      "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "Topics": "Array, Math, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Implement Trie (Prefix Tree)",
+      "Frequency": 55.0,
+      "Acceptance Rate": 0.679349409041436,
+      "Link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "Topics": "Hash Table, String, Design, Trie"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4939525598424313,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove All Adjacent Duplicates In String",
+      "Frequency": 93.2,
+      "Acceptance Rate": 0.715875534292082,
+      "Link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Remove All Adjacent Duplicates in String II",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.5960173343469628,
+      "Link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 84.8,
+      "Acceptance Rate": 0.5499191107870306,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 81.1,
+      "Acceptance Rate": 0.7713293364055746,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Repeated DNA Sequences",
+      "Frequency": 78.9,
+      "Acceptance Rate": 0.5132038237868195,
+      "Link": "https://leetcode.com/problems/repeated-dna-sequences",
+      "Topics": "Hash Table, String, Bit Manipulation, Sliding Window, Rolling Hash, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Vowel Spellchecker",
+      "Frequency": 78.9,
+      "Acceptance Rate": 0.5157619197411585,
+      "Link": "https://leetcode.com/problems/vowel-spellchecker",
+      "Topics": "Array, Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 78.9,
+      "Acceptance Rate": 0.4283724679402803,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Perfect Number",
+      "Frequency": 76.5,
+      "Acceptance Rate": 0.4489257450556843,
+      "Link": "https://leetcode.com/problems/perfect-number",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Climbing Stairs",
+      "Frequency": 70.5,
+      "Acceptance Rate": 0.535407459224679,
+      "Link": "https://leetcode.com/problems/climbing-stairs",
+      "Topics": "Math, Dynamic Programming, Memoization"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Sqrt(x)",
+      "Frequency": 70.5,
+      "Acceptance Rate": 0.4037182691859833,
+      "Link": "https://leetcode.com/problems/sqrtx",
+      "Topics": "Math, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 66.8,
+      "Acceptance Rate": 0.6232010561844157,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 66.8,
+      "Acceptance Rate": 0.4526701296840141,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Backspace String Compare",
+      "Frequency": 62.2,
+      "Acceptance Rate": 0.4948175019000657,
+      "Link": "https://leetcode.com/problems/backspace-string-compare",
+      "Topics": "Two Pointers, String, Stack, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Break II",
+      "Frequency": 62.2,
+      "Acceptance Rate": 0.5364546303753539,
+      "Link": "https://leetcode.com/problems/word-break-ii",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Implement Trie (Prefix Tree)",
+      "Frequency": 56.3,
+      "Acceptance Rate": 0.679349409041436,
+      "Link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "Topics": "Hash Table, String, Design, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 56.3,
+      "Acceptance Rate": 0.4827386605332721,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Logger Rate Limiter",
+      "Frequency": 56.3,
+      "Acceptance Rate": 0.766103057053701,
+      "Link": "https://leetcode.com/problems/logger-rate-limiter",
+      "Topics": "Hash Table, Design, Data Stream"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Special Binary String",
+      "Frequency": 48.0,
+      "Acceptance Rate": 0.6351153721156971,
+      "Link": "https://leetcode.com/problems/special-binary-string",
+      "Topics": "String, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode the Slanted Ciphertext",
+      "Frequency": 48.0,
+      "Acceptance Rate": 0.4912737614129622,
+      "Link": "https://leetcode.com/problems/decode-the-slanted-ciphertext",
+      "Topics": "String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Reverse Polish Notation",
+      "Frequency": 48.0,
+      "Acceptance Rate": 0.5495028146041505,
+      "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "Topics": "Array, Math, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Sum of Left Leaves",
+      "Frequency": 48.0,
+      "Acceptance Rate": 0.6165969923913787,
+      "Link": "https://leetcode.com/problems/sum-of-left-leaves",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Set Mismatch",
+      "Frequency": 48.0,
+      "Acceptance Rate": 0.4500023166771268,
+      "Link": "https://leetcode.com/problems/set-mismatch",
+      "Topics": "Array, Hash Table, Bit Manipulation, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Palindromes After Operations",
+      "Frequency": 48.0,
+      "Acceptance Rate": 0.4308371154815936,
+      "Link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+      "Topics": "Array, Hash Table, String, Greedy, Sorting, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Clone Graph",
+      "Frequency": 48.0,
+      "Acceptance Rate": 0.6238583023997237,
+      "Link": "https://leetcode.com/problems/clone-graph",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 48.0,
+      "Acceptance Rate": 0.6510204648612313,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Unique Paths",
+      "Frequency": 48.0,
+      "Acceptance Rate": 0.6577292198640936,
+      "Link": "https://leetcode.com/problems/unique-paths",
+      "Topics": "Math, Dynamic Programming, Combinatorics"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Hexspeak",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5829381638846738,
+      "Link": "https://leetcode.com/problems/hexspeak",
+      "Topics": "Math, String"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "How Many Apples Can You Put into the Basket",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6704955156282592,
+      "Link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+      "Topics": "Array, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Hexspeak",
+      "Frequency": 90.6,
+      "Acceptance Rate": 0.5829381638846738,
+      "Link": "https://leetcode.com/problems/hexspeak",
+      "Topics": "Math, String"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Array Transformation",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5310772264675846,
+      "Link": "https://leetcode.com/problems/array-transformation",
+      "Topics": "Array, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "How Many Apples Can You Put into the Basket",
+      "Frequency": 97.5,
+      "Acceptance Rate": 0.6704955156282592,
+      "Link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+      "Topics": "Array, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Substrings with Only One Distinct Letter",
+      "Frequency": 94.6,
+      "Acceptance Rate": 0.806493436335152,
+      "Link": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter",
+      "Topics": "Math, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Hexspeak",
+      "Frequency": 94.6,
+      "Acceptance Rate": 0.5829381638846738,
+      "Link": "https://leetcode.com/problems/hexspeak",
+      "Topics": "Math, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Number of Homogenous Substrings",
+      "Frequency": 82.5,
+      "Acceptance Rate": 0.5736276720948661,
+      "Link": "https://leetcode.com/problems/count-number-of-homogenous-substrings",
+      "Topics": "Math, String"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "How Many Apples Can You Put into the Basket",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6704955156282592,
+      "Link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+      "Topics": "Array, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Array Transformation",
+      "Frequency": 98.9,
+      "Acceptance Rate": 0.5310772264675846,
+      "Link": "https://leetcode.com/problems/array-transformation",
+      "Topics": "Array, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Hexspeak",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.5829381638846738,
+      "Link": "https://leetcode.com/problems/hexspeak",
+      "Topics": "Math, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Substrings with Only One Distinct Letter",
+      "Frequency": 96.5,
+      "Acceptance Rate": 0.806493436335152,
+      "Link": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter",
+      "Topics": "Math, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Number of Homogenous Substrings",
+      "Frequency": 92.4,
+      "Acceptance Rate": 0.5736276720948661,
+      "Link": "https://leetcode.com/problems/count-number-of-homogenous-substrings",
+      "Topics": "Math, String"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Parenthesis String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3890950919002989,
+      "Link": "https://leetcode.com/problems/valid-parenthesis-string",
+      "Topics": "String, Dynamic Programming, Stack, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525969157019779,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Parenthesis String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3890950919002989,
+      "Link": "https://leetcode.com/problems/valid-parenthesis-string",
+      "Topics": "String, Dynamic Programming, Stack, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525969157019779,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ]
+}

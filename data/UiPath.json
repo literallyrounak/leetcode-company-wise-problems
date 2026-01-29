@@ -1,0 +1,171 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Satisfiability of Equality Equations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5101847530677794,
+      "Link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+      "Topics": "Array, String, Union Find, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Repeating Character Replacement",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.572118026869801,
+      "Link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "Topics": "Hash Table, String, Sliding Window"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Making A Large Island",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5489021109141428,
+      "Link": "https://leetcode.com/problems/making-a-large-island",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Satisfiability of Equality Equations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5101847530677794,
+      "Link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+      "Topics": "Array, String, Union Find, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Repeating Character Replacement",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.572118026869801,
+      "Link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "Topics": "Hash Table, String, Sliding Window"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6232010198187545,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3584618958359686,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sorting Three Groups",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4188815458659579,
+      "Link": "https://leetcode.com/problems/sorting-three-groups",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Escape a Large Maze",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3532354342403946,
+      "Link": "https://leetcode.com/problems/escape-a-large-maze",
+      "Topics": "Array, Hash Table, Depth-First Search, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "As Far from Land as Possible",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5184355695888827,
+      "Link": "https://leetcode.com/problems/as-far-from-land-as-possible",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Escape a Large Maze",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3532354342403946,
+      "Link": "https://leetcode.com/problems/escape-a-large-maze",
+      "Topics": "Array, Hash Table, Depth-First Search, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sorting Three Groups",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4188815458659579,
+      "Link": "https://leetcode.com/problems/sorting-three-groups",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "As Far from Land as Possible",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5184355695888827,
+      "Link": "https://leetcode.com/problems/as-far-from-land-as-possible",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 72.1,
+      "Acceptance Rate": 0.6232010198187545,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 62.7,
+      "Acceptance Rate": 0.3584618958359686,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Integer to Roman",
+      "Frequency": 62.7,
+      "Acceptance Rate": 0.6861943680423237,
+      "Link": "https://leetcode.com/problems/integer-to-roman",
+      "Topics": "Hash Table, Math, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Making A Large Island",
+      "Frequency": 62.7,
+      "Acceptance Rate": 0.5489021109141428,
+      "Link": "https://leetcode.com/problems/making-a-large-island",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Boats to Save People",
+      "Frequency": 62.7,
+      "Acceptance Rate": 0.6030109406778812,
+      "Link": "https://leetcode.com/problems/boats-to-save-people",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Satisfiability of Equality Equations",
+      "Frequency": 62.7,
+      "Acceptance Rate": 0.5101847530677794,
+      "Link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+      "Topics": "Array, String, Union Find, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Repeating Character Replacement",
+      "Frequency": 62.7,
+      "Acceptance Rate": 0.572118026869801,
+      "Link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "Topics": "Hash Table, String, Sliding Window"
+    }
+  ]
+}

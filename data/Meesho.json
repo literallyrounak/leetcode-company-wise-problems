@@ -1,0 +1,250 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Unique XOR Triplets I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2485713783341832,
+      "Link": "https://leetcode.com/problems/number-of-unique-xor-triplets-i",
+      "Topics": "Array, Math, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Unique XOR Triplets II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2943817240005312,
+      "Link": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii",
+      "Topics": "Array, Math, Bit Manipulation, Enumeration"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 66.3,
+      "Acceptance Rate": 0.4305773606171358,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Unique XOR Triplets I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2485713783341832,
+      "Link": "https://leetcode.com/problems/number-of-unique-xor-triplets-i",
+      "Topics": "Array, Math, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Unique XOR Triplets II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2943817240005312,
+      "Link": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii",
+      "Topics": "Array, Math, Bit Manipulation, Enumeration"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Ways to Form a Target String Given a Dictionary",
+      "Frequency": 73.9,
+      "Acceptance Rate": 0.570646521775689,
+      "Link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+      "Topics": "Array, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Next Permutation",
+      "Frequency": 73.9,
+      "Acceptance Rate": 0.4305773606171358,
+      "Link": "https://leetcode.com/problems/next-permutation",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Count Subarrays With Fixed Bounds",
+      "Frequency": 65.1,
+      "Acceptance Rate": 0.6940834976032579,
+      "Link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+      "Topics": "Array, Queue, Sliding Window, Monotonic Queue"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Edge Reversals So Every Node Is Reachable",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5529070058590816,
+      "Link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+      "Topics": "Dynamic Programming, Depth-First Search, Breadth-First Search, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Strings Which Can Be Rearranged to Contain Substring",
+      "Frequency": 78.0,
+      "Acceptance Rate": 0.5527001592587231,
+      "Link": "https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring",
+      "Topics": "Math, Dynamic Programming, Combinatorics"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Making A Large Island",
+      "Frequency": 78.0,
+      "Acceptance Rate": 0.5489029735459547,
+      "Link": "https://leetcode.com/problems/making-a-large-island",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Delete and Earn",
+      "Frequency": 78.0,
+      "Acceptance Rate": 0.5672792794834673,
+      "Link": "https://leetcode.com/problems/delete-and-earn",
+      "Topics": "Array, Hash Table, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Painting the Walls",
+      "Frequency": 78.0,
+      "Acceptance Rate": 0.4851847868464569,
+      "Link": "https://leetcode.com/problems/painting-the-walls",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Number of Taps to Open to Water a Garden",
+      "Frequency": 71.1,
+      "Acceptance Rate": 0.5071716508859098,
+      "Link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 71.1,
+      "Acceptance Rate": 0.5577699461414285,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Subsequence With the Minimum Score",
+      "Frequency": 71.1,
+      "Acceptance Rate": 0.326135438422599,
+      "Link": "https://leetcode.com/problems/subsequence-with-the-minimum-score",
+      "Topics": "Two Pointers, String, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Twitter",
+      "Frequency": 71.1,
+      "Acceptance Rate": 0.4265238051053148,
+      "Link": "https://leetcode.com/problems/design-twitter",
+      "Topics": "Hash Table, Linked List, Design, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Consecutive Numbers",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.4609731212715894,
+      "Link": "https://leetcode.com/problems/consecutive-numbers",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Count Subarrays With Fixed Bounds",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.6940834976032579,
+      "Link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+      "Topics": "Array, Queue, Sliding Window, Monotonic Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Beautiful Arrangement",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.6452775069853577,
+      "Link": "https://leetcode.com/problems/beautiful-arrangement",
+      "Topics": "Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Time to Complete Trips",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.3904299262503548,
+      "Link": "https://leetcode.com/problems/minimum-time-to-complete-trips",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Car Pooling",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.5604945393575056,
+      "Link": "https://leetcode.com/problems/car-pooling",
+      "Topics": "Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.3947918488639545,
+      "Link": "https://leetcode.com/problems/jump-game",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search Suggestions System",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.650502807389667,
+      "Link": "https://leetcode.com/problems/search-suggestions-system",
+      "Topics": "Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Longest Equal Subarray",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.3623757637187825,
+      "Link": "https://leetcode.com/problems/find-the-longest-equal-subarray",
+      "Topics": "Array, Hash Table, Binary Search, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Non-decreasing Subarray From Two Arrays",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.2981855832758111,
+      "Link": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Count Complete Substrings",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.285450863033161,
+      "Link": "https://leetcode.com/problems/count-complete-substrings",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Possible Sets of Closing Branches",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.4844893500819224,
+      "Link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+      "Topics": "Bit Manipulation, Graph, Heap (Priority Queue), Enumeration, Shortest Path"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Degree of a Connected Trio in a Graph",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.4340100703634368,
+      "Link": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph",
+      "Topics": "Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Second Highest Salary",
+      "Frequency": 61.3,
+      "Acceptance Rate": 0.4386513170262202,
+      "Link": "https://leetcode.com/problems/second-highest-salary",
+      "Topics": "Database"
+    }
+  ],
+  "5. All": []
+}

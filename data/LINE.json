@@ -1,0 +1,83 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4760401567272566,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4760401567272566,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Sudoku Solver",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6390844622410038,
+      "Link": "https://leetcode.com/problems/sudoku-solver",
+      "Topics": "Array, Hash Table, Backtracking, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Frog Jump",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4655846450889997,
+      "Link": "https://leetcode.com/problems/frog-jump",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Cost to Cut a Stick",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6201789560190433,
+      "Link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+      "Topics": "Array, Dynamic Programming, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4760401567272566,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sudoku Solver",
+      "Frequency": 83.7,
+      "Acceptance Rate": 0.6390844622410038,
+      "Link": "https://leetcode.com/problems/sudoku-solver",
+      "Topics": "Array, Hash Table, Backtracking, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Frog Jump",
+      "Frequency": 83.7,
+      "Acceptance Rate": 0.4655846450889997,
+      "Link": "https://leetcode.com/problems/frog-jump",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Cost to Cut a Stick",
+      "Frequency": 83.7,
+      "Acceptance Rate": 0.6201789560190433,
+      "Link": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick",
+      "Topics": "Array, Dynamic Programming, Sorting"
+    }
+  ]
+}

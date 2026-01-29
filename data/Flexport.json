@@ -1,0 +1,211 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.611527047281157,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Clone Graph",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6238596161697385,
+      "Link": "https://leetcode.com/problems/clone-graph",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.611527047281157,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Clone Graph",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6238596161697385,
+      "Link": "https://leetcode.com/problems/clone-graph",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 67.3,
+      "Acceptance Rate": 0.6385757154093107,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Validate IP Address",
+      "Frequency": 67.3,
+      "Acceptance Rate": 0.2781752462045336,
+      "Link": "https://leetcode.com/problems/validate-ip-address",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "My Calendar I",
+      "Frequency": 67.3,
+      "Acceptance Rate": 0.5814631853246708,
+      "Link": "https://leetcode.com/problems/my-calendar-i",
+      "Topics": "Array, Binary Search, Design, Segment Tree, Ordered Set"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6385758051682159,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "My Calendar I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5814631853246708,
+      "Link": "https://leetcode.com/problems/my-calendar-i",
+      "Topics": "Array, Binary Search, Design, Segment Tree, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Bag of Tokens",
+      "Frequency": 92.6,
+      "Acceptance Rate": 0.5918662223280171,
+      "Link": "https://leetcode.com/problems/bag-of-tokens",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Zero Request Servers",
+      "Frequency": 82.1,
+      "Acceptance Rate": 0.3411788105814493,
+      "Link": "https://leetcode.com/problems/count-zero-request-servers",
+      "Topics": "Array, Hash Table, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 82.1,
+      "Acceptance Rate": 0.493664334355531,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subarray Product Less Than K",
+      "Frequency": 82.1,
+      "Acceptance Rate": 0.5285358649789029,
+      "Link": "https://leetcode.com/problems/subarray-product-less-than-k",
+      "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 82.1,
+      "Acceptance Rate": 0.5780847126573901,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 82.1,
+      "Acceptance Rate": 0.611527047281157,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.611527047281157,
+      "Link": "https://leetcode.com/problems/decode-string",
+      "Topics": "String, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Clone Graph",
+      "Frequency": 98.1,
+      "Acceptance Rate": 0.6238596161697385,
+      "Link": "https://leetcode.com/problems/clone-graph",
+      "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Time Based Key-Value Store",
+      "Frequency": 96.1,
+      "Acceptance Rate": 0.493664334355531,
+      "Link": "https://leetcode.com/problems/time-based-key-value-store",
+      "Topics": "Hash Table, String, Binary Search, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "My Calendar I",
+      "Frequency": 85.0,
+      "Acceptance Rate": 0.5814631853246708,
+      "Link": "https://leetcode.com/problems/my-calendar-i",
+      "Topics": "Array, Binary Search, Design, Segment Tree, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 85.0,
+      "Acceptance Rate": 0.6385758051682159,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Bag of Tokens",
+      "Frequency": 70.0,
+      "Acceptance Rate": 0.5918662223280171,
+      "Link": "https://leetcode.com/problems/bag-of-tokens",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Zero Request Servers",
+      "Frequency": 61.2,
+      "Acceptance Rate": 0.3411788105814493,
+      "Link": "https://leetcode.com/problems/count-zero-request-servers",
+      "Topics": "Array, Hash Table, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 61.2,
+      "Acceptance Rate": 0.5780848237657387,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subarray Product Less Than K",
+      "Frequency": 61.2,
+      "Acceptance Rate": 0.5285358649789029,
+      "Link": "https://leetcode.com/problems/subarray-product-less-than-k",
+      "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Validate IP Address",
+      "Frequency": 61.2,
+      "Acceptance Rate": 0.2781752462045336,
+      "Link": "https://leetcode.com/problems/validate-ip-address",
+      "Topics": "String"
+    }
+  ]
+}

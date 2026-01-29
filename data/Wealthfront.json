@@ -1,0 +1,25 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Steps to Make Two Strings Anagram II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7275336296470727,
+      "Link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii",
+      "Topics": "Hash Table, String, Counting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Steps to Make Two Strings Anagram II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7275336296470727,
+      "Link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii",
+      "Topics": "Hash Table, String, Counting"
+    }
+  ]
+}

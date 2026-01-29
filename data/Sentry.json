@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4815475571977295,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Hit Counter",
+      "Frequency": 75.9,
+      "Acceptance Rate": 0.6920824884300808,
+      "Link": "https://leetcode.com/problems/design-hit-counter",
+      "Topics": "Array, Binary Search, Design, Queue, Data Stream"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4815475571977295,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Hit Counter",
+      "Frequency": 79.8,
+      "Acceptance Rate": 0.6920824884300808,
+      "Link": "https://leetcode.com/problems/design-hit-counter",
+      "Topics": "Array, Binary Search, Design, Queue, Data Stream"
+    }
+  ]
+}

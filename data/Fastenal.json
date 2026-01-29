@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Window Substring",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4535437016062827,
+      "Link": "https://leetcode.com/problems/minimum-window-substring",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Beauty of All Substrings",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.708399002246187,
+      "Link": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Last Substring in Lexicographical Order",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.3460103417700405,
+      "Link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Atoms",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.6499758945228163,
+      "Link": "https://leetcode.com/problems/number-of-atoms",
+      "Topics": "Hash Table, String, Stack, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Window Substring",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4535438420146838,
+      "Link": "https://leetcode.com/problems/minimum-window-substring",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sum of Beauty of All Substrings",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.708399002246187,
+      "Link": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Last Substring in Lexicographical Order",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.3460103417700405,
+      "Link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Atoms",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.6499758945228163,
+      "Link": "https://leetcode.com/problems/number-of-atoms",
+      "Topics": "Hash Table, String, Stack, Sorting"
+    }
+  ]
+}

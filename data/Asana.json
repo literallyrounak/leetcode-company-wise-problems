@@ -1,0 +1,66 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.677800810058164,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.677800810058164,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "K Closest Points to Origin",
+      "Frequency": 81.2,
+      "Acceptance Rate": 0.6793970834941822,
+      "Link": "https://leetcode.com/problems/k-closest-points-to-origin",
+      "Topics": "Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximum Repeating Substring",
+      "Frequency": 56.4,
+      "Acceptance Rate": 0.3962144463908421,
+      "Link": "https://leetcode.com/problems/maximum-repeating-substring",
+      "Topics": "String, Dynamic Programming, String Matching"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.677800810058164,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximum Repeating Substring",
+      "Frequency": 83.5,
+      "Acceptance Rate": 0.3962144463908421,
+      "Link": "https://leetcode.com/problems/maximum-repeating-substring",
+      "Topics": "String, Dynamic Programming, String Matching"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "K Closest Points to Origin",
+      "Frequency": 79.5,
+      "Acceptance Rate": 0.6793970834941822,
+      "Link": "https://leetcode.com/problems/k-closest-points-to-origin",
+      "Topics": "Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
+    }
+  ]
+}

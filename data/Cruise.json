@@ -1,0 +1,106 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4923445089786651,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4939525764689584,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Unique Paths II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4315430597653034,
+      "Link": "https://leetcode.com/problems/unique-paths-ii",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Unique Paths III",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8233339994005395,
+      "Link": "https://leetcode.com/problems/unique-paths-iii",
+      "Topics": "Array, Backtracking, Bit Manipulation, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 88.7,
+      "Acceptance Rate": 0.4521489022918771,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Synonymous Sentences",
+      "Frequency": 88.7,
+      "Acceptance Rate": 0.5657701813916468,
+      "Link": "https://leetcode.com/problems/synonymous-sentences",
+      "Topics": "Array, Hash Table, String, Backtracking, Union Find"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Synonymous Sentences",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5657701813916468,
+      "Link": "https://leetcode.com/problems/synonymous-sentences",
+      "Topics": "Array, Hash Table, String, Backtracking, Union Find"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 74.0,
+      "Acceptance Rate": 0.4939525764689584,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Unique Paths II",
+      "Frequency": 74.0,
+      "Acceptance Rate": 0.4315430597653034,
+      "Link": "https://leetcode.com/problems/unique-paths-ii",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Unique Paths III",
+      "Frequency": 74.0,
+      "Acceptance Rate": 0.8233339994005395,
+      "Link": "https://leetcode.com/problems/unique-paths-iii",
+      "Topics": "Array, Backtracking, Bit Manipulation, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 65.3,
+      "Acceptance Rate": 0.4521489022918771,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Course Schedule",
+      "Frequency": 65.3,
+      "Acceptance Rate": 0.4923445089786651,
+      "Link": "https://leetcode.com/problems/course-schedule",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+    }
+  ]
+}

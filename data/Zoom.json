@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5778299260380112,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "User Activity for the Past 30 Days I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4948182850653038,
+      "Link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "User Activity for the Past 30 Days II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3571570606950562,
+      "Link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii",
+      "Topics": "Database"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "User Activity for the Past 30 Days I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4948182850653038,
+      "Link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "User Activity for the Past 30 Days II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3571570606950562,
+      "Link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Container With Most Water",
+      "Frequency": 66.0,
+      "Acceptance Rate": 0.5778299260380112,
+      "Link": "https://leetcode.com/problems/container-with-most-water",
+      "Topics": "Array, Two Pointers, Greedy"
+    }
+  ]
+}

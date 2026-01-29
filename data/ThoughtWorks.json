@@ -1,0 +1,137 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximize the Number of Partitions After Operations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2745828069942158,
+      "Link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+      "Topics": "String, Dynamic Programming, Bit Manipulation, Bitmask"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum GCD-Sum of a Subarray",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.358179419525066,
+      "Link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+      "Topics": "Array, Math, Binary Search, Number Theory"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Subarrays That Match a Pattern II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.322212333121424,
+      "Link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+      "Topics": "Array, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 73.4,
+      "Acceptance Rate": 0.5525968819096688,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.3693618464595322,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.4232290340530288,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.3584622482553879,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Number of Bit Changes to Make Two Integers Equal",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.6263353274222839,
+      "Link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+      "Topics": "Bit Manipulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Number of Bit Changes to Make Two Integers Equal",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6263353274222839,
+      "Link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+      "Topics": "Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum GCD-Sum of a Subarray",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.358179419525066,
+      "Link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+      "Topics": "Array, Math, Binary Search, Number Theory"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximize the Number of Partitions After Operations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2745828069942158,
+      "Link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+      "Topics": "String, Dynamic Programming, Bit Manipulation, Bitmask"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Subarrays That Match a Pattern II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.322212333121424,
+      "Link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+      "Topics": "Array, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 73.0,
+      "Acceptance Rate": 0.5525968819096688,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 63.9,
+      "Acceptance Rate": 0.3693618464595322,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 63.9,
+      "Acceptance Rate": 0.4232290340530288,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 63.9,
+      "Acceptance Rate": 0.3584622482553879,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    }
+  ]
+}

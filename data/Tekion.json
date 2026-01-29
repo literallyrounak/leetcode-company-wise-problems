@@ -1,0 +1,323 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Split Array Largest Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5809965654277032,
+      "Link": "https://leetcode.com/problems/split-array-largest-sum",
+      "Topics": "Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Ways to Split Array Into Three Subarrays",
+      "Frequency": 88.9,
+      "Acceptance Rate": 0.3344652559336574,
+      "Link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+      "Topics": "Array, Two Pointers, Binary Search, Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 88.9,
+      "Acceptance Rate": 0.6510210425279727,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 88.9,
+      "Acceptance Rate": 0.5209985598690413,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of the Last K Numbers",
+      "Frequency": 88.9,
+      "Acceptance Rate": 0.6274634247482844,
+      "Link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+      "Topics": "Array, Math, Design, Data Stream, Prefix Sum"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Split Array Largest Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5809965654277032,
+      "Link": "https://leetcode.com/problems/split-array-largest-sum",
+      "Topics": "Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5577702651795842,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5209985598690413,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6510210425279727,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Ways to Split Array Into Three Subarrays",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.3344652559336574,
+      "Link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+      "Topics": "Array, Two Pointers, Binary Search, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.5214172217778257,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of the Last K Numbers",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.6274634247482844,
+      "Link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+      "Topics": "Array, Math, Design, Data Stream, Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Ladder",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.4281206428184247,
+      "Link": "https://leetcode.com/problems/word-ladder",
+      "Topics": "Hash Table, String, Breadth-First Search"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Most Stones Removed with Same Row or Column",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6218989759471679,
+      "Link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+      "Topics": "Hash Table, Depth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.5525967581165647,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.6778006914594543,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Cousins in Binary Tree",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.5817380089487071,
+      "Link": "https://leetcode.com/problems/cousins-in-binary-tree",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Count the Number of Infection Sequences",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.333877951147782,
+      "Link": "https://leetcode.com/problems/count-the-number-of-infection-sequences",
+      "Topics": "Array, Math, Combinatorics"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.539398836789508,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Count the Number of Infection Sequences",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.333877951147782,
+      "Link": "https://leetcode.com/problems/count-the-number-of-infection-sequences",
+      "Topics": "Array, Math, Combinatorics"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 78.1,
+      "Acceptance Rate": 0.6510210425279727,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Most Stones Removed with Same Row or Column",
+      "Frequency": 71.3,
+      "Acceptance Rate": 0.6218989759471679,
+      "Link": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column",
+      "Topics": "Hash Table, Depth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 71.3,
+      "Acceptance Rate": 0.5209985598690413,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 71.3,
+      "Acceptance Rate": 0.5577702651795842,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Split Array Largest Sum",
+      "Frequency": 71.3,
+      "Acceptance Rate": 0.5809965654277032,
+      "Link": "https://leetcode.com/problems/split-array-largest-sum",
+      "Topics": "Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Cousins in Binary Tree",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.5817380089487071,
+      "Link": "https://leetcode.com/problems/cousins-in-binary-tree",
+      "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.5214172217778257,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Ladder",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.4281206428184247,
+      "Link": "https://leetcode.com/problems/word-ladder",
+      "Topics": "Hash Table, String, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of the Last K Numbers",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.6274634247482844,
+      "Link": "https://leetcode.com/problems/product-of-the-last-k-numbers",
+      "Topics": "Array, Math, Design, Data Stream, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find First and Last Position of Element in Sorted Array",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.468288663109128,
+      "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Best Time to Buy and Sell Stock III",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.5112109216533897,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Ways to Split Array Into Three Subarrays",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.3344652559336574,
+      "Link": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays",
+      "Topics": "Array, Two Pointers, Binary Search, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Peak Element",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.4650920934902725,
+      "Link": "https://leetcode.com/problems/find-peak-element",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.394791888039084,
+      "Link": "https://leetcode.com/problems/jump-game",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Is Subsequence",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.4838256140732861,
+      "Link": "https://leetcode.com/problems/is-subsequence",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.539398836789508,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.6778006914594543,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.5525967581165647,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Parenthesis String",
+      "Frequency": 61.6,
+      "Acceptance Rate": 0.3890945086955712,
+      "Link": "https://leetcode.com/problems/valid-parenthesis-string",
+      "Topics": "String, Dynamic Programming, Stack, Greedy"
+    }
+  ]
+}

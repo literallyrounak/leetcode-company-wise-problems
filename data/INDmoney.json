@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Nodes Equal to Average of Subtree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8641895449417075,
+      "Link": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Online Stock Span",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6738470433038342,
+      "Link": "https://leetcode.com/problems/online-stock-span",
+      "Topics": "Stack, Design, Monotonic Stack, Data Stream"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Online Stock Span",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6738450657310683,
+      "Link": "https://leetcode.com/problems/online-stock-span",
+      "Topics": "Stack, Design, Monotonic Stack, Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Nodes Equal to Average of Subtree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8641895449417075,
+      "Link": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    }
+  ]
+}

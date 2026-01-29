@@ -1,0 +1,139 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Shortest Uncommon Substring in an Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4821341799216042,
+      "Link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+      "Topics": "Array, Hash Table, String, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Synonymous Sentences",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5657701813916468,
+      "Link": "https://leetcode.com/problems/synonymous-sentences",
+      "Topics": "Array, Hash Table, String, Backtracking, Union Find"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Shortest Uncommon Substring in an Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4821341799216042,
+      "Link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+      "Topics": "Array, Hash Table, String, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Synonymous Sentences",
+      "Frequency": 93.4,
+      "Acceptance Rate": 0.5657701813916468,
+      "Link": "https://leetcode.com/problems/synonymous-sentences",
+      "Topics": "Array, Hash Table, String, Backtracking, Union Find"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 84.0,
+      "Acceptance Rate": 0.4939520668150291,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4815035316083349,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Synonymous Sentences",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.5657701813916468,
+      "Link": "https://leetcode.com/problems/synonymous-sentences",
+      "Topics": "Array, Hash Table, String, Backtracking, Union Find"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Break II",
+      "Frequency": 84.8,
+      "Acceptance Rate": 0.5364545782263879,
+      "Link": "https://leetcode.com/problems/word-break-ii",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Shortest Uncommon Substring in an Array",
+      "Frequency": 70.2,
+      "Acceptance Rate": 0.4821341799216042,
+      "Link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+      "Topics": "Array, Hash Table, String, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Number of Removable Characters",
+      "Frequency": 53.3,
+      "Acceptance Rate": 0.4575968318361827,
+      "Link": "https://leetcode.com/problems/maximum-number-of-removable-characters",
+      "Topics": "Array, Two Pointers, String, Binary Search"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4815035316083349,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Shortest Uncommon Substring in an Array",
+      "Frequency": 92.7,
+      "Acceptance Rate": 0.4821341799216042,
+      "Link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+      "Topics": "Array, Hash Table, String, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Synonymous Sentences",
+      "Frequency": 91.5,
+      "Acceptance Rate": 0.5657701813916468,
+      "Link": "https://leetcode.com/problems/synonymous-sentences",
+      "Topics": "Array, Hash Table, String, Backtracking, Union Find"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Break II",
+      "Frequency": 86.0,
+      "Acceptance Rate": 0.5364545782263879,
+      "Link": "https://leetcode.com/problems/word-break-ii",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Number of Removable Characters",
+      "Frequency": 52.0,
+      "Acceptance Rate": 0.4575968318361827,
+      "Link": "https://leetcode.com/problems/maximum-number-of-removable-characters",
+      "Topics": "Array, Two Pointers, String, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Merge Intervals",
+      "Frequency": 52.0,
+      "Acceptance Rate": 0.4939520668150291,
+      "Link": "https://leetcode.com/problems/merge-intervals",
+      "Topics": "Array, Sorting"
+    }
+  ]
+}

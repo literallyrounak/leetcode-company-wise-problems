@@ -1,0 +1,89 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Path Sum IV",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6265683229813664,
+      "Link": "https://leetcode.com/problems/path-sum-iv",
+      "Topics": "Array, Hash Table, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Split Concatenated Strings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4331808331326752,
+      "Link": "https://leetcode.com/problems/split-concatenated-strings",
+      "Topics": "Array, String, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Split Array with Equal Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5005901986323673,
+      "Link": "https://leetcode.com/problems/split-array-with-equal-sum",
+      "Topics": "Array, Hash Table, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Parenthesis String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3890942848440467,
+      "Link": "https://leetcode.com/problems/valid-parenthesis-string",
+      "Topics": "String, Dynamic Programming, Stack, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3693614339383895,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Split Array with Equal Sum",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5005901986323673,
+      "Link": "https://leetcode.com/problems/split-array-with-equal-sum",
+      "Topics": "Array, Hash Table, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Split Concatenated Strings",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4331808331326752,
+      "Link": "https://leetcode.com/problems/split-concatenated-strings",
+      "Topics": "Array, String, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Path Sum IV",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6265683229813664,
+      "Link": "https://leetcode.com/problems/path-sum-iv",
+      "Topics": "Array, Hash Table, Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Parenthesis String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3890942848440467,
+      "Link": "https://leetcode.com/problems/valid-parenthesis-string",
+      "Topics": "String, Dynamic Programming, Stack, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 63.7,
+      "Acceptance Rate": 0.3693614339383895,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    }
+  ]
+}

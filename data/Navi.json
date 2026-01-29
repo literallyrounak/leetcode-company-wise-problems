@@ -1,0 +1,65 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Days to Make m Bouquets",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.554659285502073,
+      "Link": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 83.2,
+      "Acceptance Rate": 0.4283740559116082,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimize the Maximum Difference of Pairs",
+      "Frequency": 83.2,
+      "Acceptance Rate": 0.508506695457402,
+      "Link": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs",
+      "Topics": "Array, Binary Search, Dynamic Programming, Greedy, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimize the Maximum Difference of Pairs",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.508506695457402,
+      "Link": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs",
+      "Topics": "Array, Binary Search, Dynamic Programming, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Days to Make m Bouquets",
+      "Frequency": 80.7,
+      "Acceptance Rate": 0.554659285502073,
+      "Link": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 66.2,
+      "Acceptance Rate": 0.4283740559116082,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Trapping Rain Water",
+      "Frequency": 66.2,
+      "Acceptance Rate": 0.6510221718205077,
+      "Link": "https://leetcode.com/problems/trapping-rain-water",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+    }
+  ]
+}

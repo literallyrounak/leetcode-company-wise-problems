@@ -1,0 +1,156 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Number of 1 Bits",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7450480575885099,
+      "Link": "https://leetcode.com/problems/number-of-1-bits",
+      "Topics": "Divide and Conquer, Bit Manipulation"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Number of 1 Bits",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7450480575885099,
+      "Link": "https://leetcode.com/problems/number-of-1-bits",
+      "Topics": "Divide and Conquer, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 90.1,
+      "Acceptance Rate": 0.5927711651861731,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Ladder",
+      "Frequency": 90.1,
+      "Acceptance Rate": 0.4281206428184247,
+      "Link": "https://leetcode.com/problems/word-ladder",
+      "Topics": "Hash Table, String, Breadth-First Search"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5927711651861731,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Number of 1 Bits",
+      "Frequency": 96.0,
+      "Acceptance Rate": 0.7450480575885099,
+      "Link": "https://leetcode.com/problems/number-of-1-bits",
+      "Topics": "Divide and Conquer, Bit Manipulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Ladder",
+      "Frequency": 75.9,
+      "Acceptance Rate": 0.4281206428184247,
+      "Link": "https://leetcode.com/problems/word-ladder",
+      "Topics": "Hash Table, String, Breadth-First Search"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Number of 1 Bits",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7450480575885099,
+      "Link": "https://leetcode.com/problems/number-of-1-bits",
+      "Topics": "Divide and Conquer, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 83.9,
+      "Acceptance Rate": 0.5927711651861731,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Ladder",
+      "Frequency": 73.5,
+      "Acceptance Rate": 0.4281206428184247,
+      "Link": "https://leetcode.com/problems/word-ladder",
+      "Topics": "Hash Table, String, Breadth-First Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Kth Largest Element in a Stream",
+      "Frequency": 65.3,
+      "Acceptance Rate": 0.5985300600121747,
+      "Link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+      "Topics": "Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Event Emitter",
+      "Frequency": 65.3,
+      "Acceptance Rate": 0.7448014383989994,
+      "Link": "https://leetcode.com/problems/event-emitter",
+      "Topics": NaN
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Number of 1 Bits",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7450480575885099,
+      "Link": "https://leetcode.com/problems/number-of-1-bits",
+      "Topics": "Divide and Conquer, Bit Manipulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Words",
+      "Frequency": 92.6,
+      "Acceptance Rate": 0.5927711651861731,
+      "Link": "https://leetcode.com/problems/top-k-frequent-words",
+      "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Ladder",
+      "Frequency": 77.0,
+      "Acceptance Rate": 0.4281206428184247,
+      "Link": "https://leetcode.com/problems/word-ladder",
+      "Topics": "Hash Table, String, Breadth-First Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Kth Largest Element in a Stream",
+      "Frequency": 66.8,
+      "Acceptance Rate": 0.5985300600121747,
+      "Link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+      "Topics": "Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Event Emitter",
+      "Frequency": 58.8,
+      "Acceptance Rate": 0.7448014383989994,
+      "Link": "https://leetcode.com/problems/event-emitter",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Redundant Connection",
+      "Frequency": 58.8,
+      "Acceptance Rate": 0.6645611638154983,
+      "Link": "https://leetcode.com/problems/redundant-connection",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4548726531141006,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Array Changes to Make Differences Equal",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2336824341092966,
+      "Link": "https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal",
+      "Topics": "Array, Hash Table, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Number of Good Pairs II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2609128849118322,
+      "Link": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find the Number of Good Pairs I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8565227850351946,
+      "Link": "https://leetcode.com/problems/find-the-number-of-good-pairs-i",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Number of Good Pairs II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2609128849118322,
+      "Link": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Find the Number of Good Pairs I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8565227850351946,
+      "Link": "https://leetcode.com/problems/find-the-number-of-good-pairs-i",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Array Changes to Make Differences Equal",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2336824341092966,
+      "Link": "https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal",
+      "Topics": "Array, Hash Table, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 65.7,
+      "Acceptance Rate": 0.4548726079246024,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 65.7,
+      "Acceptance Rate": 0.5578039566314058,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6385757633103413,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Palindromic Substrings",
+      "Frequency": 89.5,
+      "Acceptance Rate": 0.716780342298775,
+      "Link": "https://leetcode.com/problems/palindromic-substrings",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Additive Number",
+      "Frequency": 89.5,
+      "Acceptance Rate": 0.3254622700270529,
+      "Link": "https://leetcode.com/problems/additive-number",
+      "Topics": "String, Backtracking"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6385757633103413,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Additive Number",
+      "Frequency": 92.8,
+      "Acceptance Rate": 0.3254622700270529,
+      "Link": "https://leetcode.com/problems/additive-number",
+      "Topics": "String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 89.1,
+      "Acceptance Rate": 0.5393983473936499,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 84.5,
+      "Acceptance Rate": 0.4232287912473047,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Self Dividing Numbers",
+      "Frequency": 74.9,
+      "Acceptance Rate": 0.7962262980034188,
+      "Link": "https://leetcode.com/problems/self-dividing-numbers",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 70.3,
+      "Acceptance Rate": 0.4526704051416151,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Angle Between Hands of a Clock",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.6421501908804211,
+      "Link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 56.1,
+      "Acceptance Rate": 0.3693615818367021,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Stepping Numbers",
+      "Frequency": 56.1,
+      "Acceptance Rate": 0.4766837034691754,
+      "Link": "https://leetcode.com/problems/stepping-numbers",
+      "Topics": "Math, Backtracking, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Bulls and Cows",
+      "Frequency": 56.1,
+      "Acceptance Rate": 0.5138576872462376,
+      "Link": "https://leetcode.com/problems/bulls-and-cows",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 56.1,
+      "Acceptance Rate": 0.5577701741164135,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Additive Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3254622700270529,
+      "Link": "https://leetcode.com/problems/additive-number",
+      "Topics": "String, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 98.1,
+      "Acceptance Rate": 0.6385757633103413,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Self Dividing Numbers",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.7962262980034188,
+      "Link": "https://leetcode.com/problems/self-dividing-numbers",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 85.9,
+      "Acceptance Rate": 0.5393983473936499,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Stepping Numbers",
+      "Frequency": 84.0,
+      "Acceptance Rate": 0.4766837034691754,
+      "Link": "https://leetcode.com/problems/stepping-numbers",
+      "Topics": "Math, Backtracking, Breadth-First Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 81.8,
+      "Acceptance Rate": 0.4232287912473047,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Search",
+      "Frequency": 65.3,
+      "Acceptance Rate": 0.4526704051416151,
+      "Link": "https://leetcode.com/problems/word-search",
+      "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Angle Between Hands of a Clock",
+      "Frequency": 65.3,
+      "Acceptance Rate": 0.6421501908804211,
+      "Link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 59.5,
+      "Acceptance Rate": 0.5577701741164135,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 51.3,
+      "Acceptance Rate": 0.3693615818367021,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Bulls and Cows",
+      "Frequency": 51.3,
+      "Acceptance Rate": 0.5138576872462376,
+      "Link": "https://leetcode.com/problems/bulls-and-cows",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Palindromic Substrings",
+      "Frequency": 51.3,
+      "Acceptance Rate": 0.716780342298775,
+      "Link": "https://leetcode.com/problems/palindromic-substrings",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    }
+  ]
+}

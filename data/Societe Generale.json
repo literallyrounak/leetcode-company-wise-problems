@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525974690146599,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Swaps to Make the Binary String Alternating",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4346327805298298,
+      "Link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating",
+      "Topics": "String, Greedy"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Swaps to Make the Binary String Alternating",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4346327805298298,
+      "Link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating",
+      "Topics": "String, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 66.3,
+      "Acceptance Rate": 0.5525974690146599,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ]
+}

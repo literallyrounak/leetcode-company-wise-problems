@@ -1,0 +1,33 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Subarray With Elements Greater Than Varying Threshold",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4452242905096124,
+      "Link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+      "Topics": "Array, Stack, Union Find, Monotonic Stack"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Subarray With Elements Greater Than Varying Threshold",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4452242905096124,
+      "Link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+      "Topics": "Array, Stack, Union Find, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Implement Trie (Prefix Tree)",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.679348945252679,
+      "Link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "Topics": "Hash Table, String, Design, Trie"
+    }
+  ]
+}

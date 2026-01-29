@@ -1,0 +1,114 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Backspace String Compare",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.49481803728999,
+      "Link": "https://leetcode.com/problems/backspace-string-compare",
+      "Topics": "Two Pointers, String, Stack, Simulation"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5160684284381445,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Airplane Seat Assignment Probability",
+      "Frequency": 78.5,
+      "Acceptance Rate": 0.6665048936342312,
+      "Link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+      "Topics": "Math, Dynamic Programming, Brainteaser, Probability and Statistics"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Backspace String Compare",
+      "Frequency": 78.5,
+      "Acceptance Rate": 0.49481803728999,
+      "Link": "https://leetcode.com/problems/backspace-string-compare",
+      "Topics": "Two Pointers, String, Stack, Simulation"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Airplane Seat Assignment Probability",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6665048936342312,
+      "Link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+      "Topics": "Math, Dynamic Programming, Brainteaser, Probability and Statistics"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Zigzag Conversion",
+      "Frequency": 85.2,
+      "Acceptance Rate": 0.5160684284381445,
+      "Link": "https://leetcode.com/problems/zigzag-conversion",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Backspace String Compare",
+      "Frequency": 80.4,
+      "Acceptance Rate": 0.49481803728999,
+      "Link": "https://leetcode.com/problems/backspace-string-compare",
+      "Topics": "Two Pointers, String, Stack, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Top K Frequent Elements",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.6456605377303972,
+      "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.5525969471064145,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Battleships in a Board",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.7655996014075296,
+      "Link": "https://leetcode.com/problems/battleships-in-a-board",
+      "Topics": "Array, Depth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Ways to Build Sturdy Brick Wall",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.494820388599701,
+      "Link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall",
+      "Topics": "Array, Dynamic Programming, Bit Manipulation, Bitmask"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Permutations",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.8066027210491278,
+      "Link": "https://leetcode.com/problems/permutations",
+      "Topics": "Array, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Swaps to Make the String Balanced",
+      "Frequency": 65.6,
+      "Acceptance Rate": 0.7796899362639167,
+      "Link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+      "Topics": "Two Pointers, String, Stack, Greedy"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Number of Visible Points",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3767605072174815,
+      "Link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+      "Topics": "Array, Math, Geometry, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 84.6,
+      "Acceptance Rate": 0.6314709369068677,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Number of Visible Points",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3767605072174815,
+      "Link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+      "Topics": "Array, Math, Geometry, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 85.0,
+      "Acceptance Rate": 0.6314709369068677,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subrectangle Queries",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8595828252176626,
+      "Link": "https://leetcode.com/problems/subrectangle-queries",
+      "Topics": "Array, Design, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Path in a Grid with Obstacles Elimination",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4560625168903702,
+      "Link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Number of Visible Points",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3767605072174815,
+      "Link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+      "Topics": "Array, Math, Geometry, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Line Reflection",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3601319248289713,
+      "Link": "https://leetcode.com/problems/line-reflection",
+      "Topics": "Array, Hash Table, Math"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subrectangle Queries",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8595828252176626,
+      "Link": "https://leetcode.com/problems/subrectangle-queries",
+      "Topics": "Array, Design, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Number of Visible Points",
+      "Frequency": 95.1,
+      "Acceptance Rate": 0.3767605072174815,
+      "Link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+      "Topics": "Array, Math, Geometry, Sliding Window, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Path in a Grid with Obstacles Elimination",
+      "Frequency": 73.6,
+      "Acceptance Rate": 0.4560625168903702,
+      "Link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 73.6,
+      "Acceptance Rate": 0.6314713208125032,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Interleaving String",
+      "Frequency": 64.8,
+      "Acceptance Rate": 0.4217918336772443,
+      "Link": "https://leetcode.com/problems/interleaving-string",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Moving Average from Data Stream",
+      "Frequency": 64.8,
+      "Acceptance Rate": 0.7993788060358533,
+      "Link": "https://leetcode.com/problems/moving-average-from-data-stream",
+      "Topics": "Array, Design, Queue, Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Interval List Intersections",
+      "Frequency": 64.8,
+      "Acceptance Rate": 0.7267722226057262,
+      "Link": "https://leetcode.com/problems/interval-list-intersections",
+      "Topics": "Array, Two Pointers, Line Sweep"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Line Reflection",
+      "Frequency": 64.8,
+      "Acceptance Rate": 0.3601319248289713,
+      "Link": "https://leetcode.com/problems/line-reflection",
+      "Topics": "Array, Hash Table, Math"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Sliding Window Maximum",
+      "Frequency": 64.8,
+      "Acceptance Rate": 0.4760411733705058,
+      "Link": "https://leetcode.com/problems/sliding-window-maximum",
+      "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+    }
+  ]
+}

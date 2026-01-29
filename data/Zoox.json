@@ -1,0 +1,147 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "String Compression",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5809147253686685,
+      "Link": "https://leetcode.com/problems/string-compression",
+      "Topics": "Two Pointers, String"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525969245782094,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotting Oranges",
+      "Frequency": 79.6,
+      "Acceptance Rate": 0.566186375137294,
+      "Link": "https://leetcode.com/problems/rotting-oranges",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "String Compression",
+      "Frequency": 79.6,
+      "Acceptance Rate": 0.5809147253686685,
+      "Link": "https://leetcode.com/problems/string-compression",
+      "Topics": "Two Pointers, String"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525969245782094,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Frogs Croaking",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.5078628152543851,
+      "Link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking",
+      "Topics": "String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Basic Calculator II",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.4581173080242341,
+      "Link": "https://leetcode.com/problems/basic-calculator-ii",
+      "Topics": "Math, String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "H-Index",
+      "Frequency": 64.9,
+      "Acceptance Rate": 0.4028680134601828,
+      "Link": "https://leetcode.com/problems/h-index",
+      "Topics": "Array, Sorting, Counting Sort"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5525969245782094,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Number of Frogs Croaking",
+      "Frequency": 72.5,
+      "Acceptance Rate": 0.5078628152543851,
+      "Link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking",
+      "Topics": "String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Basic Calculator II",
+      "Frequency": 72.5,
+      "Acceptance Rate": 0.4581173080242341,
+      "Link": "https://leetcode.com/problems/basic-calculator-ii",
+      "Topics": "Math, String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "H-Index",
+      "Frequency": 58.8,
+      "Acceptance Rate": 0.4028680134601828,
+      "Link": "https://leetcode.com/problems/h-index",
+      "Topics": "Array, Sorting, Counting Sort"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "4Sum",
+      "Frequency": 58.8,
+      "Acceptance Rate": 0.3821904958109747,
+      "Link": "https://leetcode.com/problems/4sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotting Oranges",
+      "Frequency": 58.8,
+      "Acceptance Rate": 0.566186375137294,
+      "Link": "https://leetcode.com/problems/rotting-oranges",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Fibonacci Number",
+      "Frequency": 58.8,
+      "Acceptance Rate": 0.7294495999148303,
+      "Link": "https://leetcode.com/problems/fibonacci-number",
+      "Topics": "Math, Dynamic Programming, Recursion, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design Circular Queue",
+      "Frequency": 58.8,
+      "Acceptance Rate": 0.5264455900606018,
+      "Link": "https://leetcode.com/problems/design-circular-queue",
+      "Topics": "Array, Linked List, Design, Queue"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "String Compression",
+      "Frequency": 58.8,
+      "Acceptance Rate": 0.5809147253686685,
+      "Link": "https://leetcode.com/problems/string-compression",
+      "Topics": "Two Pointers, String"
+    }
+  ]
+}

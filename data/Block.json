@@ -1,0 +1,233 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Design a Text Editor",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4713807144713662,
+      "Link": "https://leetcode.com/problems/design-a-text-editor",
+      "Topics": "Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Implement Trie (Prefix Tree)",
+      "Frequency": 92.3,
+      "Acceptance Rate": 0.6793489174940865,
+      "Link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "Topics": "Hash Table, String, Design, Trie"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Integer to English Words",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.3435478950195029,
+      "Link": "https://leetcode.com/problems/integer-to-english-words",
+      "Topics": "Math, String, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "The Maze",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.5951548421014023,
+      "Link": "https://leetcode.com/problems/the-maze",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Walking Robot Simulation II",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.2507536943378198,
+      "Link": "https://leetcode.com/problems/walking-robot-simulation-ii",
+      "Topics": "Design, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Nice Pairs in an Array",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.4853582921277765,
+      "Link": "https://leetcode.com/problems/count-nice-pairs-in-an-array",
+      "Topics": "Array, Hash Table, Math, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Black Blocks",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.3861732264480743,
+      "Link": "https://leetcode.com/problems/number-of-black-blocks",
+      "Topics": "Array, Hash Table, Enumeration"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.4827380427522254,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pancake Sorting",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.7119131096022234,
+      "Link": "https://leetcode.com/problems/pancake-sorting",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Available Captures for Rook",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.7036967165251763,
+      "Link": "https://leetcode.com/problems/available-captures-for-rook",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotating the Box",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.7909813050714205,
+      "Link": "https://leetcode.com/problems/rotating-the-box",
+      "Topics": "Array, Two Pointers, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Falling Squares",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.4628826064723501,
+      "Link": "https://leetcode.com/problems/falling-squares",
+      "Topics": "Array, Segment Tree, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Squirrel Simulation",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.572498298162015,
+      "Link": "https://leetcode.com/problems/squirrel-simulation",
+      "Topics": "Array, Math"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Search II",
+      "Frequency": 81.4,
+      "Acceptance Rate": 0.3732635590067386,
+      "Link": "https://leetcode.com/problems/word-search-ii",
+      "Topics": "Array, String, Backtracking, Trie, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotating the Box",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7909813050714205,
+      "Link": "https://leetcode.com/problems/rotating-the-box",
+      "Topics": "Array, Two Pointers, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Available Captures for Rook",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.7036967165251763,
+      "Link": "https://leetcode.com/problems/available-captures-for-rook",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Squirrel Simulation",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.572498298162015,
+      "Link": "https://leetcode.com/problems/squirrel-simulation",
+      "Topics": "Array, Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Walking Robot Simulation II",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.2507536943378198,
+      "Link": "https://leetcode.com/problems/walking-robot-simulation-ii",
+      "Topics": "Design, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Word Break",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.4827380427522254,
+      "Link": "https://leetcode.com/problems/word-break",
+      "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Falling Squares",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.4628826064723501,
+      "Link": "https://leetcode.com/problems/falling-squares",
+      "Topics": "Array, Segment Tree, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Black Blocks",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.3861732264480743,
+      "Link": "https://leetcode.com/problems/number-of-black-blocks",
+      "Topics": "Array, Hash Table, Enumeration"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Nice Pairs in an Array",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.4853582921277765,
+      "Link": "https://leetcode.com/problems/count-nice-pairs-in-an-array",
+      "Topics": "Array, Hash Table, Math, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pancake Sorting",
+      "Frequency": 97.8,
+      "Acceptance Rate": 0.7119131096022234,
+      "Link": "https://leetcode.com/problems/pancake-sorting",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Design a Text Editor",
+      "Frequency": 76.2,
+      "Acceptance Rate": 0.4713807144713662,
+      "Link": "https://leetcode.com/problems/design-a-text-editor",
+      "Topics": "Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Implement Trie (Prefix Tree)",
+      "Frequency": 69.5,
+      "Acceptance Rate": 0.6793489174940865,
+      "Link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "Topics": "Hash Table, String, Design, Trie"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Integer to English Words",
+      "Frequency": 60.0,
+      "Acceptance Rate": 0.3435478950195029,
+      "Link": "https://leetcode.com/problems/integer-to-english-words",
+      "Topics": "Math, String, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "The Maze",
+      "Frequency": 60.0,
+      "Acceptance Rate": 0.5951548421014023,
+      "Link": "https://leetcode.com/problems/the-maze",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Search II",
+      "Frequency": 60.0,
+      "Acceptance Rate": 0.3732635590067386,
+      "Link": "https://leetcode.com/problems/word-search-ii",
+      "Topics": "Array, String, Backtracking, Trie, Matrix"
+    }
+  ]
+}

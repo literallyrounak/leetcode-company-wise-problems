@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Smallest Range Covering Elements from K Lists",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6974870380867287,
+      "Link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+      "Topics": "Array, Hash Table, Greedy, Sliding Window, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Regular Expression Matching",
+      "Frequency": 83.2,
+      "Acceptance Rate": 0.2928268383935121,
+      "Link": "https://leetcode.com/problems/regular-expression-matching",
+      "Topics": "String, Dynamic Programming, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Domino and Tromino Tiling",
+      "Frequency": 83.2,
+      "Acceptance Rate": 0.5197644582417179,
+      "Link": "https://leetcode.com/problems/domino-and-tromino-tiling",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "IPO",
+      "Frequency": 83.2,
+      "Acceptance Rate": 0.5301837830703748,
+      "Link": "https://leetcode.com/problems/ipo",
+      "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Smallest Range Covering Elements from K Lists",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6974870380867287,
+      "Link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+      "Topics": "Array, Hash Table, Greedy, Sliding Window, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Regular Expression Matching",
+      "Frequency": 83.1,
+      "Acceptance Rate": 0.2928268383935121,
+      "Link": "https://leetcode.com/problems/regular-expression-matching",
+      "Topics": "String, Dynamic Programming, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Domino and Tromino Tiling",
+      "Frequency": 83.1,
+      "Acceptance Rate": 0.5197644582417179,
+      "Link": "https://leetcode.com/problems/domino-and-tromino-tiling",
+      "Topics": "Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "IPO",
+      "Frequency": 83.1,
+      "Acceptance Rate": 0.5301837830703748,
+      "Link": "https://leetcode.com/problems/ipo",
+      "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+    }
+  ]
+}

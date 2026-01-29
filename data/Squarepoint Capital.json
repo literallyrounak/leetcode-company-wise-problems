@@ -1,0 +1,106 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Frog Jump",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4655846450889997,
+      "Link": "https://leetcode.com/problems/frog-jump",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5780838483252219,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Frog Jump",
+      "Frequency": 89.4,
+      "Acceptance Rate": 0.4655846450889997,
+      "Link": "https://leetcode.com/problems/frog-jump",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search Suggestions System",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.650502807389667,
+      "Link": "https://leetcode.com/problems/search-suggestions-system",
+      "Topics": "Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 86.4,
+      "Acceptance Rate": 0.5525963622704052,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subarray Product Less Than K",
+      "Frequency": 86.4,
+      "Acceptance Rate": 0.5285349907277894,
+      "Link": "https://leetcode.com/problems/subarray-product-less-than-k",
+      "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Insertion Steps to Make a String Palindrome",
+      "Frequency": 69.5,
+      "Acceptance Rate": 0.7242938226969341,
+      "Link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Coin Change",
+      "Frequency": 69.5,
+      "Acceptance Rate": 0.4649557971017352,
+      "Link": "https://leetcode.com/problems/coin-change",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 69.5,
+      "Acceptance Rate": 0.6232010795178101,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Subarrays with K Different Integers",
+      "Frequency": 69.5,
+      "Acceptance Rate": 0.6586583697096432,
+      "Link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+      "Topics": "Array, Hash Table, Sliding Window, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 69.5,
+      "Acceptance Rate": 0.5209981132194718,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Kth Largest Element in an Array",
+      "Frequency": 69.5,
+      "Acceptance Rate": 0.6797702368478369,
+      "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+    }
+  ],
+  "5. All": []
+}

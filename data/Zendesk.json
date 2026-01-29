@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Reverse Polish Notation",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5495723545430139,
+      "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "Topics": "Array, Math, Stack"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Categorize Box According to Criteria",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3766858163729989,
+      "Link": "https://leetcode.com/problems/categorize-box-according-to-criteria",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Distribute Money to Maximum Children",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.194516964884868,
+      "Link": "https://leetcode.com/problems/distribute-money-to-maximum-children",
+      "Topics": "Math, Greedy"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Categorize Box According to Criteria",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3766858163729989,
+      "Link": "https://leetcode.com/problems/categorize-box-according-to-criteria",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Distribute Money to Maximum Children",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.194516964884868,
+      "Link": "https://leetcode.com/problems/distribute-money-to-maximum-children",
+      "Topics": "Math, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Reverse Polish Notation",
+      "Frequency": 67.3,
+      "Acceptance Rate": 0.5495723545430139,
+      "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "Topics": "Array, Math, Stack"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5214233389386647,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 94.8,
+      "Acceptance Rate": 0.452200607923341,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Meeting Rooms",
+      "Frequency": 88.1,
+      "Acceptance Rate": 0.5894747413879683,
+      "Link": "https://leetcode.com/problems/meeting-rooms",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 78.6,
+      "Acceptance Rate": 0.3585065915691926,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "Frequency": 78.6,
+      "Acceptance Rate": 0.7023805449487369,
+      "Link": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "Topics": "Array, Sliding Window"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Meeting Rooms II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5214233389386647,
+      "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 94.8,
+      "Acceptance Rate": 0.452200607923341,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Meeting Rooms",
+      "Frequency": 88.1,
+      "Acceptance Rate": 0.5894747413879683,
+      "Link": "https://leetcode.com/problems/meeting-rooms",
+      "Topics": "Array, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 78.6,
+      "Acceptance Rate": 0.3585065915691926,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "Frequency": 78.6,
+      "Acceptance Rate": 0.7023805449487369,
+      "Link": "https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "Topics": "Array, Sliding Window"
+    }
+  ]
+}

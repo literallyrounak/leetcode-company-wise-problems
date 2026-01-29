@@ -1,0 +1,114 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Sudoku",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6227694235472601,
+      "Link": "https://leetcode.com/problems/valid-sudoku",
+      "Topics": "Array, Hash Table, Matrix"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Beautiful Indices in the Given Array I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3843128232097467,
+      "Link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+      "Topics": "Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 88.0,
+      "Acceptance Rate": 0.4815035316083349,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Alternating Groups II",
+      "Frequency": 78.4,
+      "Acceptance Rate": 0.598796741801174,
+      "Link": "https://leetcode.com/problems/alternating-groups-ii",
+      "Topics": "Array, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Alternating Groups I",
+      "Frequency": 78.4,
+      "Acceptance Rate": 0.6768687963612404,
+      "Link": "https://leetcode.com/problems/alternating-groups-i",
+      "Topics": "Array, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Flowers in Full Bloom",
+      "Frequency": 78.4,
+      "Acceptance Rate": 0.5717586649550706,
+      "Link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+      "Topics": "Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Sudoku",
+      "Frequency": 78.4,
+      "Acceptance Rate": 0.6227694235472601,
+      "Link": "https://leetcode.com/problems/valid-sudoku",
+      "Topics": "Array, Hash Table, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Alternating Groups I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6768687963612404,
+      "Link": "https://leetcode.com/problems/alternating-groups-i",
+      "Topics": "Array, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Alternating Groups II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.598796741801174,
+      "Link": "https://leetcode.com/problems/alternating-groups-ii",
+      "Topics": "Array, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Beautiful Indices in the Given Array I",
+      "Frequency": 85.1,
+      "Acceptance Rate": 0.3843128232097467,
+      "Link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+      "Topics": "Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Valid Sudoku",
+      "Frequency": 85.1,
+      "Acceptance Rate": 0.6227694235472601,
+      "Link": "https://leetcode.com/problems/valid-sudoku",
+      "Topics": "Array, Hash Table, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 74.2,
+      "Acceptance Rate": 0.4815035316083349,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Flowers in Full Bloom",
+      "Frequency": 65.5,
+      "Acceptance Rate": 0.5717586649550706,
+      "Link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+      "Topics": "Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set"
+    }
+  ]
+}

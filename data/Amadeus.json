@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Watering Plants",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7995625398726679,
+      "Link": "https://leetcode.com/problems/watering-plants",
+      "Topics": "Array, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 80.5,
+      "Acceptance Rate": 0.5578040661125258,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Water Bottles",
+      "Frequency": 71.1,
+      "Acceptance Rate": 0.7064889679772526,
+      "Link": "https://leetcode.com/problems/water-bottles",
+      "Topics": "Math, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Time to Complete Trips",
+      "Frequency": 71.1,
+      "Acceptance Rate": 0.3904397351223481,
+      "Link": "https://leetcode.com/problems/minimum-time-to-complete-trips",
+      "Topics": "Array, Binary Search"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Watering Plants",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7995625398726679,
+      "Link": "https://leetcode.com/problems/watering-plants",
+      "Topics": "Array, Simulation"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 87.0,
+      "Acceptance Rate": 0.5578040661125258,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Water Bottles",
+      "Frequency": 70.8,
+      "Acceptance Rate": 0.7064889679772526,
+      "Link": "https://leetcode.com/problems/water-bottles",
+      "Topics": "Math, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Time to Complete Trips",
+      "Frequency": 70.8,
+      "Acceptance Rate": 0.3904397351223481,
+      "Link": "https://leetcode.com/problems/minimum-time-to-complete-trips",
+      "Topics": "Array, Binary Search"
+    }
+  ]
+}

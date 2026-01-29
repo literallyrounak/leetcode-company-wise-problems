@@ -1,0 +1,74 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4827853398737957,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Reducing Dishes",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7634905741624626,
+      "Link": "https://leetcode.com/problems/reducing-dishes",
+      "Topics": "Array, Dynamic Programming, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Subtree Removal Game with Fibonacci Tree",
+      "Frequency": 89.4,
+      "Acceptance Rate": 0.5698689956331878,
+      "Link": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree",
+      "Topics": "Math, Dynamic Programming, Tree, Binary Tree, Game Theory"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 89.4,
+      "Acceptance Rate": 0.5525969471064145,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Subtree Removal Game with Fibonacci Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5698689956331878,
+      "Link": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree",
+      "Topics": "Math, Dynamic Programming, Tree, Binary Tree, Game Theory"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Reducing Dishes",
+      "Frequency": 74.9,
+      "Acceptance Rate": 0.7634905741624626,
+      "Link": "https://leetcode.com/problems/reducing-dishes",
+      "Topics": "Array, Dynamic Programming, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 66.5,
+      "Acceptance Rate": 0.5525969471064145,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Random Pick with Weight",
+      "Frequency": 66.5,
+      "Acceptance Rate": 0.4827853398737957,
+      "Link": "https://leetcode.com/problems/random-pick-with-weight",
+      "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+    }
+  ]
+}

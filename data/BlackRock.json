@@ -1,0 +1,299 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Happy Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5807274040188486,
+      "Link": "https://leetcode.com/problems/happy-number",
+      "Topics": "Hash Table, Math, Two Pointers"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Happy Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5807274040188486,
+      "Link": "https://leetcode.com/problems/happy-number",
+      "Topics": "Hash Table, Math, Two Pointers"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Happy Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5807274040188486,
+      "Link": "https://leetcode.com/problems/happy-number",
+      "Topics": "Hash Table, Math, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 95.9,
+      "Acceptance Rate": 0.4232289344923429,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 84.5,
+      "Acceptance Rate": 0.6314703330107434,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subtree of the Same Color",
+      "Frequency": 73.5,
+      "Acceptance Rate": 0.5692307692307692,
+      "Link": "https://leetcode.com/problems/maximum-subtree-of-the-same-color",
+      "Topics": "Array, Dynamic Programming, Tree, Depth-First Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find the Maximum Sum of Node Values",
+      "Frequency": 73.5,
+      "Acceptance Rate": 0.6979865078996403,
+      "Link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+      "Topics": "Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pairs of Songs With Total Durations Divisible by 60",
+      "Frequency": 71.5,
+      "Acceptance Rate": 0.5324771514259002,
+      "Link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+      "Topics": "Array, Hash Table, Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 60.4,
+      "Acceptance Rate": 0.5525966208962203,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 56.3,
+      "Acceptance Rate": 0.709289019979725,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Path with Maximum Probability",
+      "Frequency": 50.9,
+      "Acceptance Rate": 0.6529407064392282,
+      "Link": "https://leetcode.com/problems/path-with-maximum-probability",
+      "Topics": "Array, Graph, Heap (Priority Queue), Shortest Path"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximize Greatness of an Array",
+      "Frequency": 43.3,
+      "Acceptance Rate": 0.5864617466875623,
+      "Link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Anagram",
+      "Frequency": 43.3,
+      "Acceptance Rate": 0.6666098845704377,
+      "Link": "https://leetcode.com/problems/valid-anagram",
+      "Topics": "Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Boundary of Binary Tree",
+      "Frequency": 43.3,
+      "Acceptance Rate": 0.4715862928790685,
+      "Link": "https://leetcode.com/problems/boundary-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Coin Change",
+      "Frequency": 43.3,
+      "Acceptance Rate": 0.4649556137047272,
+      "Link": "https://leetcode.com/problems/coin-change",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 43.3,
+      "Acceptance Rate": 0.7713291060549546,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 43.3,
+      "Acceptance Rate": 0.3584616475847028,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Profit From Trading Stocks",
+      "Frequency": 43.3,
+      "Acceptance Rate": 0.4659311012728279,
+      "Link": "https://leetcode.com/problems/maximum-profit-from-trading-stocks",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 43.3,
+      "Acceptance Rate": 0.6232011028511795,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Happy Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5807274040188486,
+      "Link": "https://leetcode.com/problems/happy-number",
+      "Topics": "Hash Table, Math, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Parentheses",
+      "Frequency": 94.0,
+      "Acceptance Rate": 0.4232289344923429,
+      "Link": "https://leetcode.com/problems/valid-parentheses",
+      "Topics": "String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Evaluate Division",
+      "Frequency": 82.3,
+      "Acceptance Rate": 0.6314703330107434,
+      "Link": "https://leetcode.com/problems/evaluate-division",
+      "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find the Maximum Sum of Node Values",
+      "Frequency": 73.2,
+      "Acceptance Rate": 0.6979865078996403,
+      "Link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+      "Topics": "Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Pairs of Songs With Total Durations Divisible by 60",
+      "Frequency": 71.4,
+      "Acceptance Rate": 0.5324771514259002,
+      "Link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+      "Topics": "Array, Hash Table, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subtree of the Same Color",
+      "Frequency": 71.4,
+      "Acceptance Rate": 0.5692307692307692,
+      "Link": "https://leetcode.com/problems/maximum-subtree-of-the-same-color",
+      "Topics": "Array, Dynamic Programming, Tree, Depth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Group Anagrams",
+      "Frequency": 58.6,
+      "Acceptance Rate": 0.709289019979725,
+      "Link": "https://leetcode.com/problems/group-anagrams",
+      "Topics": "Array, Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 58.6,
+      "Acceptance Rate": 0.5525966208962203,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Path with Maximum Probability",
+      "Frequency": 49.2,
+      "Acceptance Rate": 0.6529407064392282,
+      "Link": "https://leetcode.com/problems/path-with-maximum-probability",
+      "Topics": "Array, Graph, Heap (Priority Queue), Shortest Path"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Profit From Trading Stocks",
+      "Frequency": 49.2,
+      "Acceptance Rate": 0.4659311012728279,
+      "Link": "https://leetcode.com/problems/maximum-profit-from-trading-stocks",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Islands",
+      "Frequency": 41.7,
+      "Acceptance Rate": 0.6232011028511795,
+      "Link": "https://leetcode.com/problems/number-of-islands",
+      "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Anagram",
+      "Frequency": 41.7,
+      "Acceptance Rate": 0.6666099304442351,
+      "Link": "https://leetcode.com/problems/valid-anagram",
+      "Topics": "Hash Table, String, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Coin Change",
+      "Frequency": 41.7,
+      "Acceptance Rate": 0.4649556137047272,
+      "Link": "https://leetcode.com/problems/coin-change",
+      "Topics": "Array, Dynamic Programming, Breadth-First Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Generate Parentheses",
+      "Frequency": 41.7,
+      "Acceptance Rate": 0.7713291060549546,
+      "Link": "https://leetcode.com/problems/generate-parentheses",
+      "Topics": "String, Dynamic Programming, Backtracking"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximize Greatness of an Array",
+      "Frequency": 41.7,
+      "Acceptance Rate": 0.5864617466875623,
+      "Link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Boundary of Binary Tree",
+      "Frequency": 41.7,
+      "Acceptance Rate": 0.4715862928790685,
+      "Link": "https://leetcode.com/problems/boundary-of-binary-tree",
+      "Topics": "Tree, Depth-First Search, Binary Tree"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 41.7,
+      "Acceptance Rate": 0.3584616475847028,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    }
+  ]
+}

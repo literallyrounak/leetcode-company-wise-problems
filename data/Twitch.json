@@ -1,0 +1,131 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5327801472952072,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5327801472952072,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4521484728871755,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design a File Sharing System",
+      "Frequency": 72.3,
+      "Acceptance Rate": 0.4217279076829638,
+      "Link": "https://leetcode.com/problems/design-a-file-sharing-system",
+      "Topics": "Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Create a Session Bar Chart",
+      "Frequency": 72.3,
+      "Acceptance Rate": 0.750556206088993,
+      "Link": "https://leetcode.com/problems/create-a-session-bar-chart",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Toss Strange Coins",
+      "Frequency": 72.3,
+      "Acceptance Rate": 0.5813783755604213,
+      "Link": "https://leetcode.com/problems/toss-strange-coins",
+      "Topics": "Array, Math, Dynamic Programming, Probability and Statistics"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 72.3,
+      "Acceptance Rate": 0.6385759218994662,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Create a Session Bar Chart",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.750556206088993,
+      "Link": "https://leetcode.com/problems/create-a-session-bar-chart",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Design a File Sharing System",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4217279076829638,
+      "Link": "https://leetcode.com/problems/design-a-file-sharing-system",
+      "Topics": "Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Toss Strange Coins",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5813783755604213,
+      "Link": "https://leetcode.com/problems/toss-strange-coins",
+      "Topics": "Array, Math, Dynamic Programming, Probability and Statistics"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 92.1,
+      "Acceptance Rate": 0.4521484728871755,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Vowels of a String",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.5818746518118435,
+      "Link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+      "Topics": "Two Pointers, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Letter Combinations of a Phone Number",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.6385759218994662,
+      "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "Topics": "Hash Table, String, Backtracking"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Unique Email Addresses",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.6758621291144098,
+      "Link": "https://leetcode.com/problems/unique-email-addresses",
+      "Topics": "Array, Hash Table, String"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Median from Data Stream",
+      "Frequency": 64.4,
+      "Acceptance Rate": 0.5327801472952072,
+      "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+    }
+  ]
+}

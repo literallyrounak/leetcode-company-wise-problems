@@ -1,0 +1,187 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Asteroid Collision",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4550073716153288,
+      "Link": "https://leetcode.com/problems/asteroid-collision",
+      "Topics": "Array, Stack, Simulation"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Asteroid Collision",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4550073716153288,
+      "Link": "https://leetcode.com/problems/asteroid-collision",
+      "Topics": "Array, Stack, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Partition Equal Subset Sum",
+      "Frequency": 83.0,
+      "Acceptance Rate": 0.4844393368677416,
+      "Link": "https://leetcode.com/problems/partition-equal-subset-sum",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Furthest Building You Can Reach",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5037105972749183,
+      "Link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+      "Topics": "Array, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Common Supersequence ",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.6132098086836925,
+      "Link": "https://leetcode.com/problems/shortest-common-supersequence",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Falling Path Sum",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.6143995522039412,
+      "Link": "https://leetcode.com/problems/minimum-falling-path-sum",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Final Prices With a Special Discount in a Shop",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.8330161578030366,
+      "Link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Gas Station",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.4638358684554832,
+      "Link": "https://leetcode.com/problems/gas-station",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.3707112712968184,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Ways to Select Buildings",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.5047505427656327,
+      "Link": "https://leetcode.com/problems/number-of-ways-to-select-buildings",
+      "Topics": "String, Dynamic Programming, Prefix Sum"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+      "Frequency": 87.9,
+      "Acceptance Rate": 0.724276749873114,
+      "Link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "Topics": "Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Final Prices With a Special Discount in a Shop",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8330161578030366,
+      "Link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
+      "Topics": "Array, Stack, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Asteroid Collision",
+      "Frequency": 78.8,
+      "Acceptance Rate": 0.4550073716153288,
+      "Link": "https://leetcode.com/problems/asteroid-collision",
+      "Topics": "Array, Stack, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Furthest Building You Can Reach",
+      "Frequency": 72.2,
+      "Acceptance Rate": 0.5037105972749183,
+      "Link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+      "Topics": "Array, Greedy, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Gas Station",
+      "Frequency": 72.2,
+      "Acceptance Rate": 0.4638358684554832,
+      "Link": "https://leetcode.com/problems/gas-station",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "3Sum",
+      "Frequency": 72.2,
+      "Acceptance Rate": 0.3707112712968184,
+      "Link": "https://leetcode.com/problems/3sum",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+      "Frequency": 72.2,
+      "Acceptance Rate": 0.724276749873114,
+      "Link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "Topics": "Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Falling Path Sum",
+      "Frequency": 62.8,
+      "Acceptance Rate": 0.6143995522039412,
+      "Link": "https://leetcode.com/problems/minimum-falling-path-sum",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Shortest Common Supersequence ",
+      "Frequency": 62.8,
+      "Acceptance Rate": 0.6132098086836925,
+      "Link": "https://leetcode.com/problems/shortest-common-supersequence",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Ways to Select Buildings",
+      "Frequency": 62.8,
+      "Acceptance Rate": 0.5047505427656327,
+      "Link": "https://leetcode.com/problems/number-of-ways-to-select-buildings",
+      "Topics": "String, Dynamic Programming, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Partition Equal Subset Sum",
+      "Frequency": 62.8,
+      "Acceptance Rate": 0.4844393368677416,
+      "Link": "https://leetcode.com/problems/partition-equal-subset-sum",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Path Sum",
+      "Frequency": 62.8,
+      "Acceptance Rate": 0.6648161041583261,
+      "Link": "https://leetcode.com/problems/minimum-path-sum",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    }
+  ]
+}

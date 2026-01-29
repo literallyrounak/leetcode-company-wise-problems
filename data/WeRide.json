@@ -1,0 +1,131 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Profit in Job Scheduling",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5441746135165552,
+      "Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+      "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Swim in Rising Water",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6285273239373714,
+      "Link": "https://leetcode.com/problems/swim-in-rising-water",
+      "Topics": "Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximize Greatness of an Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5864617466875623,
+      "Link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Profit in Job Scheduling",
+      "Frequency": 79.9,
+      "Acceptance Rate": 0.5441746135165552,
+      "Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+      "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Swim in Rising Water",
+      "Frequency": 79.9,
+      "Acceptance Rate": 0.6285273239373714,
+      "Link": "https://leetcode.com/problems/swim-in-rising-water",
+      "Topics": "Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 79.9,
+      "Acceptance Rate": 0.4815035316083349,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Longest Increasing Path in a Matrix",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5534762586302827,
+      "Link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+      "Topics": "Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Edges in Shortest Paths",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.4555747851339063,
+      "Link": "https://leetcode.com/problems/find-edges-in-shortest-paths",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Profit in Job Scheduling",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.5441746135165552,
+      "Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+      "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Edges in Shortest Paths",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4555747851339063,
+      "Link": "https://leetcode.com/problems/find-edges-in-shortest-paths",
+      "Topics": "Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximize Greatness of an Array",
+      "Frequency": 85.3,
+      "Acceptance Rate": 0.5864617466875623,
+      "Link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+      "Topics": "Array, Two Pointers, Greedy, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Profit in Job Scheduling",
+      "Frequency": 80.6,
+      "Acceptance Rate": 0.5441746135165552,
+      "Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+      "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Longest Increasing Path in a Matrix",
+      "Frequency": 74.5,
+      "Acceptance Rate": 0.5534762586302827,
+      "Link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+      "Topics": "Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Swim in Rising Water",
+      "Frequency": 65.9,
+      "Acceptance Rate": 0.6285273239373714,
+      "Link": "https://leetcode.com/problems/swim-in-rising-water",
+      "Topics": "Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Text Justification",
+      "Frequency": 65.9,
+      "Acceptance Rate": 0.4815035316083349,
+      "Link": "https://leetcode.com/problems/text-justification",
+      "Topics": "Array, String, Simulation"
+    }
+  ]
+}

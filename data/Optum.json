@@ -1,0 +1,89 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.369361751246902,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Prefix of Word",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8640862043780388,
+      "Link": "https://leetcode.com/problems/reverse-prefix-of-word",
+      "Topics": "Two Pointers, String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Bank Account Summary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5198933705373826,
+      "Link": "https://leetcode.com/problems/bank-account-summary",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Common Subsequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5824928688554429,
+      "Link": "https://leetcode.com/problems/longest-common-subsequence",
+      "Topics": "String, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Reverse Prefix of Word",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8640862043780388,
+      "Link": "https://leetcode.com/problems/reverse-prefix-of-word",
+      "Topics": "Two Pointers, String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Bank Account Summary",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5198933705373826,
+      "Link": "https://leetcode.com/problems/bank-account-summary",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Common Subsequence",
+      "Frequency": 73.3,
+      "Acceptance Rate": 0.5824928688554429,
+      "Link": "https://leetcode.com/problems/longest-common-subsequence",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 64.3,
+      "Acceptance Rate": 0.369361751246902,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Sort Colors",
+      "Frequency": 64.3,
+      "Acceptance Rate": 0.6758312202626855,
+      "Link": "https://leetcode.com/problems/sort-colors",
+      "Topics": "Array, Two Pointers, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Subarray",
+      "Frequency": 64.3,
+      "Acceptance Rate": 0.5209992241964507,
+      "Link": "https://leetcode.com/problems/maximum-subarray",
+      "Topics": "Array, Divide and Conquer, Dynamic Programming"
+    }
+  ]
+}

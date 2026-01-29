@@ -1,0 +1,49 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Pairs in Two Arrays",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6015575998327409,
+      "Link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+      "Topics": "Array, Two Pointers, Binary Search, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Candy",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4669990512422267,
+      "Link": "https://leetcode.com/problems/candy",
+      "Topics": "Array, Greedy"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Pairs in Two Arrays",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6015575998327409,
+      "Link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+      "Topics": "Array, Two Pointers, Binary Search, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Candy",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4669990512422267,
+      "Link": "https://leetcode.com/problems/candy",
+      "Topics": "Array, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Merge Two Sorted Lists",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6684110044467867,
+      "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "Topics": "Linked List, Recursion"
+    }
+  ]
+}

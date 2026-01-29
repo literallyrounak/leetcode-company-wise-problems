@@ -1,0 +1,106 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Permutation Sequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4994318658519785,
+      "Link": "https://leetcode.com/problems/permutation-sequence",
+      "Topics": "Math, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Happy Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.580727274965834,
+      "Link": "https://leetcode.com/problems/happy-number",
+      "Topics": "Hash Table, Math, Two Pointers"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Best Time to Buy and Sell Stock IV",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4708632632828892,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Happy Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.580727274965834,
+      "Link": "https://leetcode.com/problems/happy-number",
+      "Topics": "Hash Table, Math, Two Pointers"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Check If It Is a Good Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6136115712496465,
+      "Link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+      "Topics": "Array, Math, Number Theory"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Subtree of Another Tree",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4998483394921633,
+      "Link": "https://leetcode.com/problems/subtree-of-another-tree",
+      "Topics": "Tree, Depth-First Search, String Matching, Binary Tree, Hash Function"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Happy Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.580727274965834,
+      "Link": "https://leetcode.com/problems/happy-number",
+      "Topics": "Hash Table, Math, Two Pointers"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Check If It Is a Good Array",
+      "Frequency": 82.8,
+      "Acceptance Rate": 0.6136115712496465,
+      "Link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+      "Topics": "Array, Math, Number Theory"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Best Time to Buy and Sell Stock IV",
+      "Frequency": 82.8,
+      "Acceptance Rate": 0.4708632632828892,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Subtree of Another Tree",
+      "Frequency": 82.8,
+      "Acceptance Rate": 0.4998483394921633,
+      "Link": "https://leetcode.com/problems/subtree-of-another-tree",
+      "Topics": "Tree, Depth-First Search, String Matching, Binary Tree, Hash Function"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Largest Combination With Bitwise AND Greater Than Zero",
+      "Frequency": 82.8,
+      "Acceptance Rate": 0.808988824327877,
+      "Link": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
+      "Topics": "Array, Hash Table, Bit Manipulation, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Permutation Sequence",
+      "Frequency": 82.8,
+      "Acceptance Rate": 0.4994318658519785,
+      "Link": "https://leetcode.com/problems/permutation-sequence",
+      "Topics": "Math, Recursion"
+    }
+  ]
+}

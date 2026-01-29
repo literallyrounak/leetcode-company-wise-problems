@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Min Stack",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5644523506962699,
+      "Link": "https://leetcode.com/problems/min-stack",
+      "Topics": "Stack, Design"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Integer to English Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3435511087326365,
+      "Link": "https://leetcode.com/problems/integer-to-english-words",
+      "Topics": "Math, String, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Consecutive Numbers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4609716905528051,
+      "Link": "https://leetcode.com/problems/consecutive-numbers",
+      "Topics": "Database"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Integer to English Words",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3435511087326365,
+      "Link": "https://leetcode.com/problems/integer-to-english-words",
+      "Topics": "Math, String, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Min Stack",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5644523506962699,
+      "Link": "https://leetcode.com/problems/min-stack",
+      "Topics": "Stack, Design"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Consecutive Numbers",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4609716905528051,
+      "Link": "https://leetcode.com/problems/consecutive-numbers",
+      "Topics": "Database"
+    }
+  ]
+}

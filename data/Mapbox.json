@@ -1,0 +1,33 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Implement Trie (Prefix Tree)",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6793870356549373,
+      "Link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "Topics": "Hash Table, String, Design, Trie"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Sort Integers by The Number of 1 Bits",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7868465017725438,
+      "Link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+      "Topics": "Array, Bit Manipulation, Sorting, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Implement Trie (Prefix Tree)",
+      "Frequency": 72.2,
+      "Acceptance Rate": 0.6793870356549373,
+      "Link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "Topics": "Hash Table, String, Design, Trie"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6778016749535838,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6778016749535838,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Distribute Candies Among Children II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5613414290884233,
+      "Link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+      "Topics": "Math, Combinatorics, Enumeration"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Unequal Adjacent Groups Subsequence I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6756708309889311,
+      "Link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+      "Topics": "Array, String, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Harmonious Subsequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5731264149524798,
+      "Link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+      "Topics": "Array, Hash Table, Sliding Window, Sorting, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Largest 1-Bordered Square",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5109808899476603,
+      "Link": "https://leetcode.com/problems/largest-1-bordered-square",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Crawler Log Folder",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7160418239109896,
+      "Link": "https://leetcode.com/problems/crawler-log-folder",
+      "Topics": "Array, String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Managers with at Least 5 Direct Reports",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4893972447138971,
+      "Link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "The Number of Employees Which Report to Each Employee",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5215799545486316,
+      "Link": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee",
+      "Topics": "Database"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Harmonious Subsequence",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5731264149524798,
+      "Link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+      "Topics": "Array, Hash Table, Sliding Window, Sorting, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Distribute Candies Among Children II",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.5613414290884233,
+      "Link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+      "Topics": "Math, Combinatorics, Enumeration"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Unequal Adjacent Groups Subsequence I",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.6756708309889311,
+      "Link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+      "Topics": "Array, String, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Largest 1-Bordered Square",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.5109808899476603,
+      "Link": "https://leetcode.com/problems/largest-1-bordered-square",
+      "Topics": "Array, Dynamic Programming, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Crawler Log Folder",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.7160418239109896,
+      "Link": "https://leetcode.com/problems/crawler-log-folder",
+      "Topics": "Array, String, Stack"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Managers with at Least 5 Direct Reports",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.4893975992284871,
+      "Link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "The Number of Employees Which Report to Each Employee",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.5215799545486316,
+      "Link": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Nth Highest Salary",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.3803889168918484,
+      "Link": "https://leetcode.com/problems/nth-highest-salary",
+      "Topics": "Database"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Product of Array Except Self",
+      "Frequency": 88.5,
+      "Acceptance Rate": 0.6778016749535838,
+      "Link": "https://leetcode.com/problems/product-of-array-except-self",
+      "Topics": "Array, Prefix Sum"
+    }
+  ]
+}

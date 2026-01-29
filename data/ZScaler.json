@@ -1,0 +1,379 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Increment to Make Array Unique",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.603327781549441,
+      "Link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+      "Topics": "Array, Greedy, Sorting, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Ladder",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4281202394059843,
+      "Link": "https://leetcode.com/problems/word-ladder",
+      "Topics": "Hash Table, String, Breadth-First Search"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Divisible Triplet Sums",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6780637725701113,
+      "Link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Increment to Make Array Unique",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.603327781549441,
+      "Link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+      "Topics": "Array, Greedy, Sorting, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Ladder",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4281202394059843,
+      "Link": "https://leetcode.com/problems/word-ladder",
+      "Topics": "Hash Table, String, Breadth-First Search"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Optimal Account Balancing",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4993834011592058,
+      "Link": "https://leetcode.com/problems/optimal-account-balancing",
+      "Topics": "Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Robot Bounded In Circle",
+      "Frequency": 85.5,
+      "Acceptance Rate": 0.5622965278408281,
+      "Link": "https://leetcode.com/problems/robot-bounded-in-circle",
+      "Topics": "Math, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game",
+      "Frequency": 78.0,
+      "Acceptance Rate": 0.394791793831554,
+      "Link": "https://leetcode.com/problems/jump-game",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 78.0,
+      "Acceptance Rate": 0.5577700653216907,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 78.0,
+      "Acceptance Rate": 0.7790170073838115,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Degree of an Array",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.5742054384866819,
+      "Link": "https://leetcode.com/problems/degree-of-an-array",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.3693614778357465,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Moving Average from Data Stream",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.7993794551727287,
+      "Link": "https://leetcode.com/problems/moving-average-from-data-stream",
+      "Topics": "Array, Design, Queue, Data Stream"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove Duplicates from Sorted Array",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.6035567835975525,
+      "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Linked List Cycle",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.5257071813494855,
+      "Link": "https://leetcode.com/problems/linked-list-cycle",
+      "Topics": "Hash Table, Linked List, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.4548318229538721,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.4338245855956792,
+      "Link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+      "Topics": "Math, Greedy, Enumeration"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Day of the Year",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.4818085939668305,
+      "Link": "https://leetcode.com/problems/day-of-the-year",
+      "Topics": "Math, String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Largest Number After Digit Swaps by Parity",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.637345576330206,
+      "Link": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity",
+      "Topics": "Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximum Strong Pair XOR I",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.7484073520894932,
+      "Link": "https://leetcode.com/problems/maximum-strong-pair-xor-i",
+      "Topics": "Array, Hash Table, Bit Manipulation, Trie, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Strong Pair XOR II",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.3074288510152491,
+      "Link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii",
+      "Topics": "Array, Hash Table, Bit Manipulation, Trie, Sliding Window"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Smallest Divisor Given a Threshold",
+      "Frequency": 67.6,
+      "Acceptance Rate": 0.6364670242650312,
+      "Link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+      "Topics": "Array, Binary Search"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Largest Number After Digit Swaps by Parity",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.637345576330206,
+      "Link": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity",
+      "Topics": "Sorting, Heap (Priority Queue)"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Day of the Year",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4818085939668305,
+      "Link": "https://leetcode.com/problems/day-of-the-year",
+      "Topics": "Math, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4338245855956792,
+      "Link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+      "Topics": "Math, Greedy, Enumeration"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Maximum Strong Pair XOR I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7484073520894932,
+      "Link": "https://leetcode.com/problems/maximum-strong-pair-xor-i",
+      "Topics": "Array, Hash Table, Bit Manipulation, Trie, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Strong Pair XOR II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3074288510152491,
+      "Link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii",
+      "Topics": "Array, Hash Table, Bit Manipulation, Trie, Sliding Window"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Optimal Account Balancing",
+      "Frequency": 94.4,
+      "Acceptance Rate": 0.4993834011592058,
+      "Link": "https://leetcode.com/problems/optimal-account-balancing",
+      "Topics": "Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Robot Bounded In Circle",
+      "Frequency": 77.1,
+      "Acceptance Rate": 0.5622965278408281,
+      "Link": "https://leetcode.com/problems/robot-bounded-in-circle",
+      "Topics": "Math, String, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find the Smallest Divisor Given a Threshold",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.6364670242650312,
+      "Link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.5577700653216907,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Jump Game",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.3947917349128491,
+      "Link": "https://leetcode.com/problems/jump-game",
+      "Topics": "Array, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotate Image",
+      "Frequency": 69.9,
+      "Acceptance Rate": 0.7790170073838115,
+      "Link": "https://leetcode.com/problems/rotate-image",
+      "Topics": "Array, Math, Matrix"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Degree of an Array",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.5742054384866819,
+      "Link": "https://leetcode.com/problems/degree-of-an-array",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Linked List Cycle",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.5257071813494855,
+      "Link": "https://leetcode.com/problems/linked-list-cycle",
+      "Topics": "Hash Table, Linked List, Two Pointers"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Substring Without Repeating Characters",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.36936145984598,
+      "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "Topics": "Hash Table, String, Sliding Window"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Moving Average from Data Stream",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.7993794551727287,
+      "Link": "https://leetcode.com/problems/moving-average-from-data-stream",
+      "Topics": "Array, Design, Queue, Data Stream"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Remove Duplicates from Sorted Array",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.6035567835975525,
+      "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "Topics": "Array, Two Pointers"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Longest Common Prefix",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.4548318229538721,
+      "Link": "https://leetcode.com/problems/longest-common-prefix",
+      "Topics": "String, Trie"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Search in Rotated Sorted Array",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.4283727044199793,
+      "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Contains Duplicate",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.6323641669359099,
+      "Link": "https://leetcode.com/problems/contains-duplicate",
+      "Topics": "Array, Hash Table, Sorting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Palindrome Linked List",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.5585939012301956,
+      "Link": "https://leetcode.com/problems/palindrome-linked-list",
+      "Topics": "Linked List, Two Pointers, Stack, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Divisible Triplet Sums",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.6780637725701113,
+      "Link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "LRU Cache",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.4521484728871755,
+      "Link": "https://leetcode.com/problems/lru-cache",
+      "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Increment to Make Array Unique",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.603327781549441,
+      "Link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+      "Topics": "Array, Greedy, Sorting, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Word Ladder",
+      "Frequency": 59.8,
+      "Acceptance Rate": 0.4281202394059843,
+      "Link": "https://leetcode.com/problems/word-ladder",
+      "Topics": "Hash Table, String, Breadth-First Search"
+    }
+  ]
+}

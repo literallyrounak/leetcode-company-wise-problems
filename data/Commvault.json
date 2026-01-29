@@ -1,0 +1,185 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode Ways",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3653107838606811,
+      "Link": "https://leetcode.com/problems/decode-ways",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reach a Number",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4389583072143981,
+      "Link": "https://leetcode.com/problems/reach-a-number",
+      "Topics": "Math, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 93.2,
+      "Acceptance Rate": 0.5780858157770897,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Longest Increasing Subsequence",
+      "Frequency": 88.9,
+      "Acceptance Rate": 0.499092190741395,
+      "Link": "https://leetcode.com/problems/number-of-longest-increasing-subsequence",
+      "Topics": "Array, Dynamic Programming, Binary Indexed Tree, Segment Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Reverse Nodes in k-Group",
+      "Frequency": 83.7,
+      "Acceptance Rate": 0.630438836226103,
+      "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+      "Frequency": 83.7,
+      "Acceptance Rate": 0.4933856658460681,
+      "Link": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Vowel Substrings of a String",
+      "Frequency": 76.9,
+      "Acceptance Rate": 0.7148136172571481,
+      "Link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotating the Box",
+      "Frequency": 67.4,
+      "Acceptance Rate": 0.7909877072612922,
+      "Link": "https://leetcode.com/problems/rotating-the-box",
+      "Topics": "Array, Two Pointers, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 67.4,
+      "Acceptance Rate": 0.3584627378190938,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Peak Element",
+      "Frequency": 67.4,
+      "Acceptance Rate": 0.4650932158930429,
+      "Link": "https://leetcode.com/problems/find-peak-element",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 67.4,
+      "Acceptance Rate": 0.4622527265740443,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Count Vowel Substrings of a String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7148136172571481,
+      "Link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+      "Topics": "Hash Table, String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Decode Ways",
+      "Frequency": 92.9,
+      "Acceptance Rate": 0.3653107838606811,
+      "Link": "https://leetcode.com/problems/decode-ways",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Reach a Number",
+      "Frequency": 92.9,
+      "Acceptance Rate": 0.4389583072143981,
+      "Link": "https://leetcode.com/problems/reach-a-number",
+      "Topics": "Math, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Increasing Subsequence",
+      "Frequency": 86.5,
+      "Acceptance Rate": 0.5780858157770897,
+      "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "Topics": "Array, Binary Search, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Number of Longest Increasing Subsequence",
+      "Frequency": 82.5,
+      "Acceptance Rate": 0.499092190741395,
+      "Link": "https://leetcode.com/problems/number-of-longest-increasing-subsequence",
+      "Topics": "Array, Dynamic Programming, Binary Indexed Tree, Segment Tree"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Reverse Nodes in k-Group",
+      "Frequency": 77.6,
+      "Acceptance Rate": 0.630438836226103,
+      "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "Topics": "Linked List, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+      "Frequency": 77.6,
+      "Acceptance Rate": 0.4933856658460681,
+      "Link": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+      "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Rotating the Box",
+      "Frequency": 62.2,
+      "Acceptance Rate": 0.7909877072612922,
+      "Link": "https://leetcode.com/problems/rotating-the-box",
+      "Topics": "Array, Two Pointers, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Palindromic Substring",
+      "Frequency": 62.2,
+      "Acceptance Rate": 0.3584627048416074,
+      "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "Topics": "Two Pointers, String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Find Peak Element",
+      "Frequency": 62.2,
+      "Acceptance Rate": 0.4650932158930429,
+      "Link": "https://leetcode.com/problems/find-peak-element",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Add Two Numbers",
+      "Frequency": 62.2,
+      "Acceptance Rate": 0.4622527265740443,
+      "Link": "https://leetcode.com/problems/add-two-numbers",
+      "Topics": "Linked List, Math, Recursion"
+    }
+  ]
+}

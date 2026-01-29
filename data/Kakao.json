@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Moves to Reach Target with Rotations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5057383320581484,
+      "Link": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Points in an Archery Competition",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5041214995483289,
+      "Link": "https://leetcode.com/problems/maximum-points-in-an-archery-competition",
+      "Topics": "Array, Backtracking, Bit Manipulation, Enumeration"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Points in an Archery Competition",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5041214995483289,
+      "Link": "https://leetcode.com/problems/maximum-points-in-an-archery-competition",
+      "Topics": "Array, Backtracking, Bit Manipulation, Enumeration"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Minimum Moves to Reach Target with Rotations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5057383320581484,
+      "Link": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations",
+      "Topics": "Array, Breadth-First Search, Matrix"
+    }
+  ]
+}

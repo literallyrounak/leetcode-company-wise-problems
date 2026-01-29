@@ -1,0 +1,41 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Special Array II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4569399542424335,
+      "Link": "https://leetcode.com/problems/special-array-ii",
+      "Topics": "Array, Binary Search, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Special Array I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8175404452013137,
+      "Link": "https://leetcode.com/problems/special-array-i",
+      "Topics": "Array"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Special Array II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4569399542424335,
+      "Link": "https://leetcode.com/problems/special-array-ii",
+      "Topics": "Array, Binary Search, Prefix Sum"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Special Array I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.8175404452013137,
+      "Link": "https://leetcode.com/problems/special-array-i",
+      "Topics": "Array"
+    }
+  ]
+}

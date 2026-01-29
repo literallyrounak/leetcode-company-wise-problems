@@ -1,0 +1,73 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Capacity To Ship Packages Within D Days",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7213314724109039,
+      "Link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+      "Topics": "Array, Binary Search"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Get the Maximum Score",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3998538840393505,
+      "Link": "https://leetcode.com/problems/get-the-maximum-score",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Array Given Subset Sums",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4868854808657016,
+      "Link": "https://leetcode.com/problems/find-array-given-subset-sums",
+      "Topics": "Array, Divide and Conquer"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Ways to Wear Different Hats to Each Other",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4443784933471831,
+      "Link": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other",
+      "Topics": "Array, Dynamic Programming, Bit Manipulation, Bitmask"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Find Array Given Subset Sums",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4868854808657016,
+      "Link": "https://leetcode.com/problems/find-array-given-subset-sums",
+      "Topics": "Array, Divide and Conquer"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Get the Maximum Score",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3998538840393505,
+      "Link": "https://leetcode.com/problems/get-the-maximum-score",
+      "Topics": "Array, Two Pointers, Dynamic Programming, Greedy"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Ways to Wear Different Hats to Each Other",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4443784933471831,
+      "Link": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other",
+      "Topics": "Array, Dynamic Programming, Bit Manipulation, Bitmask"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Capacity To Ship Packages Within D Days",
+      "Frequency": 64.6,
+      "Acceptance Rate": 0.7213314724109039,
+      "Link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+      "Topics": "Array, Binary Search"
+    }
+  ]
+}

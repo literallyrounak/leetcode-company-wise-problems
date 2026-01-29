@@ -1,0 +1,89 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Scramble String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4218411591949826,
+      "Link": "https://leetcode.com/problems/scramble-string",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 72.4,
+      "Acceptance Rate": 0.5394614021320111,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Size Subarray Sum",
+      "Frequency": 59.1,
+      "Acceptance Rate": 0.4939438522342745,
+      "Link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+      "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Majority Element II",
+      "Frequency": 59.1,
+      "Acceptance Rate": 0.5438470001948768,
+      "Link": "https://leetcode.com/problems/majority-element-ii",
+      "Topics": "Array, Hash Table, Sorting, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Great Partitions",
+      "Frequency": 59.1,
+      "Acceptance Rate": 0.3226402936149945,
+      "Link": "https://leetcode.com/problems/number-of-great-partitions",
+      "Topics": "Array, Dynamic Programming"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Scramble String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4218411591949826,
+      "Link": "https://leetcode.com/problems/scramble-string",
+      "Topics": "String, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Spiral Matrix",
+      "Frequency": 71.5,
+      "Acceptance Rate": 0.5394612524875491,
+      "Link": "https://leetcode.com/problems/spiral-matrix",
+      "Topics": "Array, Matrix, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Majority Element II",
+      "Frequency": 58.4,
+      "Acceptance Rate": 0.5438470001948768,
+      "Link": "https://leetcode.com/problems/majority-element-ii",
+      "Topics": "Array, Hash Table, Sorting, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Number of Great Partitions",
+      "Frequency": 58.4,
+      "Acceptance Rate": 0.3226402936149945,
+      "Link": "https://leetcode.com/problems/number-of-great-partitions",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Size Subarray Sum",
+      "Frequency": 58.4,
+      "Acceptance Rate": 0.4939438522342745,
+      "Link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+      "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+    }
+  ]
+}

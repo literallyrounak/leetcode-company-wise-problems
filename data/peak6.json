@@ -1,0 +1,24 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Profit of Operating a Centennial Wheel",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4393414211438475,
+      "Link": "https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel",
+      "Topics": "Array, Simulation"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Coordinate With Maximum Network Quality",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.384309794312022,
+      "Link": "https://leetcode.com/problems/coordinate-with-maximum-network-quality",
+      "Topics": "Array, Enumeration"
+    }
+  ]
+}

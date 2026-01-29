@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3577140509982381,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 93.4,
+      "Acceptance Rate": 0.5499185337366445,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subdomain Visit Count",
+      "Frequency": 84.1,
+      "Acceptance Rate": 0.7683456932210888,
+      "Link": "https://leetcode.com/problems/subdomain-visit-count",
+      "Topics": "Array, Hash Table, String, Counting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3577140509982381,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Insert Delete GetRandom O(1)",
+      "Frequency": 95.0,
+      "Acceptance Rate": 0.5499185337366445,
+      "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "Topics": "Array, Hash Table, Math, Design, Randomized"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Subdomain Visit Count",
+      "Frequency": 79.6,
+      "Acceptance Rate": 0.7683456932210888,
+      "Link": "https://leetcode.com/problems/subdomain-visit-count",
+      "Topics": "Array, Hash Table, String, Counting"
+    }
+  ]
+}

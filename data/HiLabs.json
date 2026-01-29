@@ -1,0 +1,57 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximize the Number of Partitions After Operations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2745828069942158,
+      "Link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+      "Topics": "String, Dynamic Programming, Bit Manipulation, Bitmask"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Water Bottles",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7064832510876005,
+      "Link": "https://leetcode.com/problems/water-bottles",
+      "Topics": "Math, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Parsing A Boolean Expression",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6990305944192692,
+      "Link": "https://leetcode.com/problems/parsing-a-boolean-expression",
+      "Topics": "String, Stack, Recursion"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximize the Number of Partitions After Operations",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2745828069942158,
+      "Link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+      "Topics": "String, Dynamic Programming, Bit Manipulation, Bitmask"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Water Bottles",
+      "Frequency": 67.9,
+      "Acceptance Rate": 0.7064832510876005,
+      "Link": "https://leetcode.com/problems/water-bottles",
+      "Topics": "Math, Simulation"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Parsing A Boolean Expression",
+      "Frequency": 67.9,
+      "Acceptance Rate": 0.6990305944192692,
+      "Link": "https://leetcode.com/problems/parsing-a-boolean-expression",
+      "Topics": "String, Stack, Recursion"
+    }
+  ]
+}

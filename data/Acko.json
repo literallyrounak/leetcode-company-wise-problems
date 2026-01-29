@@ -1,0 +1,74 @@
+{
+  "1. Thirty Days": [],
+  "2. Three Months": [],
+  "3. Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Count All Valid Pickup and Delivery Options",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6487702325025283,
+      "Link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+      "Topics": "Math, Dynamic Programming, Combinatorics"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Fill Missing Data",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7231414467579705,
+      "Link": "https://leetcode.com/problems/fill-missing-data",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Parallel Courses III",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.6674963944974485,
+      "Link": "https://leetcode.com/problems/parallel-courses-iii",
+      "Topics": "Array, Dynamic Programming, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Invalid Tweets",
+      "Frequency": 89.6,
+      "Acceptance Rate": 0.8551287418798992,
+      "Link": "https://leetcode.com/problems/invalid-tweets",
+      "Topics": "Database"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "EASY",
+      "Title": "Fill Missing Data",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.7231414467579705,
+      "Link": "https://leetcode.com/problems/fill-missing-data",
+      "Topics": NaN
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Count All Valid Pickup and Delivery Options",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6487702325025283,
+      "Link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+      "Topics": "Math, Dynamic Programming, Combinatorics"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Parallel Courses III",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.6674963944974485,
+      "Link": "https://leetcode.com/problems/parallel-courses-iii",
+      "Topics": "Array, Dynamic Programming, Graph, Topological Sort"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Invalid Tweets",
+      "Frequency": 89.3,
+      "Acceptance Rate": 0.8551287418798992,
+      "Link": "https://leetcode.com/problems/invalid-tweets",
+      "Topics": "Database"
+    }
+  ]
+}

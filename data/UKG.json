@@ -1,0 +1,236 @@
+{
+  "1. Thirty Days": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Special Binary String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6351450158420667,
+      "Link": "https://leetcode.com/problems/special-binary-string",
+      "Topics": "String, Recursion"
+    }
+  ],
+  "2. Three Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Make a Positive Array",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3808630393996248,
+      "Link": "https://leetcode.com/problems/make-a-positive-array",
+      "Topics": "Array, Greedy, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Length of Anagram Concatenation",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3972463749502319,
+      "Link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Special Binary String",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.6351450158420667,
+      "Link": "https://leetcode.com/problems/special-binary-string",
+      "Topics": "String, Recursion"
+    }
+  ],
+  "3. Six Months": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count the Number of Good Subsequences",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.5057235104197241,
+      "Link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+      "Topics": "Hash Table, Math, String, Combinatorics, Counting"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Word",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.3872002241177207,
+      "Link": "https://leetcode.com/problems/valid-word",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Make a Positive Array",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.3808630393996248,
+      "Link": "https://leetcode.com/problems/make-a-positive-array",
+      "Topics": "Array, Greedy, Prefix Sum"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Length of Anagram Concatenation",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.3972463749502319,
+      "Link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Special Binary String",
+      "Frequency": 89.2,
+      "Acceptance Rate": 0.6351450158420667,
+      "Link": "https://leetcode.com/problems/special-binary-string",
+      "Topics": "String, Recursion"
+    }
+  ],
+  "4. More Than Six Months": [
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Area Rectangle With Point Constraints II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2059726486184761,
+      "Link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+      "Topics": "Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Area Rectangle With Point Constraints I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4969370433242305,
+      "Link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+      "Topics": "Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting, Enumeration"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Consecutive Sequence",
+      "Frequency": 73.6,
+      "Acceptance Rate": 0.4703938586415305,
+      "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "Topics": "Array, Hash Table, Union Find"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Special Binary String",
+      "Frequency": 73.6,
+      "Acceptance Rate": 0.6351450158420667,
+      "Link": "https://leetcode.com/problems/special-binary-string",
+      "Topics": "String, Recursion"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 73.6,
+      "Acceptance Rate": 0.5578041315978661,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 64.8,
+      "Acceptance Rate": 0.5526331434030223,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Angle Between Hands of a Clock",
+      "Frequency": 64.8,
+      "Acceptance Rate": 0.6421431484309058,
+      "Link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Length of Anagram Concatenation",
+      "Frequency": 64.8,
+      "Acceptance Rate": 0.3972463749502319,
+      "Link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+      "Topics": "Hash Table, String, Counting"
+    }
+  ],
+  "5. All": [
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Maximum Area Rectangle With Point Constraints I",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.4969370433242305,
+      "Link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+      "Topics": "Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting, Enumeration"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Maximum Area Rectangle With Point Constraints II",
+      "Frequency": 100.0,
+      "Acceptance Rate": 0.2059726486184761,
+      "Link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+      "Topics": "Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting"
+    },
+    {
+      "Difficulty": "HARD",
+      "Title": "Special Binary String",
+      "Frequency": 84.2,
+      "Acceptance Rate": 0.6351450158420667,
+      "Link": "https://leetcode.com/problems/special-binary-string",
+      "Topics": "String, Recursion"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Minimum Length of Anagram Concatenation",
+      "Frequency": 79.1,
+      "Acceptance Rate": 0.3972463749502319,
+      "Link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+      "Topics": "Hash Table, String, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Count the Number of Good Subsequences",
+      "Frequency": 79.1,
+      "Acceptance Rate": 0.5057235104197241,
+      "Link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+      "Topics": "Hash Table, Math, String, Combinatorics, Counting"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Longest Consecutive Sequence",
+      "Frequency": 72.5,
+      "Acceptance Rate": 0.4703938693880114,
+      "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "Topics": "Array, Hash Table, Union Find"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Two Sum",
+      "Frequency": 72.5,
+      "Acceptance Rate": 0.5578041456499886,
+      "Link": "https://leetcode.com/problems/two-sum",
+      "Topics": "Array, Hash Table"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Valid Word",
+      "Frequency": 72.5,
+      "Acceptance Rate": 0.3872002241177207,
+      "Link": "https://leetcode.com/problems/valid-word",
+      "Topics": "String"
+    },
+    {
+      "Difficulty": "EASY",
+      "Title": "Best Time to Buy and Sell Stock",
+      "Frequency": 63.3,
+      "Acceptance Rate": 0.5526331434030223,
+      "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "Topics": "Array, Dynamic Programming"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Angle Between Hands of a Clock",
+      "Frequency": 63.3,
+      "Acceptance Rate": 0.6421431484309058,
+      "Link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+      "Topics": "Math"
+    },
+    {
+      "Difficulty": "MEDIUM",
+      "Title": "Make a Positive Array",
+      "Frequency": 63.3,
+      "Acceptance Rate": 0.3808630393996248,
+      "Link": "https://leetcode.com/problems/make-a-positive-array",
+      "Topics": "Array, Greedy, Prefix Sum"
+    }
+  ]
+}
